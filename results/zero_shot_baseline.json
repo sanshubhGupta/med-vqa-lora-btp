@@ -1,0 +1,126 @@
+{
+  "accuracy": 0.65,
+  "n_samples": 20,
+  "results": [
+    {
+      "question": "What modality is used to take this image?",
+      "ground_truth": "CT",
+      "prediction": "CT",
+      "correct": true
+    },
+    {
+      "question": "Which part of the body does this image belong to?",
+      "ground_truth": "Chest",
+      "prediction": "chest",
+      "correct": true
+    },
+    {
+      "question": "What is the main organ in the image?",
+      "ground_truth": "Lung, Spinal Cord",
+      "prediction": "Lungs",
+      "correct": false
+    },
+    {
+      "question": "What is the largest organ in the picture?",
+      "ground_truth": "Lung",
+      "prediction": "Lung",
+      "correct": true
+    },
+    {
+      "question": "Does the picture contain liver?",
+      "ground_truth": "No",
+      "prediction": "No",
+      "correct": true
+    },
+    {
+      "question": "Does the picture contain lung?",
+      "ground_truth": "Yes",
+      "prediction": "Yes",
+      "correct": true
+    },
+    {
+      "question": "Does the picture contain heart?",
+      "ground_truth": "No",
+      "prediction": "No",
+      "correct": true
+    },
+    {
+      "question": "What diseases are included in the picture?",
+      "ground_truth": "Lung Cancer",
+      "prediction": "Pneumonia",
+      "correct": false
+    },
+    {
+      "question": "Is the lung healthy?",
+      "ground_truth": "No",
+      "prediction": "No",
+      "correct": true
+    },
+    {
+      "question": "Where is/are the abnormality located?",
+      "ground_truth": "Left Lung, Right",
+      "prediction": "Right Lung",
+      "correct": false
+    },
+    {
+      "question": "Which is the biggest in this image,lung,liver or heart?",
+      "ground_truth": "Lung",
+      "prediction": "Lung",
+      "correct": true
+    },
+    {
+      "question": "What modality is used to take this image?",
+      "ground_truth": "CT",
+      "prediction": "CT scan",
+      "correct": true
+    },
+    {
+      "question": "Which part of the body does this image belong to?",
+      "ground_truth": "Chest",
+      "prediction": "neck",
+      "correct": false
+    },
+    {
+      "question": "What is the main organ in the image?",
+      "ground_truth": "Lung",
+      "prediction": "Lungs",
+      "correct": true
+    },
+    {
+      "question": "What is the largest organ in the picture?",
+      "ground_truth": "Lung",
+      "prediction": "Lung",
+      "correct": true
+    },
+    {
+      "question": "Does the picture contain liver?",
+      "ground_truth": "No",
+      "prediction": "Yes",
+      "correct": false
+    },
+    {
+      "question": "Does the picture contain lung?",
+      "ground_truth": "Yes",
+      "prediction": "Yes",
+      "correct": true
+    },
+    {
+      "question": "What diseases are included in the picture?",
+      "ground_truth": "Lung Cancer",
+      "prediction": "Cancer",
+      "correct": true
+    },
+    {
+      "question": "Is the lung healthy?",
+      "ground_truth": "No",
+      "prediction": "Yes",
+      "correct": false
+    },
+    {
+      "question": "Where is/are the abnormality located?",
+      "ground_truth": "Left Lung, Right",
+      "prediction": "Right Lung",
+      "correct": false
+    }
+  ]
+}
