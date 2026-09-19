@@ -1,5 +1,5 @@
 {
-  "accuracy": 0.65,
+  "accuracy": 0.7,
   "n_samples": 20,
   "results": [
     {
@@ -95,8 +95,8 @@
     {
       "question": "Does the picture contain liver?",
       "ground_truth": "No",
-      "prediction": "Yes",
-      "correct": false
+      "prediction": "No",
+      "correct": true
     },
     {
       "question": "Does the picture contain lung?",
