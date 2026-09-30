@@ -1,0 +1,51 @@
+question,gt,pred,answer_type,content_type,exact,recall
+What modality is used to take this image?,CT,CT,OPEN,Modality,True,1.0
+Which part of the body does this image belong to?,Chest,chest,OPEN,Position,True,1.0
+What is the main organ in the image?,"Lung, Spinal Cord",Lungs,OPEN,Organ,False,0.3333333333333333
+What is the largest organ in the picture?,Lung,Lungs,OPEN,Size,True,1.0
+Does the picture contain liver?,No,No,CLOSED,Organ,True,1.0
+Does the picture contain lung?,Yes,Yes,CLOSED,Organ,True,1.0
+Does the picture contain heart?,No,No,CLOSED,Organ,True,1.0
+What diseases are included in the picture?,Lung Cancer,Pneumonia,OPEN,Abnormality,False,0.0
+Is the lung healthy?,No,No,CLOSED,Abnormality,True,1.0
+Where is/are the abnormality located?,"Left Lung, Right",Right Lung,OPEN,Position,False,0.6666666666666666
+"Which is the biggest in this image,lung,liver or heart?",Lung,Lung,CLOSED,Size,True,1.0
+What modality is used to take this image?,CT,CT,OPEN,Modality,True,1.0
+Which part of the body does this image belong to?,Chest,Abdomen,OPEN,Position,False,0.0
+What is the main organ in the image?,Lung,Spinal cord,OPEN,Organ,False,0.0
+What is the largest organ in the picture?,Lung,Lung,OPEN,Size,True,1.0
+Does the picture contain liver?,No,No,CLOSED,Organ,True,1.0
+Does the picture contain lung?,Yes,No,CLOSED,Organ,False,0.0
+What diseases are included in the picture?,Lung Cancer,Cancer,OPEN,Abnormality,False,0.5
+Is the lung healthy?,No,Yes,CLOSED,Abnormality,False,0.0
+Where is/are the abnormality located?,"Left Lung, Right",Chest,OPEN,Position,False,0.0
+"Which is the biggest in this image,lung,liver or heart?",Lung,Lung,CLOSED,Size,True,1.0
+What modality is used to take this image?,CT,CT,OPEN,Modality,True,1.0
+Which part of the body does this image belong to?,Chest,chest,OPEN,Position,True,1.0
+What is the main organ in the image?,Lung,Lung,OPEN,Organ,True,1.0
+What is the largest organ in the picture?,Lung,Lung,OPEN,Size,True,1.0
+Does the picture contain liver?,No,No,CLOSED,Organ,True,1.0
+Does the picture contain lung?,Yes,Yes,CLOSED,Organ,True,1.0
+Does the picture contain heart?,No,Yes,CLOSED,Organ,False,0.0
+What diseases are included in the picture?,Lung Cancer,Pneumonia,OPEN,Abnormality,False,0.0
+Is the lung healthy?,No,No,CLOSED,Abnormality,True,1.0
+Where is/are the abnormality located?,"Right Lung, Left",Right Lung,OPEN,Position,False,0.6666666666666666
+What modality is used to take this image?,X-Ray,X-ray,OPEN,Modality,True,1.0
+Which part of the body does this image belong to?,Chest,Chest,OPEN,Position,True,1.0
+What is the largest organ in the picture?,Lung,Lung,OPEN,Size,True,1.0
+What diseases are included in the picture?,Cardiomegaly,Pneumonia,OPEN,Abnormality,False,0.0
+Where is/are the abnormality located?,Center,Left Lung,OPEN,Position,False,0.0
+Are there abnormalities in this image?,Yes,Yes,CLOSED,Abnormality,True,1.0
+"Which organ is abnormal, heart or lung?",Heart,Lung,CLOSED,Abnormality,False,0.0
+What modality is used to take this image?,MRI,MRI,OPEN,Modality,True,1.0
+Which part of the body does this image belong to?,Abdomen,Liver,OPEN,Position,False,0.0
+What is the mr weighting in this image?,T2,T2,OPEN,Modality,True,1.0
+Is there any abnormality in the spleen?,No,Yes,CLOSED,Abnormality,False,0.0
+Does the liver look normal?,Yes,No,CLOSED,Abnormality,False,0.0
+Does the picture contain liver?,Yes,Yes,CLOSED,Organ,True,1.0
+Does the picture contain kidney?,No,Yes,CLOSED,Organ,False,0.0
+Does the picture contain spleen?,Yes,Yes,CLOSED,Organ,True,1.0
+What modality is used to take this image?,X-Ray,X-ray,OPEN,Modality,True,1.0
+Which part of the body does this image belong to?,Chest,chest,OPEN,Position,True,1.0
+Are there abnormalities in this image?,Yes,Yes,CLOSED,Abnormality,True,1.0
+What is the largest organ in the picture?,Lung,Lung,OPEN,Size,True,1.0

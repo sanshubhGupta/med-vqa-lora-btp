@@ -1,0 +1,2 @@
+question,gt,pred_before,answer_type,content_type,exact_before,recall_before,pred_after,exact_after,recall_after
+What is the mr weighting in this image?,T2,T2-weighted,OPEN,Modality,False,1.0,T2,True,1.0
