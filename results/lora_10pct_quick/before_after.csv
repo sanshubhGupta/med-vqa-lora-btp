@@ -1,0 +1,3 @@
+,n,closed_exact,open_exact,open_recall,overall_exact
+zero_shot,200.0,0.7561,0.6017,0.6977,0.665
+lora_10pct,200.0,0.7683,0.7119,0.7655,0.735

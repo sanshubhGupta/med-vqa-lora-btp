@@ -1,0 +1,9 @@
+question,gt,pred_before,answer_type,content_type,exact_before,recall_before,pred_after,exact_after,recall_after
+Does the picture contain heart?,No,No,CLOSED,Organ,True,1.0,Yes,False,0.0
+Does the picture contain spleen?,Yes,Yes,CLOSED,Organ,True,1.0,No,False,0.0
+Where is/are the abnormality located?,Right Lung,Right Lung,OPEN,Position,True,1.0,"Right Lung, Left",False,1.0
+Does the liver look normal ?,Yes,Yes,CLOSED,Abnormality,True,1.0,No,False,0.0
+Is the liver healthy?,Yes,Yes,CLOSED,Abnormality,True,1.0,No,False,0.0
+How many organs are there in this image?,4,4,OPEN,Quantity,True,1.0,5,False,0.0
+Is the liver healthy?,Yes,Yes,CLOSED,Abnormality,True,1.0,No,False,0.0
+Does the picture contain spleen?,Yes,Yes,CLOSED,Organ,True,1.0,No,False,0.0

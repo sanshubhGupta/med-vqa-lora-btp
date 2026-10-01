@@ -1,0 +1,29 @@
+{
+  "summary": {
+    "n": 200,
+    "closed_exact": 0.7683,
+    "open_exact": 0.7119,
+    "open_recall": 0.7655,
+    "overall_exact": 0.735
+  },
+  "by_content_type": {
+    "exact": {
+      "Abnormality": 0.627,
+      "Modality": 1.0,
+      "Organ": 0.698,
+      "Plane": 1.0,
+      "Position": 0.634,
+      "Quantity": 0.6,
+      "Size": 0.962
+    },
+    "recall": {
+      "Abnormality": 0.627,
+      "Modality": 1.0,
+      "Organ": 0.717,
+      "Plane": 1.0,
+      "Position": 0.768,
+      "Quantity": 0.6,
+      "Size": 0.962
+    }
+  }
+}

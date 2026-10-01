@@ -1,0 +1,23 @@
+question,gt,pred_before,answer_type,content_type,exact_before,recall_before,pred_after,exact_after,recall_after
+Is the lung healthy?,No,Yes,CLOSED,Abnormality,False,0.0,No,True,1.0
+Where is/are the abnormality located?,"Right Lung, Left",Right Lung,OPEN,Position,False,0.6666666666666666,"Right Lung, Left",True,1.0
+What diseases are included in the picture?,Cardiomegaly,Pneumonia,OPEN,Abnormality,False,0.0,Cardiomegaly,True,1.0
+"Which organ is abnormal, heart or lung?",Heart,Lung,CLOSED,Abnormality,False,0.0,Heart,True,1.0
+Which part of the body does this image belong to?,Abdomen,Liver,OPEN,Position,False,0.0,Abdomen,True,1.0
+What is the mr weighting in this image?,T2,T2-weighted,OPEN,Modality,False,1.0,T2,True,1.0
+Is there any abnormality in the spleen?,No,Yes,CLOSED,Abnormality,False,0.0,No,True,1.0
+Does the picture contain kidney?,No,Yes,CLOSED,Organ,False,0.0,No,True,1.0
+Where is/are the abnormality located?,"Right Lung, Left",Right Lung,OPEN,Position,False,0.6666666666666666,"Right Lung, Left",True,1.0
+Do the spleen look abnormal?,No,Yes,CLOSED,Abnormality,False,0.0,No,True,1.0
+Where is/are the abnormality located?,"Right Lung, Left",Right Lung,OPEN,Position,False,0.6666666666666666,"Right Lung, Left",True,1.0
+Where is the liver?,Left,Left side,OPEN,Position,False,1.0,Left,True,1.0
+What is the organ on the left side of this image?,Liver,Kidney,OPEN,Organ,False,0.0,Liver,True,1.0
+What modality is used to take this image?,CT,CT scan,OPEN,Modality,False,1.0,CT,True,1.0
+Which part of the body does this image belong to?,Abdomen,chest,OPEN,Position,False,0.0,Abdomen,True,1.0
+Does the picture contain spleen?,No,Yes,CLOSED,Organ,False,0.0,No,True,1.0
+What is the organ on the left side of this image?,Right Lung,Liver,OPEN,Organ,False,0.0,Right Lung,True,1.0
+Where is the liver?,Left,Left side,OPEN,Position,False,1.0,Left,True,1.0
+How many kidneys in this image?,0,2,OPEN,Quantity,False,0.0,0,True,1.0
+Does the picture contain kidney?,No,Yes,CLOSED,Organ,False,0.0,No,True,1.0
+Where is/are the abnormality located?,Liver,Left lung,OPEN,Position,False,0.0,Liver,True,1.0
+How many kidneys in this image?,0,2,OPEN,Quantity,False,0.0,0,True,1.0
