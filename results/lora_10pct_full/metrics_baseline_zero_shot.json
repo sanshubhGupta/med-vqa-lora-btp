@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "n": 1061,
+    "closed_exact": 0.7284,
+    "open_exact": 0.431,
+    "open_recall": 0.5103,
+    "overall_exact": 0.5476
+  },
+  "by_content_type": {
+    "exact": {
+      "Abnormality": 0.567,
+      "Color": 0.412,
+      "KG": 0.372,
+      "Modality": 0.796,
+      "Organ": 0.557,
+      "Plane": 0.741,
+      "Position": 0.366,
+      "Quantity": 0.635,
+      "Shape": 0.286,
+      "Size": 0.831
+    },
+    "recall": {
+      "Abnormality": 0.597,
+      "Color": 0.412,
+      "KG": 0.422,
+      "Modality": 0.861,
+      "Organ": 0.58,
+      "Plane": 0.81,
+      "Position": 0.513,
+      "Quantity": 0.635,
+      "Shape": 0.286,
+      "Size": 0.831
+    }
+  }
+}

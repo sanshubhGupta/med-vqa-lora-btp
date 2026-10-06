@@ -1,0 +1,177 @@
+question,gt,pred_before,answer_type,content_type,exact_before,recall_before,pred_after,exact_after,recall_after
+Is the lung healthy?,No,Yes,CLOSED,Abnormality,False,0.0,No,True,1.0
+Where is/are the abnormality located?,"Right Lung, Left",Right Lung,OPEN,Position,False,0.6666666666666666,"Right Lung, Left",True,1.0
+What diseases are included in the picture?,Cardiomegaly,Pneumonia,OPEN,Abnormality,False,0.0,Cardiomegaly,True,1.0
+"Which organ is abnormal, heart or lung?",Heart,Lung,CLOSED,Abnormality,False,0.0,Heart,True,1.0
+Which part of the body does this image belong to?,Abdomen,Liver,OPEN,Position,False,0.0,Abdomen,True,1.0
+What is the mr weighting in this image?,T2,T2-weighted,OPEN,Modality,False,1.0,T2,True,1.0
+Is there any abnormality in the spleen?,No,Yes,CLOSED,Abnormality,False,0.0,No,True,1.0
+Does the picture contain kidney?,No,Yes,CLOSED,Organ,False,0.0,No,True,1.0
+Where is/are the abnormality located?,"Right Lung, Left",Right Lung,OPEN,Position,False,0.6666666666666666,"Right Lung, Left",True,1.0
+Do the spleen look abnormal?,No,Yes,CLOSED,Abnormality,False,0.0,No,True,1.0
+Where is/are the abnormality located?,"Right Lung, Left",Right Lung,OPEN,Position,False,0.6666666666666666,"Right Lung, Left",True,1.0
+Where is the liver?,Left,Left side,OPEN,Position,False,1.0,Left,True,1.0
+What is the organ on the left side of this image?,Liver,Kidney,OPEN,Organ,False,0.0,Liver,True,1.0
+What modality is used to take this image?,CT,CT scan,OPEN,Modality,False,1.0,CT,True,1.0
+Which part of the body does this image belong to?,Abdomen,chest,OPEN,Position,False,0.0,Abdomen,True,1.0
+Does the picture contain spleen?,No,Yes,CLOSED,Organ,False,0.0,No,True,1.0
+What is the organ on the left side of this image?,Right Lung,Liver,OPEN,Organ,False,0.0,Right Lung,True,1.0
+Where is the liver?,Left,Left side,OPEN,Position,False,1.0,Left,True,1.0
+How many kidneys in this image?,0,2,OPEN,Quantity,False,0.0,0,True,1.0
+Does the picture contain kidney?,No,Yes,CLOSED,Organ,False,0.0,No,True,1.0
+Where is/are the abnormality located?,Liver,Left lung,OPEN,Position,False,0.0,Liver,True,1.0
+How many kidneys in this image?,0,2,OPEN,Quantity,False,0.0,0,True,1.0
+What is the rightmost organ in this image?,Spleen,Kidney,OPEN,Organ,False,0.0,Spleen,True,1.0
+What is the organ on the top of the body in this image?,Liver,Lung,OPEN,Organ,False,0.0,Liver,True,1.0
+Where is/are the abnormality located?,Liver,Left liver,OPEN,Position,False,1.0,Liver,True,1.0
+What is the organ on the lower right corner of this image?,Spleen,Kidney,OPEN,Organ,False,0.0,Spleen,True,1.0
+How many kidneys are there in this image?,0,2,OPEN,Quantity,False,0.0,0,True,1.0
+Does the picture contain kidney?,No,Yes,CLOSED,Organ,False,0.0,No,True,1.0
+Which part of the body does this image belong to?,Abdomen,chest,OPEN,Position,False,0.0,Abdomen,True,1.0
+What is the largest organ in the picture?,Lung,Liver,OPEN,Size,False,0.0,Lung,True,1.0
+Does the picture contain spleen?,No,Yes,CLOSED,Organ,False,0.0,No,True,1.0
+Where is the liver?,Upper Left,Left side,OPEN,Position,False,0.5,Upper Left,True,1.0
+How many kidneys in this image?,0,2,OPEN,Quantity,False,0.0,0,True,1.0
+What diseases are included in the picture?,Liver Cancer,Liver disease,OPEN,Abnormality,False,0.5,Liver Cancer,True,1.0
+Where is/are the abnormality located?,Liver,Left kidney,OPEN,Position,False,0.0,Liver,True,1.0
+What is the shape of the kidney in the picture?,Irregular,oval,OPEN,Shape,False,0.0,Irregular,True,1.0
+Does the picture contain kidney?,No,Yes,CLOSED,Organ,False,0.0,No,True,1.0
+Does the picture contain spleen?,No,Yes,CLOSED,Organ,False,0.0,No,True,1.0
+Where is the liver?,Left,Left side,OPEN,Position,False,1.0,Left,True,1.0
+Does the picture contain kidney?,No,Yes,CLOSED,Organ,False,0.0,No,True,1.0
+Does the picture contain kidney?,No,Yes,CLOSED,Organ,False,0.0,No,True,1.0
+Does the picture contain heart?,No,Yes,CLOSED,Organ,False,0.0,No,True,1.0
+How many kidneys in this image?,0,2,OPEN,Quantity,False,0.0,0,True,1.0
+What is the scanning plane of this image?,Coronal Plane,Transverse Plane,OPEN,Plane,False,0.5,Coronal Plane,True,1.0
+Which organ system is imaged?,Chest,Respiratory System,OPEN,Organ,False,0.0,Chest,True,1.0
+What color does the left lung show in the picture?,Black,Gray,OPEN,Color,False,0.0,Black,True,1.0
+What is the effect of the main organ in this picture?,Breathe,Respiration,OPEN,KG,False,0.0,Breathe,True,1.0
+What is the organ system visualized?,Chest,Respiratory System,OPEN,Organ,False,0.0,Chest,True,1.0
+What color does the left lung show in the picture?,Black,Gray,OPEN,Color,False,0.0,Black,True,1.0
+What is the function of the main organ in this picture?,Breathe,Respiratory,OPEN,KG,False,0.0,Breathe,True,1.0
+How much damage will be caused to the body taking such an image?,A Little,,OPEN,KG,False,0.0,Little,True,1.0
+What color does the right lung show in the picture?,Black,Gray,OPEN,Color,False,0.0,Black,True,1.0
+What is the scanning plane of this image?,Coronal Plane,AP,OPEN,Plane,False,0.0,Coronal Plane,True,1.0
+What organ system is primarily present in this image?,Chest,Respiratory System,OPEN,Organ,False,0.0,Chest,True,1.0
+What organ system is pictured?,Chest,Respiratory System,OPEN,Organ,False,0.0,Chest,True,1.0
+What color does the right lung show in the picture?,Black,Gray,OPEN,Color,False,0.0,Black,True,1.0
+What can the organ with black color in this image be used for?,Breathe,Respiration,OPEN,KG,False,0.0,Breathe,True,1.0
+Which organ system is imaged?,Chest,Respiratory System,OPEN,Organ,False,0.0,Chest,True,1.0
+What color does the left lung show in the picture?,Black,Dark,OPEN,Color,False,0.0,Black,True,1.0
+What is the function of the main organ in this picture?,Breathe,Respiratory,OPEN,KG,False,0.0,Breathe,True,1.0
+Where is the pulmonary infiltration in this image?,Lower Left Lung,Right Lung,OPEN,Position,False,0.3333333333333333,Lower Left Lung,True,1.0
+What organ system is pictured?,Chest,Respiratory System,OPEN,Organ,False,0.0,Chest,True,1.0
+What organ system is primarily present in this image?,Chest,Respiratory System,OPEN,Organ,False,0.0,Chest,True,1.0
+Does the lung look abnormal?,Yes,No,CLOSED,Abnormality,False,0.0,Yes,True,1.0
+Can pulmonary infiltration be observed on the upper right lung in this picture?,No,Yes,CLOSED,Abnormality,False,0.0,No,True,1.0
+What is the effect of the main organ in this picture?,Breathe,Respiration,OPEN,KG,False,0.0,Breathe,True,1.0
+What is the organ system visualized?,Chest,Respiratory System,OPEN,Organ,False,0.0,Chest,True,1.0
+Which organ system is imaged?,Chest,Respiratory System,OPEN,Organ,False,0.0,Chest,True,1.0
+What color does the right lung show in the picture?,Black,Gray,OPEN,Color,False,0.0,Black,True,1.0
+What is the function of the main organ in this picture?,Breathe,Respiratory,OPEN,KG,False,0.0,Breathe,True,1.0
+Which organ system is imaged?,Chest,Respiratory System,OPEN,Organ,False,0.0,Chest,True,1.0
+What organ system is pictured?,Chest,Respiratory,OPEN,Organ,False,0.0,Chest,True,1.0
+What is the function of the main organ in this picture?,Breathe,Respiratory,OPEN,KG,False,0.0,Breathe,True,1.0
+What organ system is pictured?,Chest,Respiratory System,OPEN,Organ,False,0.0,Chest,True,1.0
+Which organ system is imaged?,Chest,Respiratory System,OPEN,Organ,False,0.0,Chest,True,1.0
+What color is the lung in the picture?,Black,Gray,OPEN,Color,False,0.0,Black,True,1.0
+What scanning plane does this image belong to?,Coronal Plane,Axial,OPEN,Plane,False,0.0,Coronal Plane,True,1.0
+Do the organs in the image exist in the abdomen?,No,Yes,CLOSED,Position,False,0.0,No,True,1.0
+What organ system is pictured?,Chest,Respiratory System,OPEN,Organ,False,0.0,Chest,True,1.0
+Which organ system is imaged?,Chest,Respiratory System,OPEN,Organ,False,0.0,Chest,True,1.0
+What color is the lung in the picture?,Black,Gray,OPEN,Color,False,0.0,Black,True,1.0
+In what plane is this image scanned?,Coronal Plane,Transverse Plane,OPEN,Plane,False,0.5,Coronal Plane,True,1.0
+What organ system is pictured?,Chest,Respiratory System,OPEN,Organ,False,0.0,Chest,True,1.0
+Can nodule be observed on the lower right lung in this picture?,No,Yes,CLOSED,Abnormality,False,0.0,No,True,1.0
+What color is the lung in the picture?,Black,Gray,OPEN,Color,False,0.0,Black,True,1.0
+What is the function of the main organ in this picture?,Breathe,Respiratory,OPEN,KG,False,0.0,Breathe,True,1.0
+What scanning plane does this image belong to?,Coronal Plane,Axial,OPEN,Plane,False,0.0,Coronal Plane,True,1.0
+What is the organ system visualized?,Chest,Respiratory System,OPEN,Organ,False,0.0,Chest,True,1.0
+What color does the right lung show in the picture?,Black,Gray,OPEN,Color,False,0.0,Black,True,1.0
+Which part do the organs in this image locate from the aspect of the whole body?,Chest,Thorax,OPEN,Position,False,0.0,Chest,True,1.0
+Which organ system is imaged?,Chest,Respiratory System,OPEN,Organ,False,0.0,Chest,True,1.0
+Does the lung look abnormal?,Yes,No,CLOSED,Abnormality,False,0.0,Yes,True,1.0
+What color is the lung in the picture?,Black,Gray,OPEN,Color,False,0.0,Black,True,1.0
+What is the function of the main organ in this picture?,Breathe,Respiratory,OPEN,KG,False,0.0,Breathe,True,1.0
+Which side of lung is abnormal in this image?,Right,Left,OPEN,Position,False,0.0,Right,True,1.0
+What is the organ system visualized?,Chest,Respiratory System,OPEN,Organ,False,0.0,Chest,True,1.0
+What color is the lung in the picture?,Black,Gray,OPEN,Color,False,0.0,Black,True,1.0
+What can the organ with black color in this image be used for?,Breathe,Respiration,OPEN,KG,False,0.0,Breathe,True,1.0
+Which organ system is imaged?,Chest,Respiratory System,OPEN,Organ,False,0.0,Chest,True,1.0
+What can the organ with black color in this image be used for?,Breathe,Respiration,OPEN,KG,False,0.0,Breathe,True,1.0
+What scanning plane does this image belong to?,Coronal Plane,Axial,OPEN,Plane,False,0.0,Coronal Plane,True,1.0
+Where is the heart in this image?,Center,Middle of chest,OPEN,Position,False,0.0,Center,True,1.0
+What color does the left lung show in the picture?,Black,Gray,OPEN,Color,False,0.0,Black,True,1.0
+What is the effect of the main organ in this picture?,Breathe,Respiration,OPEN,KG,False,0.0,Breathe,True,1.0
+How many ears are shown in this image?,0,2,OPEN,Quantity,False,0.0,0,True,1.0
+How much damage will be caused to the body taking such an image?,Much,none,OPEN,KG,False,0.0,Much,True,1.0
+What is the organ system visualized?,Head,head and neck,OPEN,Organ,False,1.0,Head,True,1.0
+What organ system is primarily present in this image?,Head,head and neck,OPEN,Organ,False,1.0,Head,True,1.0
+What is the organ system visualized?,Head,Head and neck,OPEN,Organ,False,1.0,Head,True,1.0
+What organ system is primarily present in this image?,Neck,Respiratory System,OPEN,Organ,False,0.0,Neck,True,1.0
+What color do the trachea show in the picture?,Black,White,OPEN,Color,False,0.0,Black,True,1.0
+Which organs/organ in the picture belong to the respiratory system?,Trachea,Lungs,OPEN,KG,False,0.0,Trachea,True,1.0
+Does the picture contain the organ that could be used for detoxicating?,No,yes,CLOSED,KG,False,0.0,No,True,1.0
+Are/Is there kidneys in the picture?,No,Yes,CLOSED,Organ,False,0.0,No,True,1.0
+Does the picture contain the organ which has the effect of discharging waste?,No,yes,CLOSED,KG,False,0.0,No,True,1.0
+Which organ system is imaged?,Head,Brain,OPEN,Organ,False,0.0,Head,True,1.0
+Is this an MRI image with T1 weighted?,No,Yes,CLOSED,Modality,False,0.0,No,True,1.0
+Where does the picture show?,Head,brain,OPEN,Position,False,0.0,Head,True,1.0
+Which organ system is imaged?,Head,Brain,OPEN,Organ,False,0.0,Head,True,1.0
+Is the brain healthy?,No,"No, it is not healthy.",CLOSED,Abnormality,False,1.0,No,True,1.0
+Where does the picture show?,Head,brain,OPEN,Position,False,0.0,Head,True,1.0
+What organ system is primarily present in this image?,Head,Brain,OPEN,Organ,False,0.0,Head,True,1.0
+What is the scanning plane of this image?,Transverse Plane,Transverse,OPEN,Plane,False,0.5,Transverse Plane,True,1.0
+Where is the brain edema?,Left Lobe,Left hemisphere,OPEN,Position,False,0.5,Left Lobe,True,1.0
+Is this a T1 weighted or T2 weighted MRI image?,T2,T2 weighted,CLOSED,Modality,False,1.0,T2,True,1.0
+Is this a coronal section?,No,Yes,CLOSED,Plane,False,0.0,No,True,1.0
+Is this a coronal section?,No,Yes,CLOSED,Plane,False,0.0,No,True,1.0
+Which part of the body does this image belong to?,Head,Brain,OPEN,Position,False,0.0,Head,True,1.0
+Is this a T1 weighted or T2 weighted MRI image?,T2,T2 weighted,CLOSED,Modality,False,1.0,T2,True,1.0
+Which organ system is imaged?,Head,Brain,OPEN,Organ,False,0.0,Head,True,1.0
+Is this sagittal plane?,No,Yes,CLOSED,Plane,False,0.0,No,True,1.0
+In what plane is this image scanned?,Transverse Plane,Transverse,OPEN,Plane,False,0.5,Transverse Plane,True,1.0
+Which part of the human body is the organ located in the image?,Head,brain,OPEN,Position,False,0.0,Head,True,1.0
+In what plane is this image scanned?,Transverse Plane,Transverse,OPEN,Plane,False,0.5,Transverse Plane,True,1.0
+Where does the image represent in the body?,Head,Brain,OPEN,Position,False,0.0,Head,True,1.0
+What is the scanning plane of this image?,Transverse Plane,Transverse,OPEN,Plane,False,0.5,Transverse Plane,True,1.0
+What organ system is primarily present in this image?,Head,Brain,OPEN,Organ,False,0.0,Head,True,1.0
+What is the scanning plane of this image?,Transverse Plane,Transverse,OPEN,Plane,False,0.5,Transverse Plane,True,1.0
+How many kinds of abnormalities are there in this image?,2,1,OPEN,Quantity,False,0.0,2,True,1.0
+What organ system is pictured?,Head,Brain,OPEN,Organ,False,0.0,Head,True,1.0
+Which part do the organs in this image locate from the aspect of the whole body?,Head,brain,OPEN,Position,False,0.0,Head,True,1.0
+Which organ system is imaged?,Head,Brain,OPEN,Organ,False,0.0,Head,True,1.0
+What organ is the gray part on the left of the image?,Liver,Kidney,OPEN,Organ,False,0.0,Liver,True,1.0
+How much damage will be caused to the body taking such an image?,Much,,OPEN,KG,False,0.0,Much,True,1.0
+Does the picture contain the organ that could be used for secreting enzymes?,No,Yes,CLOSED,KG,False,0.0,No,True,1.0
+Which organ system is imaged?,Abdomen,Abdominal,OPEN,Organ,False,0.0,Abdomen,True,1.0
+What is the function of the organs appearing in pairs in the picture?,Breathe,breathing,OPEN,KG,False,0.0,Breathe,True,1.0
+Are there some organs controlling heartbeat and breathing in this image?,No,yes,CLOSED,KG,False,0.0,No,True,1.0
+How many kidneys have existed in this image?,0,2,OPEN,Quantity,False,0.0,0,True,1.0
+Does the picture contain the organ that could receive sound?,No,yes,CLOSED,KG,False,0.0,No,True,1.0
+Does the stomach appear in the image?,No,Yes,CLOSED,Organ,False,0.0,No,True,1.0
+How much damage will be caused to the body taking such an image?,Much,,OPEN,KG,False,0.0,Much,True,1.0
+Are there organs in the picture that can digest food?,No,Yes,CLOSED,KG,False,0.0,No,True,1.0
+What diseases are included in the picture?,"Brain Tumor, Brain Edema",Alzheimer's disease,OPEN,Abnormality,False,0.0,"Brain Tumor, Brain Edema",True,1.0
+Is the brain healthy?,No,"No, it is not healthy.",CLOSED,Abnormality,False,1.0,No,True,1.0
+Which part of the body does this image belong to?,Abdomen,chest,OPEN,Position,False,0.0,Abdomen,True,1.0
+Does the picture contain stomach?,No,Yes,CLOSED,Organ,False,0.0,No,True,1.0
+How much damage will be caused to the body taking such an image?,Much,none,OPEN,KG,False,0.0,Much,True,1.0
+Does the picture contain the organ which has the effect of gas delivery?,No,Yes,CLOSED,KG,False,0.0,No,True,1.0
+In what plane is this image scanned?,Transverse Plane,Transverse,OPEN,Plane,False,0.5,Transverse Plane,True,1.0
+Does the picture contain spinal cord?,Yes,No,CLOSED,Organ,False,0.0,Yes,True,1.0
+What color is the lung in this image?,Black,Gray,OPEN,Color,False,0.0,Black,True,1.0
+Does the parotid appear in the image?,No,Yes,CLOSED,Organ,False,0.0,No,True,1.0
+"Which is smaller in this image, bladder or rectum?",Rectum,bladder,CLOSED,Size,False,0.0,Rectum,True,1.0
+Does the picture contain the organ which has the effect of discharging waste?,No,Yes,CLOSED,KG,False,0.0,No,True,1.0
+Which part do the organs in this image locate from the aspect of the whole body?,Pelvic Cavity,abdomen,OPEN,Position,False,0.0,Pelvic Cavity,True,1.0
+Does the picture contain the organ which has the effect of detoxicating?,No,Yes,CLOSED,KG,False,0.0,No,True,1.0
+How was this image taken?,CT,CT scan,OPEN,Modality,False,1.0,CT,True,1.0
+"Which is bigger in this image, small bowel or colon?",Small Bowel,Colon,CLOSED,Size,False,0.0,Small bowel,True,1.0
+Where is colon in this image?,Upper Left,Left side,OPEN,Position,False,0.5,Upper Left,True,1.0
+What is the mr weighting in this image?,T2,T1,OPEN,Modality,False,0.0,T2,True,1.0
+What modality is used to take this image?,CT,CT scan,OPEN,Modality,False,1.0,CT,True,1.0
+Does the picture contain heart?,No,Yes,CLOSED,Organ,False,0.0,No,True,1.0
+What modality is used to take this image?,CT,CT Scan,OPEN,Modality,False,1.0,CT,True,1.0
+Does the picture contain heart?,Yes,No,CLOSED,Organ,False,0.0,Yes,True,1.0
+Does the picture contain liver?,No,Yes,CLOSED,Organ,False,0.0,No,True,1.0
