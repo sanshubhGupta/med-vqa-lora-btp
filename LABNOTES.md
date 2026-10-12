@@ -5,3 +5,7 @@
 - Gain decomposition (overall): total 0.123 [0.097, 0.150] | gain with blank image 0.103 [0.077, 0.128] | change in visual benefit 0.021 [-0.014, 0.054]
 - Image sensitivity (answer changes when image blanked): base 0.789 [0.759, 0.818] | lora 0.690 [0.667, 0.713]
 - Files: results/wp3_full/*.csv, wp3_counterfactuals.png
+
+## 2026-10-12 - slake_img10_s42
+- 45 training images / 502 questions, 3 epochs, lr 0.0002, seed 42; train 95.8 min, peak 5.0 GB
+- test (n=1061): overall 0.6758 [0.6495, 0.7011], closed 0.8005, open 0.5953
