@@ -1,0 +1,1062 @@
+i,img_name,question,gt,pred,answer_type,content_type,exact,recall
+0,xmlab102/source.jpg,What modality is used to take this image?,CT,CT,OPEN,Modality,1.0,1.0
+1,xmlab102/source.jpg,Which part of the body does this image belong to?,Chest,Chest,OPEN,Position,1.0,1.0
+2,xmlab102/source.jpg,What is the main organ in the image?,"Lung, Spinal Cord",Lung,OPEN,Organ,0.0,0.3333333333333333
+3,xmlab102/source.jpg,What is the largest organ in the picture?,Lung,Lung,OPEN,Size,1.0,1.0
+4,xmlab102/source.jpg,Does the picture contain liver?,No,No,CLOSED,Organ,1.0,1.0
+5,xmlab102/source.jpg,Does the picture contain lung?,Yes,Yes,CLOSED,Organ,1.0,1.0
+6,xmlab102/source.jpg,Does the picture contain heart?,No,Yes,CLOSED,Organ,0.0,0.0
+7,xmlab102/source.jpg,What diseases are included in the picture?,Lung Cancer,Pneumonia,OPEN,Abnormality,0.0,0.0
+8,xmlab102/source.jpg,Is the lung healthy?,No,No,CLOSED,Abnormality,1.0,1.0
+9,xmlab102/source.jpg,Where is/are the abnormality located?,"Left Lung, Right",Left Lung,OPEN,Position,0.0,0.6666666666666666
+10,xmlab102/source.jpg,"Which is the biggest in this image,lung,liver or heart?",Lung,Lung,CLOSED,Size,1.0,1.0
+11,xmlab103/source.jpg,What modality is used to take this image?,CT,CT,OPEN,Modality,1.0,1.0
+12,xmlab103/source.jpg,Which part of the body does this image belong to?,Chest,Abdomen,OPEN,Position,0.0,0.0
+13,xmlab103/source.jpg,What is the main organ in the image?,Lung,Abdominal Aorta,OPEN,Organ,0.0,0.0
+14,xmlab103/source.jpg,What is the largest organ in the picture?,Lung,Lung,OPEN,Size,1.0,1.0
+15,xmlab103/source.jpg,Does the picture contain liver?,No,No,CLOSED,Organ,1.0,1.0
+16,xmlab103/source.jpg,Does the picture contain lung?,Yes,Yes,CLOSED,Organ,1.0,1.0
+17,xmlab103/source.jpg,What diseases are included in the picture?,Lung Cancer,Lung Cancer,OPEN,Abnormality,1.0,1.0
+18,xmlab103/source.jpg,Is the lung healthy?,No,Yes,CLOSED,Abnormality,0.0,0.0
+19,xmlab103/source.jpg,Where is/are the abnormality located?,"Left Lung, Right",Chest,OPEN,Position,0.0,0.0
+20,xmlab103/source.jpg,"Which is the biggest in this image,lung,liver or heart?",Lung,Lung,CLOSED,Size,1.0,1.0
+21,xmlab105/source.jpg,What modality is used to take this image?,CT,CT,OPEN,Modality,1.0,1.0
+22,xmlab105/source.jpg,Which part of the body does this image belong to?,Chest,Chest,OPEN,Position,1.0,1.0
+23,xmlab105/source.jpg,What is the main organ in the image?,Lung,Lung,OPEN,Organ,1.0,1.0
+24,xmlab105/source.jpg,What is the largest organ in the picture?,Lung,Lung,OPEN,Size,1.0,1.0
+25,xmlab105/source.jpg,Does the picture contain liver?,No,No,CLOSED,Organ,1.0,1.0
+26,xmlab105/source.jpg,Does the picture contain lung?,Yes,Yes,CLOSED,Organ,1.0,1.0
+27,xmlab105/source.jpg,Does the picture contain heart?,No,Yes,CLOSED,Organ,0.0,0.0
+28,xmlab105/source.jpg,What diseases are included in the picture?,Lung Cancer,Pneumonia,OPEN,Abnormality,0.0,0.0
+29,xmlab105/source.jpg,Is the lung healthy?,No,No,CLOSED,Abnormality,1.0,1.0
+30,xmlab105/source.jpg,Where is/are the abnormality located?,"Right Lung, Left",Right Lung,OPEN,Position,0.0,0.6666666666666666
+31,xmlab124/source.jpg,What modality is used to take this image?,X-Ray,X-Ray,OPEN,Modality,1.0,1.0
+32,xmlab124/source.jpg,Which part of the body does this image belong to?,Chest,Chest,OPEN,Position,1.0,1.0
+33,xmlab124/source.jpg,What is the largest organ in the picture?,Lung,Lung,OPEN,Size,1.0,1.0
+34,xmlab124/source.jpg,What diseases are included in the picture?,Cardiomegaly,Pneumonia,OPEN,Abnormality,0.0,0.0
+35,xmlab124/source.jpg,Where is/are the abnormality located?,Center,"Left Lung, Right",OPEN,Position,0.0,0.0
+36,xmlab124/source.jpg,Are there abnormalities in this image?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+37,xmlab124/source.jpg,"Which organ is abnormal, heart or lung?",Heart,Lung,CLOSED,Abnormality,0.0,0.0
+38,xmlab13/source.jpg,What modality is used to take this image?,MRI,MRI,OPEN,Modality,1.0,1.0
+39,xmlab13/source.jpg,Which part of the body does this image belong to?,Abdomen,Abdomen,OPEN,Position,1.0,1.0
+40,xmlab13/source.jpg,What is the mr weighting in this image?,T2,T2,OPEN,Modality,1.0,1.0
+41,xmlab13/source.jpg,Is there any abnormality in the spleen?,No,No,CLOSED,Abnormality,1.0,1.0
+42,xmlab13/source.jpg,Does the liver look normal?,Yes,No,CLOSED,Abnormality,0.0,0.0
+43,xmlab13/source.jpg,Does the picture contain liver?,Yes,Yes,CLOSED,Organ,1.0,1.0
+44,xmlab13/source.jpg,Does the picture contain kidney?,No,No,CLOSED,Organ,1.0,1.0
+45,xmlab13/source.jpg,Does the picture contain spleen?,Yes,No,CLOSED,Organ,0.0,0.0
+46,xmlab130/source.jpg,What modality is used to take this image?,X-Ray,X-Ray,OPEN,Modality,1.0,1.0
+47,xmlab130/source.jpg,Which part of the body does this image belong to?,Chest,Chest,OPEN,Position,1.0,1.0
+48,xmlab130/source.jpg,Are there abnormalities in this image?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+49,xmlab130/source.jpg,What is the largest organ in the picture?,Lung,Lung,OPEN,Size,1.0,1.0
+50,xmlab130/source.jpg,What diseases are included in the picture?,Pneumonia,Pneumonia,OPEN,Abnormality,1.0,1.0
+51,xmlab130/source.jpg,Where is/are the abnormality located?,"Left Lung, Lower Right",Chest,OPEN,Position,0.0,0.0
+52,xmlab130/source.jpg,Does the lung look healthy?,No,No,CLOSED,Abnormality,1.0,1.0
+53,xmlab135/source.jpg,What modality is used to take this image?,X-Ray,X-Ray,OPEN,Modality,1.0,1.0
+54,xmlab135/source.jpg,Which part of the body does this image belong to?,Chest,Chest,OPEN,Position,1.0,1.0
+55,xmlab135/source.jpg,Are there abnormalities in this image?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+56,xmlab135/source.jpg,What is the largest organ in the picture?,Lung,Lung,OPEN,Size,1.0,1.0
+57,xmlab135/source.jpg,What diseases are included in the picture?,Cardiomegaly,Pneumonia,OPEN,Abnormality,0.0,0.0
+58,xmlab135/source.jpg,Where is/are the abnormality located?,Center,"Left Lung, Right",OPEN,Position,0.0,0.0
+59,xmlab135/source.jpg,"Which organ is abnormal, heart or lung?",Heart,Lung,CLOSED,Abnormality,0.0,0.0
+60,xmlab142/source.jpg,What modality is used to take this image?,X-Ray,X-Ray,OPEN,Modality,1.0,1.0
+61,xmlab142/source.jpg,Which part of the body does this image belong to?,Chest,Chest,OPEN,Position,1.0,1.0
+62,xmlab142/source.jpg,Are there abnormalities in this image?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+63,xmlab142/source.jpg,What is the largest organ in the picture?,Lung,Lung,OPEN,Size,1.0,1.0
+64,xmlab142/source.jpg,What diseases are included in the picture?,Cardiomegaly,Pneumonia,OPEN,Abnormality,0.0,0.0
+65,xmlab142/source.jpg,Where is/are the abnormality located?,Center,"Left Lung, Right",OPEN,Position,0.0,0.0
+66,xmlab142/source.jpg,"Which organ is abnormal, heart or lung?",Heart,Lung,CLOSED,Abnormality,0.0,0.0
+67,xmlab147/source.jpg,What modality is used to take this image?,X-Ray,X-Ray,OPEN,Modality,1.0,1.0
+68,xmlab147/source.jpg,Which part of the body does this image belong to?,Chest,Chest,OPEN,Position,1.0,1.0
+69,xmlab147/source.jpg,Are there abnormalities in this image?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+70,xmlab147/source.jpg,What is the largest organ in the picture?,Lung,Lung,OPEN,Size,1.0,1.0
+71,xmlab147/source.jpg,What diseases are included in the picture?,"Atelectasis, Mass",Pneumonia,OPEN,Abnormality,0.0,0.0
+72,xmlab147/source.jpg,Where is/are the abnormality located?,Right Lung,Left Lung,OPEN,Position,0.0,0.5
+73,xmlab147/source.jpg,Is the lung healthy?,No,No,CLOSED,Abnormality,1.0,1.0
+74,xmlab147/source.jpg,"Which organ is abnormal, heart or lung?",Lung,Lung,CLOSED,Abnormality,1.0,1.0
+75,xmlab148/source.jpg,What modality is used to take this image?,X-Ray,X-Ray,OPEN,Modality,1.0,1.0
+76,xmlab148/source.jpg,Which part of the body does this image belong to?,Chest,Chest,OPEN,Position,1.0,1.0
+77,xmlab148/source.jpg,Are there abnormalities in this image?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+78,xmlab148/source.jpg,What is the largest organ in the picture?,Lung,Lung,OPEN,Size,1.0,1.0
+79,xmlab148/source.jpg,What diseases are included in the picture?,Cardiomegaly,Pneumonia,OPEN,Abnormality,0.0,0.0
+80,xmlab148/source.jpg,Where is/are the abnormality located?,Center,"Left Lung, Right",OPEN,Position,0.0,0.0
+81,xmlab148/source.jpg,"Which organ is abnormal, heart or lung?",Heart,Lung,CLOSED,Abnormality,0.0,0.0
+82,xmlab152/source.jpg,What modality is used to take this image?,X-Ray,X-Ray,OPEN,Modality,1.0,1.0
+83,xmlab152/source.jpg,Which part of the body does this image belong to?,Chest,Chest,OPEN,Position,1.0,1.0
+84,xmlab152/source.jpg,Are there abnormalities in this image?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+85,xmlab152/source.jpg,What is the largest organ in the picture?,Lung,Lung,OPEN,Size,1.0,1.0
+86,xmlab152/source.jpg,What diseases are included in the picture?,Cardiomegaly,Pneumonia,OPEN,Abnormality,0.0,0.0
+87,xmlab152/source.jpg,Where is/are the abnormality located?,Center,"Left Lung, Right",OPEN,Position,0.0,0.0
+88,xmlab152/source.jpg,"Which organ is abnormal, heart or lung?",Heart,Lung,CLOSED,Abnormality,0.0,0.0
+89,xmlab159/source.jpg,What modality is used to take this image?,X-Ray,X-Ray,OPEN,Modality,1.0,1.0
+90,xmlab159/source.jpg,Which part of the body does this image belong to?,Chest,Chest,OPEN,Position,1.0,1.0
+91,xmlab159/source.jpg,Does this image look normal?,No,No,CLOSED,Abnormality,1.0,1.0
+92,xmlab159/source.jpg,What is the largest organ in the picture?,Lung,Lung,OPEN,Size,1.0,1.0
+93,xmlab159/source.jpg,What diseases are included in the picture?,Nodule,Pneumonia,OPEN,Abnormality,0.0,0.0
+94,xmlab159/source.jpg,Where is/are the abnormality located?,"Left Lung, Right","Left Lung, Right",OPEN,Position,1.0,1.0
+95,xmlab159/source.jpg,Is the lung healthy?,No,No,CLOSED,Abnormality,1.0,1.0
+96,xmlab159/source.jpg,"Which organ is abnormal, heart or lung?",Lung,Lung,CLOSED,Abnormality,1.0,1.0
+97,xmlab160/source.jpg,What modality is used to take this image?,X-Ray,X-Ray,OPEN,Modality,1.0,1.0
+98,xmlab160/source.jpg,Which part of the body does this image belong to?,Chest,Chest,OPEN,Position,1.0,1.0
+99,xmlab160/source.jpg,What is the largest organ in the picture?,Lung,Lung,OPEN,Size,1.0,1.0
+100,xmlab160/source.jpg,What diseases are included in the picture?,Nodule,Pneumonia,OPEN,Abnormality,0.0,0.0
+101,xmlab160/source.jpg,Where is/are the abnormality located?,"Right Lung, Left","Left Lung, Right",OPEN,Position,0.0,1.0
+102,xmlab160/source.jpg,Does this image look normal?,No,No,CLOSED,Abnormality,1.0,1.0
+103,xmlab160/source.jpg,Is the lung healthy?,No,No,CLOSED,Abnormality,1.0,1.0
+104,xmlab160/source.jpg,"Which organ is abnormal, heart or lung?",Lung,Lung,CLOSED,Abnormality,1.0,1.0
+105,xmlab169/source.jpg,What modality is used to take this image?,X-Ray,X-Ray,OPEN,Modality,1.0,1.0
+106,xmlab169/source.jpg,Which part of the body does this image belong to?,Chest,Chest,OPEN,Position,1.0,1.0
+107,xmlab169/source.jpg,Does this image look normal?,No,No,CLOSED,Abnormality,1.0,1.0
+108,xmlab169/source.jpg,What is the largest organ in the picture?,Lung,Lung,OPEN,Size,1.0,1.0
+109,xmlab169/source.jpg,What diseases are included in the picture?,Atelectasis,Pneumonia,OPEN,Abnormality,0.0,0.0
+110,xmlab169/source.jpg,Where is/are the abnormality located?,"Right Lung, Lower Left",Left Lung,OPEN,Position,0.0,0.5
+111,xmlab169/source.jpg,Is the lung healthy?,No,No,CLOSED,Abnormality,1.0,1.0
+112,xmlab169/source.jpg,"Which organ is abnormal, heart or lung?",Lung,Lung,CLOSED,Abnormality,1.0,1.0
+113,xmlab173/source.jpg,What modality is used to take this image?,X-Ray,X-Ray,OPEN,Modality,1.0,1.0
+114,xmlab173/source.jpg,Which part of the body does this image belong to?,Chest,Chest,OPEN,Position,1.0,1.0
+115,xmlab173/source.jpg,What is the largest organ in the picture?,Lung,Lung,OPEN,Size,1.0,1.0
+116,xmlab173/source.jpg,What diseases are included in the picture?,Pneumonia,Pneumonia,OPEN,Abnormality,1.0,1.0
+117,xmlab173/source.jpg,Where is/are the abnormality located?,"Left Lung, Right","Left Lung, Right",OPEN,Position,1.0,1.0
+118,xmlab173/source.jpg,Is the lung healthy?,No,No,CLOSED,Abnormality,1.0,1.0
+119,xmlab173/source.jpg,Are there abnormalities in this image?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+120,xmlab173/source.jpg,"Which organ is abnormal, heart or lung?",Lung,Lung,CLOSED,Abnormality,1.0,1.0
+121,xmlab18/source.jpg,What modality is used to take this image?,MRI,MRI,OPEN,Modality,1.0,1.0
+122,xmlab18/source.jpg,Which part of the body does this image belong to?,Abdomen,Abdomen,OPEN,Position,1.0,1.0
+123,xmlab18/source.jpg,What is the mr weighting in this image?,T2,T2,OPEN,Modality,1.0,1.0
+124,xmlab18/source.jpg,How many kidneys are there in this image?,1,0,OPEN,Quantity,0.0,0.0
+125,xmlab18/source.jpg,What is the largest organ in the picture?,Liver,Liver,OPEN,Size,1.0,1.0
+126,xmlab18/source.jpg,Does the picture contain liver?,Yes,Yes,CLOSED,Organ,1.0,1.0
+127,xmlab18/source.jpg,Does the picture contain kidney?,Yes,No,CLOSED,Organ,0.0,0.0
+128,xmlab18/source.jpg,Does the picture contain spleen?,Yes,Yes,CLOSED,Organ,1.0,1.0
+129,xmlab18/source.jpg,Does the liver look normal ?,Yes,No,CLOSED,Abnormality,0.0,0.0
+130,xmlab18/source.jpg,Does the kidney look abnormal?,No,Yes,CLOSED,Abnormality,0.0,0.0
+131,xmlab18/source.jpg,Do the spleen look abnormal?,No,Yes,CLOSED,Abnormality,0.0,0.0
+132,xmlab185/source.jpg,What modality is used to take this image?,X-Ray,X-Ray,OPEN,Modality,1.0,1.0
+133,xmlab185/source.jpg,Which part of the body does this image belong to?,Chest,Chest,OPEN,Position,1.0,1.0
+134,xmlab185/source.jpg,Does this image look abnormal?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+135,xmlab185/source.jpg,What is the largest organ in the picture?,Lung,Lung,OPEN,Size,1.0,1.0
+136,xmlab185/source.jpg,What diseases are included in the picture?,Pneumothorax,Pneumonia,OPEN,Abnormality,0.0,0.0
+137,xmlab185/source.jpg,Where is/are the abnormality located?,"Right Lung, Left","Left Lung, Right",OPEN,Position,0.0,1.0
+138,xmlab185/source.jpg,Is the lung healthy?,No,No,CLOSED,Abnormality,1.0,1.0
+139,xmlab185/source.jpg,Are there abnormalities in this image?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+140,xmlab185/source.jpg,"Which organ is abnormal, heart or lung?",Lung,Lung,CLOSED,Abnormality,1.0,1.0
+141,xmlab208/source.jpg,What modality is used to take this image?,CT,CT,OPEN,Modality,1.0,1.0
+142,xmlab208/source.jpg,Which part of the body does this image belong to?,Abdomen,Abdomen,OPEN,Position,1.0,1.0
+143,xmlab208/source.jpg,What is the largest organ in the picture?,Liver,Liver,OPEN,Size,1.0,1.0
+144,xmlab208/source.jpg,Does the picture contain liver?,Yes,Yes,CLOSED,Organ,1.0,1.0
+145,xmlab208/source.jpg,Does the picture contain kidney?,Yes,Yes,CLOSED,Organ,1.0,1.0
+146,xmlab208/source.jpg,Does the picture contain spleen?,No,Yes,CLOSED,Organ,0.0,0.0
+147,xmlab208/source.jpg,Does the picture contain lung?,No,No,CLOSED,Organ,1.0,1.0
+148,xmlab208/source.jpg,Does the picture contain heart?,No,No,CLOSED,Organ,1.0,1.0
+149,xmlab208/source.jpg,Where is the liver?,Left,Left,OPEN,Position,1.0,1.0
+150,xmlab208/source.jpg,How many kidneys in this image?,2,2,OPEN,Quantity,1.0,1.0
+151,xmlab208/source.jpg,Is the liver healthy?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+152,xmlab208/source.jpg,"Which is bigger in this image, kidney or liver?",Liver,Liver,CLOSED,Size,1.0,1.0
+153,xmlab208/source.jpg,What is the organ located in the lower right corner of the body in this image?,Left Kidney,Spleen,OPEN,Organ,0.0,0.0
+154,xmlab208/source.jpg,What is the organ on the left side of this image?,Liver,Liver,OPEN,Organ,1.0,1.0
+155,xmlab208/source.jpg,What is the scanning plane of this image?,Transverse  Plane,Transverse  Plane,OPEN,Plane,1.0,1.0
+156,xmlab219/source.jpg,What modality is used to take this image?,CT,CT,OPEN,Modality,1.0,1.0
+157,xmlab219/source.jpg,Which part of the body does this image belong to?,Abdomen,Abdomen,OPEN,Position,1.0,1.0
+158,xmlab219/source.jpg,Does this image look normal?,Yes,No,CLOSED,Abnormality,0.0,0.0
+159,xmlab219/source.jpg,How many organs are there in this image?,4,5,OPEN,Quantity,0.0,0.0
+160,xmlab219/source.jpg,What is the largest organ in the picture?,Lung,Lung,OPEN,Size,1.0,1.0
+161,xmlab219/source.jpg,Does the picture contain liver?,Yes,Yes,CLOSED,Organ,1.0,1.0
+162,xmlab219/source.jpg,Does the picture contain kidney?,No,No,CLOSED,Organ,1.0,1.0
+163,xmlab219/source.jpg,Does the picture contain spleen?,No,No,CLOSED,Organ,1.0,1.0
+164,xmlab219/source.jpg,Does the picture contain lung?,Yes,Yes,CLOSED,Organ,1.0,1.0
+165,xmlab219/source.jpg,Does the picture contain heart?,Yes,Yes,CLOSED,Organ,1.0,1.0
+166,xmlab219/source.jpg,Where is the liver?,Top,Top Left,OPEN,Position,0.0,1.0
+167,xmlab219/source.jpg,Is the liver healthy?,Yes,No,CLOSED,Abnormality,0.0,0.0
+168,xmlab219/source.jpg,"Which is the biggest in this image, lung,heart or liver?",Lung,Lung,CLOSED,Size,1.0,1.0
+169,xmlab219/source.jpg,What is the rightmost organ in this image?,Left Lung,Right Lung,OPEN,Organ,0.0,0.5
+170,xmlab219/source.jpg,What is the organ on the left side of this image?,Right Lung,Left Lung,OPEN,Organ,0.0,0.5
+171,xmlab219/source.jpg,What is the scanning plane of this image?,Transverse  Plane,Transverse  Plane,OPEN,Plane,1.0,1.0
+172,xmlab224/source.jpg,What modality is used to take this image?,CT,CT,OPEN,Modality,1.0,1.0
+173,xmlab224/source.jpg,Which part of the body does this image belong to?,Abdomen,Abdomen,OPEN,Position,1.0,1.0
+174,xmlab224/source.jpg,What is the largest organ in the picture?,Liver,Liver,OPEN,Size,1.0,1.0
+175,xmlab224/source.jpg,Does the picture contain liver?,Yes,Yes,CLOSED,Organ,1.0,1.0
+176,xmlab224/source.jpg,Does the picture contain kidney?,No,No,CLOSED,Organ,1.0,1.0
+177,xmlab224/source.jpg,Does the picture contain spleen?,Yes,Yes,CLOSED,Organ,1.0,1.0
+178,xmlab224/source.jpg,Does the picture contain lung?,Yes,Yes,CLOSED,Organ,1.0,1.0
+179,xmlab224/source.jpg,Does the picture contain heart?,No,Yes,CLOSED,Organ,0.0,0.0
+180,xmlab224/source.jpg,Where is the liver?,Left,Left,OPEN,Position,1.0,1.0
+181,xmlab224/source.jpg,How many kidneys in this image?,0,0,OPEN,Quantity,1.0,1.0
+182,xmlab224/source.jpg,"Which is the biggest in this image, spleen,lung, or liver?",Liver,Liver,CLOSED,Size,1.0,1.0
+183,xmlab224/source.jpg,What is the organ on the left side of this image?,Liver,Liver,OPEN,Organ,1.0,1.0
+184,xmlab224/source.jpg,What is the organ on the lower right corner of the body in this image?,Spleen,Liver,OPEN,Organ,0.0,0.0
+185,xmlab224/source.jpg,What is the scanning plane of this image?,Transverse  Plane,Transverse  Plane,OPEN,Plane,1.0,1.0
+186,xmlab234/source.jpg,What modality is used to take this image?,CT,CT,OPEN,Modality,1.0,1.0
+187,xmlab234/source.jpg,Which part of the body does this image belong to?,Abdomen,Abdomen,OPEN,Position,1.0,1.0
+188,xmlab234/source.jpg,What is the largest organ in the picture?,Liver,Liver,OPEN,Size,1.0,1.0
+189,xmlab234/source.jpg,Does the picture contain liver?,Yes,Yes,CLOSED,Organ,1.0,1.0
+190,xmlab234/source.jpg,Does the picture contain kidney?,No,No,CLOSED,Organ,1.0,1.0
+191,xmlab234/source.jpg,Does the picture contain spleen?,Yes,Yes,CLOSED,Organ,1.0,1.0
+192,xmlab234/source.jpg,What diseases are included in the picture?,Liver Cancer,Liver Cancer,OPEN,Abnormality,1.0,1.0
+193,xmlab234/source.jpg,Where is the liver?,Left and top,Left,OPEN,Position,0.0,0.3333333333333333
+194,xmlab234/source.jpg,Where is/are the abnormality located?,Liver,Liver,OPEN,Position,1.0,1.0
+195,xmlab234/source.jpg,How many kidneys in this image?,0,0,OPEN,Quantity,1.0,1.0
+196,xmlab234/source.jpg,"Which is bigger in this image, kidney or spleen?",Liver,Spleen,CLOSED,Size,0.0,0.0
+197,xmlab234/source.jpg,What is the organ on the left side of this image?,Liver,Liver,OPEN,Organ,1.0,1.0
+198,xmlab234/source.jpg,Does this image look normal?,No,No,CLOSED,Abnormality,1.0,1.0
+199,xmlab234/source.jpg,Does the picture contain lung?,No,Yes,CLOSED,Organ,0.0,0.0
+200,xmlab234/source.jpg,Does the picture contain heart?,No,No,CLOSED,Organ,1.0,1.0
+201,xmlab234/source.jpg,What is the rightmost organ in this image?,Spleen,Spleen,OPEN,Organ,1.0,1.0
+202,xmlab234/source.jpg,What is the organ on the top of the body in this image?,Liver,Liver,OPEN,Organ,1.0,1.0
+203,xmlab234/source.jpg,What is the scanning plane of this image?,Transverse  Plane,Transverse  Plane,OPEN,Plane,1.0,1.0
+204,xmlab235/source.jpg,What modality is used to take this image?,CT,CT,OPEN,Modality,1.0,1.0
+205,xmlab235/source.jpg,Which part of the body does this image belong to?,Abdomen,Abdomen,OPEN,Position,1.0,1.0
+206,xmlab235/source.jpg,What is the largest organ in the picture?,Liver,Liver,OPEN,Size,1.0,1.0
+207,xmlab235/source.jpg,Does the picture contain liver?,Yes,Yes,CLOSED,Organ,1.0,1.0
+208,xmlab235/source.jpg,Does the picture contain kidney?,No,No,CLOSED,Organ,1.0,1.0
+209,xmlab235/source.jpg,Does the picture contain spleen?,Yes,No,CLOSED,Organ,0.0,0.0
+210,xmlab235/source.jpg,Where is the liver?,Left and top,Left,OPEN,Position,0.0,0.3333333333333333
+211,xmlab235/source.jpg,Where is/are the abnormality located?,Liver,Liver,OPEN,Position,1.0,1.0
+212,xmlab235/source.jpg,How many kidneys in this image?,2,0,OPEN,Quantity,0.0,0.0
+213,xmlab235/source.jpg,Does this image look normal?,No,No,CLOSED,Abnormality,1.0,1.0
+214,xmlab235/source.jpg,Does the picture contain lung?,Yes,No,CLOSED,Organ,0.0,0.0
+215,xmlab235/source.jpg,Does the picture contain heart?,No,No,CLOSED,Organ,1.0,1.0
+216,xmlab235/source.jpg,"Which is bigger in this image, liver or spleen?",Spleen,Liver,CLOSED,Size,0.0,0.0
+217,xmlab235/source.jpg,What is the organ on the lower right corner of this image?,Spleen,Spleen,OPEN,Organ,1.0,1.0
+218,xmlab235/source.jpg,What is the organ on the top of the body in this image?,Liver,Liver,OPEN,Organ,1.0,1.0
+219,xmlab235/source.jpg,What is the scanning plane of this image?,Transverse  Plane,Transverse  Plane,OPEN,Plane,1.0,1.0
+220,xmlab24/source.jpg,What modality is used to take this image?,MRI,MRI,OPEN,Modality,1.0,1.0
+221,xmlab24/source.jpg,Which part of the body does this image belong to?,Abdomen,Abdomen,OPEN,Position,1.0,1.0
+222,xmlab24/source.jpg,What is the mr weighting in this image?,T1,T2,OPEN,Modality,0.0,0.0
+223,xmlab24/source.jpg,How many kidneys are there in this image?,0,0,OPEN,Quantity,1.0,1.0
+224,xmlab24/source.jpg,Does the picture contain liver?,Yes,Yes,CLOSED,Organ,1.0,1.0
+225,xmlab24/source.jpg,Does the picture contain kidney?,No,No,CLOSED,Organ,1.0,1.0
+226,xmlab24/source.jpg,Does the picture contain spleen?,Yes,No,CLOSED,Organ,0.0,0.0
+227,xmlab25/source.jpg,What modality is used to take this image?,MRI,MRI,OPEN,Modality,1.0,1.0
+228,xmlab25/source.jpg,Which part of the body does this image belong to?,Abdomen,Chest,OPEN,Position,0.0,0.0
+229,xmlab25/source.jpg,What is the mr weighting in this image?,T1,T2,OPEN,Modality,0.0,0.0
+230,xmlab25/source.jpg,Does the picture contain liver?,No,No,CLOSED,Organ,1.0,1.0
+231,xmlab25/source.jpg,Does the picture contain kidney?,No,No,CLOSED,Organ,1.0,1.0
+232,xmlab25/source.jpg,Does the picture contain spleen?,No,No,CLOSED,Organ,1.0,1.0
+233,xmlab25/source.jpg,Where is the liver?,Not seen,Left,OPEN,Position,0.0,0.0
+234,xmlab25/source.jpg,How many kidneys in this image?,0,0,OPEN,Quantity,1.0,1.0
+235,xmlab25/source.jpg,What is the organ on the left side of this image?,Lung,Right Lung,OPEN,Organ,0.0,1.0
+236,xmlab250/source.jpg,What modality is used to take this image?,CT,CT,OPEN,Modality,1.0,1.0
+237,xmlab250/source.jpg,Which part of the body does this image belong to?,Abdomen,Abdomen,OPEN,Position,1.0,1.0
+238,xmlab250/source.jpg,Does this image look normal?,No,No,CLOSED,Abnormality,1.0,1.0
+239,xmlab250/source.jpg,What is the largest organ in the picture?,Lung,Lung,OPEN,Size,1.0,1.0
+240,xmlab250/source.jpg,Does the picture contain liver?,Yes,Yes,CLOSED,Organ,1.0,1.0
+241,xmlab250/source.jpg,Does the picture contain kidney?,No,No,CLOSED,Organ,1.0,1.0
+242,xmlab250/source.jpg,Does the picture contain spleen?,No,No,CLOSED,Organ,1.0,1.0
+243,xmlab250/source.jpg,Does the picture contain lung?,Yes,Yes,CLOSED,Organ,1.0,1.0
+244,xmlab250/source.jpg,Does the picture contain heart?,Yes,Yes,CLOSED,Organ,1.0,1.0
+245,xmlab250/source.jpg,What diseases are included in the picture?,Liver Cancer,Liver Cancer,OPEN,Abnormality,1.0,1.0
+246,xmlab250/source.jpg,Where is the liver?,Upper Left,Left,OPEN,Position,0.0,0.5
+247,xmlab250/source.jpg,Where is/are the abnormality located?,Liver,Left Lung,OPEN,Position,0.0,0.0
+248,xmlab250/source.jpg,How many kidneys in this image?,0,0,OPEN,Quantity,1.0,1.0
+249,xmlab250/source.jpg,"Which is bigger in this image, liver or heart?",Liver,Liver,CLOSED,Size,1.0,1.0
+250,xmlab250/source.jpg,What organ is the gray part on the left of the image?,Liver,Liver,OPEN,Organ,1.0,1.0
+251,xmlab250/source.jpg,What organ is the black part on the left of the image?,Right Lung,Liver,OPEN,Organ,0.0,0.0
+252,xmlab250/source.jpg,What is the organ on the top of the body in this image?,Heart and Liver,Heart,OPEN,Organ,0.0,0.3333333333333333
+253,xmlab250/source.jpg,What is the scanning plane of this image?,Transverse  Plane,Transverse  Plane,OPEN,Plane,1.0,1.0
+254,xmlab250/source.jpg,What are the white points in the black part of the body?,Pulmonary bronchus,Spine,OPEN,Organ,0.0,0.0
+255,xmlab250/source.jpg,Which is the kidney?,Symmetrical to the bone marrow,None,OPEN,Position,0.0,0.0
+256,xmlab252/source.jpg,What modality is used to take this image?,CT,CT,OPEN,Modality,1.0,1.0
+257,xmlab252/source.jpg,Which part of the body does this image belong to?,Abdomen,Abdomen,OPEN,Position,1.0,1.0
+258,xmlab252/source.jpg,Does this image look normal?,No,No,CLOSED,Abnormality,1.0,1.0
+259,xmlab252/source.jpg,What is the largest organ in the picture?,Liver,Liver,OPEN,Size,1.0,1.0
+260,xmlab252/source.jpg,Does the picture contain liver?,Yes,Yes,CLOSED,Organ,1.0,1.0
+261,xmlab252/source.jpg,Does the picture contain kidney?,Yes,Yes,CLOSED,Organ,1.0,1.0
+262,xmlab252/source.jpg,Does the picture contain spleen?,Yes,Yes,CLOSED,Organ,1.0,1.0
+263,xmlab252/source.jpg,Does the picture contain lung?,No,No,CLOSED,Organ,1.0,1.0
+264,xmlab252/source.jpg,Does the picture contain heart?,No,No,CLOSED,Organ,1.0,1.0
+265,xmlab252/source.jpg,What diseases are included in the picture?,Liver Cancer,Liver Cancer,OPEN,Abnormality,1.0,1.0
+266,xmlab252/source.jpg,Where is/are the abnormality located?,Liver,Liver,OPEN,Position,1.0,1.0
+267,xmlab252/source.jpg,How many kidneys in this image?,2,2,OPEN,Quantity,1.0,1.0
+268,xmlab252/source.jpg,"Which is bigger in this image, kidney or spleen?",Spleen,Spleen,CLOSED,Size,1.0,1.0
+269,xmlab252/source.jpg,What organ is the gray part on the left of the image?,Liver,Liver,OPEN,Organ,1.0,1.0
+270,xmlab252/source.jpg,What is the scanning plane of this image?,Transverse  Plane,Transverse  Plane,OPEN,Plane,1.0,1.0
+271,xmlab252/source.jpg,What is the shape of the kidney in the picture?,Irregular,Oval,OPEN,Shape,0.0,0.0
+272,xmlab252/source.jpg,Which is the kidney?,Symmetrical to the bone marrow,Right,OPEN,Position,0.0,0.0
+273,xmlab253/source.jpg,What modality is used to take this image?,CT,CT,OPEN,Modality,1.0,1.0
+274,xmlab253/source.jpg,Which part of the body does this image belong to?,Abdomen,Abdomen,OPEN,Position,1.0,1.0
+275,xmlab253/source.jpg,Does this image look normal?,Yes,No,CLOSED,Abnormality,0.0,0.0
+276,xmlab253/source.jpg,What is the largest organ in the picture?,Liver,Liver,OPEN,Size,1.0,1.0
+277,xmlab253/source.jpg,Does the picture contain liver?,Yes,Yes,CLOSED,Organ,1.0,1.0
+278,xmlab253/source.jpg,Does the picture contain kidney?,No,No,CLOSED,Organ,1.0,1.0
+279,xmlab253/source.jpg,Does the picture contain spleen?,No,No,CLOSED,Organ,1.0,1.0
+280,xmlab253/source.jpg,Does the picture contain lung?,Yes,Yes,CLOSED,Organ,1.0,1.0
+281,xmlab253/source.jpg,Does the picture contain heart?,No,Yes,CLOSED,Organ,0.0,0.0
+282,xmlab253/source.jpg,Where is the liver?,Left,Left,OPEN,Position,1.0,1.0
+283,xmlab253/source.jpg,What organ is the gray part on the left of the image?,Liver,Liver,OPEN,Organ,1.0,1.0
+284,xmlab253/source.jpg,What organ is the black part on the left of the image?,Right Lung,Liver,OPEN,Organ,0.0,0.0
+285,xmlab253/source.jpg,What is the scanning plane of this image?,Transverse  Plane,Transverse  Plane,OPEN,Plane,1.0,1.0
+286,xmlab253/source.jpg,What are the white spots in the black part of the lower part of body?,Pulmonary bronchus,Bowel gas,OPEN,Organ,0.0,0.0
+287,xmlab264/source.jpg,What modality is used to take this image?,CT,CT,OPEN,Modality,1.0,1.0
+288,xmlab264/source.jpg,Which part of the body does this image belong to?,Abdomen,Abdomen,OPEN,Position,1.0,1.0
+289,xmlab264/source.jpg,What is the largest organ in the picture?,Small Bowel,Liver,OPEN,Size,0.0,0.0
+290,xmlab264/source.jpg,Does the picture contain liver?,No,Yes,CLOSED,Organ,0.0,0.0
+291,xmlab264/source.jpg,Does the picture contain kidney?,Yes,Yes,CLOSED,Organ,1.0,1.0
+292,xmlab264/source.jpg,Does the picture contain spleen?,No,Yes,CLOSED,Organ,0.0,0.0
+293,xmlab264/source.jpg,Does the picture contain lung?,No,No,CLOSED,Organ,1.0,1.0
+294,xmlab264/source.jpg,Does the picture contain heart?,No,No,CLOSED,Organ,1.0,1.0
+295,xmlab264/source.jpg,How many kidneys in this image?,2,2,OPEN,Quantity,1.0,1.0
+296,xmlab264/source.jpg,What is the rightmost organ in this image?,Large Bowel,Spleen,OPEN,Organ,0.0,0.0
+297,xmlab264/source.jpg,What organ is the gray part on the left of the image?,Large Bowel,Liver,OPEN,Organ,0.0,0.0
+298,xmlab264/source.jpg,What is the organ on the top of the body in this image?,Small Bowel,Liver,OPEN,Organ,0.0,0.0
+299,xmlab264/source.jpg,What is the scanning plane of this image?,Transverse  Plane,Transverse  Plane,OPEN,Plane,1.0,1.0
+300,xmlab264/source.jpg,Which is the kidney?,Symmetrical to the bone marrow,Right,OPEN,Position,0.0,0.0
+301,xmlab269/source.jpg,What modality is used to take this image?,CT,CT,OPEN,Modality,1.0,1.0
+302,xmlab269/source.jpg,Which part of the body does this image belong to?,Abdomen,Abdomen,OPEN,Position,1.0,1.0
+303,xmlab269/source.jpg,What is the largest organ in the picture?,Liver,Liver,OPEN,Size,1.0,1.0
+304,xmlab269/source.jpg,Does the picture contain liver?,Yes,Yes,CLOSED,Organ,1.0,1.0
+305,xmlab269/source.jpg,Does the picture contain kidney?,No,No,CLOSED,Organ,1.0,1.0
+306,xmlab269/source.jpg,Does the picture contain spleen?,Yes,Yes,CLOSED,Organ,1.0,1.0
+307,xmlab269/source.jpg,Does the picture contain lung?,Yes,Yes,CLOSED,Organ,1.0,1.0
+308,xmlab269/source.jpg,Does the picture contain heart?,No,No,CLOSED,Organ,1.0,1.0
+309,xmlab269/source.jpg,What is the rightmost organ in this image?,Large Bowel,Right Lung,OPEN,Organ,0.0,0.0
+310,xmlab269/source.jpg,What organ is the gray part on the left of the image?,Liver,Liver,OPEN,Organ,1.0,1.0
+311,xmlab269/source.jpg,What organ is the black part on the left of the image?,Right Lung,Liver,OPEN,Organ,0.0,0.0
+312,xmlab269/source.jpg,What is the organ on the top of the body in this image?,Stomach,Liver,OPEN,Organ,0.0,0.0
+313,xmlab269/source.jpg,What is the scanning plane of this image?,Transverse  Plane,Transverse  Plane,OPEN,Plane,1.0,1.0
+314,xmlab269/source.jpg,What organ is the black hole in the upper right corner?,Large Bowel,Right Lung,OPEN,Organ,0.0,0.0
+315,xmlab274/source.jpg,What modality is used to take this image?,CT,CT,OPEN,Modality,1.0,1.0
+316,xmlab274/source.jpg,Which part of the body does this image belong to?,Abdomen,Abdomen,OPEN,Position,1.0,1.0
+317,xmlab274/source.jpg,What is the largest organ in the picture?,Liver,Liver,OPEN,Size,1.0,1.0
+318,xmlab274/source.jpg,Does the picture contain liver?,Yes,Yes,CLOSED,Organ,1.0,1.0
+319,xmlab274/source.jpg,Does the picture contain kidney?,No,No,CLOSED,Organ,1.0,1.0
+320,xmlab274/source.jpg,Does the picture contain spleen?,Yes,Yes,CLOSED,Organ,1.0,1.0
+321,xmlab274/source.jpg,Does the picture contain lung?,Yes,Yes,CLOSED,Organ,1.0,1.0
+322,xmlab274/source.jpg,Does the picture contain heart?,No,No,CLOSED,Organ,1.0,1.0
+323,xmlab274/source.jpg,How many kidneys in this image?,0,0,OPEN,Quantity,1.0,1.0
+324,xmlab274/source.jpg,"Which is bigger in this image, liver or spleen?",Liver,Liver,CLOSED,Size,1.0,1.0
+325,xmlab274/source.jpg,What is the rightmost organ in this image?,Large Bowel,Spleen,OPEN,Organ,0.0,0.0
+326,xmlab274/source.jpg,What organ is the gray part on the left of the image?,Liver,Liver,OPEN,Organ,1.0,1.0
+327,xmlab274/source.jpg,What organ is the black part on the left of the image?,Right Lung,Liver,OPEN,Organ,0.0,0.0
+328,xmlab274/source.jpg,What is the scanning plane of this image?,Transverse  Plane,Transverse  Plane,OPEN,Plane,1.0,1.0
+329,xmlab274/source.jpg,What organ is the black hole in the upper right corner?,Large Bowel,Right Lung,OPEN,Organ,0.0,0.0
+330,xmlab299/source.jpg,What type of medical image is this?,X-Ray,X-Ray,OPEN,Modality,1.0,1.0
+331,xmlab299/source.jpg,What is the scanning plane of this image?,Coronal Plane,Coronal Plane,OPEN,Plane,1.0,1.0
+332,xmlab299/source.jpg,Which part do the organs in this image locate from the aspect of the whole body?,Chest,Chest,OPEN,Position,1.0,1.0
+333,xmlab299/source.jpg,"Which side of lung is abnormal in this image,left or right?",Right,Left,CLOSED,Position,0.0,0.0
+334,xmlab299/source.jpg,What part of the lung is the pneumothorax located in?,Upper Right Lung,Right Lung,OPEN,Position,0.0,0.6666666666666666
+335,xmlab299/source.jpg,Which organ system is imaged?,Chest,Chest,OPEN,Organ,1.0,1.0
+336,xmlab299/source.jpg,Which organs appear in pairs?,Lung,Lung,OPEN,Organ,1.0,1.0
+337,xmlab299/source.jpg,Is/Are there abnormalities in the patient's right lung?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+338,xmlab299/source.jpg,Is this image normal?,No,No,CLOSED,Abnormality,1.0,1.0
+339,xmlab299/source.jpg,Can pneumothorax be observed on the lower left lung in this picture?,No,Yes,CLOSED,Abnormality,0.0,0.0
+340,xmlab299/source.jpg,What color does the left lung show in the picture?,Black,Black,OPEN,Color,1.0,1.0
+341,xmlab299/source.jpg,How many lungs are shown in this image?,2,2,OPEN,Quantity,1.0,1.0
+342,xmlab299/source.jpg,What is the effect of the main organ in this picture?,Breathe,Breathe,OPEN,KG,1.0,1.0
+343,xmlab299/source.jpg,What kind of symptoms will the disease on the upper right of lung bring to the patient?,"Chest pain, dyspnea","Coughing, bloody sputum, shortness of breath, chest pain",OPEN,KG,0.0,0.6666666666666666
+344,xmlab299/source.jpg,Which organs/organ in the picture belong to the respiratory system?,Lung,Lung,OPEN,KG,1.0,1.0
+345,xmlab304/source.jpg,What imaging modality was used?,X-Ray,X-Ray,OPEN,Modality,1.0,1.0
+346,xmlab304/source.jpg,Is this a transverse plane?,No,No,CLOSED,Plane,1.0,1.0
+347,xmlab304/source.jpg,Which part of the human body is the organ located in the image?,Chest,Chest,OPEN,Position,1.0,1.0
+348,xmlab304/source.jpg,Where is the abnormality in this image?,Lower Right Lung,"Right Lung, Left Side",OPEN,Position,0.0,0.6666666666666666
+349,xmlab304/source.jpg,Where is the atelectasis in this image?,Lower Right Lung,Upper Left Lung,OPEN,Position,0.0,0.3333333333333333
+350,xmlab304/source.jpg,What is the organ system visualized?,Chest,Chest,OPEN,Organ,1.0,1.0
+351,xmlab304/source.jpg,Is this a study of the chest?,Yes,Yes,CLOSED,Organ,1.0,1.0
+352,xmlab304/source.jpg,What disease is/are shown on the right of lung?,Atelectasis,Pneumonia,OPEN,Abnormality,0.0,0.0
+353,xmlab304/source.jpg,Is/Are there abnormalities in the patient's right lung?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+354,xmlab304/source.jpg,Can atelectasis be observed on the upper right lung in this picture?,No,Yes,CLOSED,Abnormality,0.0,0.0
+355,xmlab304/source.jpg,What color does the left lung show in the picture?,Black,Black,OPEN,Color,1.0,1.0
+356,xmlab304/source.jpg,How many existing lungs in this image?,2,2,OPEN,Quantity,1.0,1.0
+357,xmlab304/source.jpg,What is the function of the main organ in this picture?,Breathe,"Breathe, Defend, Circulate",OPEN,KG,0.0,1.0
+358,xmlab304/source.jpg,What is the main cause of the disease on the lower right of the lung in the picture?,Bronchial obstruction,"Infection, tumor, etc.",OPEN,KG,0.0,0.0
+359,xmlab304/source.jpg,Which organs/organ in the picture belong to the circulatory system?,Heart,Heart,OPEN,KG,1.0,1.0
+360,xmlab311/source.jpg,Is this image taken via X-Ray?,Yes,Yes,CLOSED,Modality,1.0,1.0
+361,xmlab311/source.jpg,Is this a transverse plane?,No,No,CLOSED,Plane,1.0,1.0
+362,xmlab311/source.jpg,Which part of the body does this image belong to?,Chest,Chest,OPEN,Position,1.0,1.0
+363,xmlab311/source.jpg,"Which side of lung is abnormal in this image,left or right?",Left,Left,CLOSED,Position,1.0,1.0
+364,xmlab311/source.jpg,Where is the mass in this image?,Lower Left Lung,Right Lung,OPEN,Position,0.0,0.3333333333333333
+365,xmlab311/source.jpg,Is this a study of the chest?,Yes,Yes,CLOSED,Organ,1.0,1.0
+366,xmlab311/source.jpg,Is this a study of the pelvic cavity?,No,No,CLOSED,Organ,1.0,1.0
+367,xmlab311/source.jpg,What disease is/are shown on the left of lung?,Pulmonary Mass,Pneumonia,OPEN,Abnormality,0.0,0.0
+368,xmlab311/source.jpg,Is the lung abnormal?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+369,xmlab311/source.jpg,Can mass be observed on the lower left lung in this picture?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+370,xmlab311/source.jpg,What color is the lung in the picture?,Black,Black,OPEN,Color,1.0,1.0
+371,xmlab311/source.jpg,How many existing heart in this image?,1,1,OPEN,Quantity,1.0,1.0
+372,xmlab311/source.jpg,How much damage will be caused to the body taking such an image?,A Little,A Little,OPEN,KG,1.0,1.0
+373,xmlab311/source.jpg,How to prevent the occurrence of the disease on the lower left lobe of lung in this image?,Keep healthy,"Avoid smoking, strengthen physical fitness, and exercise more",OPEN,KG,0.0,0.0
+374,xmlab311/source.jpg,Which organs/organ in the picture belong to the circulatory system?,Heart,Heart,OPEN,KG,1.0,1.0
+375,xmlab312/source.jpg,What type of medical image is this?,X-Ray,X-Ray,OPEN,Modality,1.0,1.0
+376,xmlab312/source.jpg,Is this a coronal section?,Yes,Yes,CLOSED,Plane,1.0,1.0
+377,xmlab312/source.jpg,Which part of the body does this image belong to?,Chest,Chest,OPEN,Position,1.0,1.0
+378,xmlab312/source.jpg,Where is the abnormality in this image?,Lower Left Lung,"Right Lung, Left Side",OPEN,Position,0.0,0.6666666666666666
+379,xmlab312/source.jpg,Where is the atelectasis in this image?,Lower Left Lung,Lower Left Lung,OPEN,Position,1.0,1.0
+380,xmlab312/source.jpg,Is this a study of the neck?,No,No,CLOSED,Organ,1.0,1.0
+381,xmlab312/source.jpg,What is the main organ in the image?,Lung,Lung,OPEN,Organ,1.0,1.0
+382,xmlab312/source.jpg,Does the patient have any abnormalities?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+383,xmlab312/source.jpg,Is this image normal?,No,No,CLOSED,Abnormality,1.0,1.0
+384,xmlab312/source.jpg,Can atelectasis be observed on the lower left lung in this picture?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+385,xmlab312/source.jpg,What color does the right lung show in the picture?,Black,Black,OPEN,Color,1.0,1.0
+386,xmlab312/source.jpg,How many lungs are shown in this image?,2,2,OPEN,Quantity,1.0,1.0
+387,xmlab312/source.jpg,How much damage will be caused to the body taking such an image?,A Little,A Little,OPEN,KG,1.0,1.0
+388,xmlab312/source.jpg,How to treat the disease located on the left of lung in this image?,"Physical therapy, surgical treatment","Medication, Surgery, Bronchoscopy",OPEN,KG,0.0,0.0
+389,xmlab312/source.jpg,Which organs/organ in the picture belong to the respiratory system?,Lung,"Lung, Pleura",OPEN,KG,0.0,1.0
+390,xmlab314/source.jpg,Is this image taken via X-Ray?,Yes,Yes,CLOSED,Modality,1.0,1.0
+391,xmlab314/source.jpg,What is the scanning plane of this image?,Coronal Plane,Coronal Plane,OPEN,Plane,1.0,1.0
+392,xmlab314/source.jpg,Which part of the body does this image belong to?,Chest,Chest,OPEN,Position,1.0,1.0
+393,xmlab314/source.jpg,"Which side of lung is abnormal in this image,left or right?",Right,Left,CLOSED,Position,0.0,0.0
+394,xmlab314/source.jpg,Where is the pneumonia in the lung?,Right Lung,Lower Left Lung,OPEN,Position,0.0,0.5
+395,xmlab314/source.jpg,What organ system is primarily present in this image?,Chest,Chest,OPEN,Organ,1.0,1.0
+396,xmlab314/source.jpg,What organ system is pictured?,Chest,Chest,OPEN,Organ,1.0,1.0
+397,xmlab314/source.jpg,What disease is/are shown on the right of lung?,Pneumonia,Pneumonia,OPEN,Abnormality,1.0,1.0
+398,xmlab314/source.jpg,Does the lung look abnormal?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+399,xmlab314/source.jpg,Can pneumonia be observed on the right lung in this picture?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+400,xmlab314/source.jpg,What color does the right lung show in the picture?,Black,Black,OPEN,Color,1.0,1.0
+401,xmlab314/source.jpg,How many existing lungs in this image?,2,2,OPEN,Quantity,1.0,1.0
+402,xmlab314/source.jpg,What can the organ with black color in this image be used for?,Breathe,Breathe,OPEN,KG,1.0,1.0
+403,xmlab314/source.jpg,How to treat the disease located on the right of lung in this image?,"Medical therapy, supportive therapy","Medication, Surgery",OPEN,KG,0.0,0.0
+404,xmlab314/source.jpg,Which organs/organ is part of the circulatory system in this image?,Heart,Heart,OPEN,KG,1.0,1.0
+405,xmlab320/source.jpg,What modality is shown in this image?,X-Ray,X-Ray,OPEN,Modality,1.0,1.0
+406,xmlab320/source.jpg,"Which plane is the image scanned, transverse plane or coronal plane?",Coronal Plane,Coronal Plane,CLOSED,Plane,1.0,1.0
+407,xmlab320/source.jpg,Do the organs in the image exist in the abdomen?,No,No,CLOSED,Position,1.0,1.0
+408,xmlab320/source.jpg,Where is the abnormality in this image?,Heart,"Right Lung, Left Side",OPEN,Position,0.0,0.0
+409,xmlab320/source.jpg,Where is the cardiomegaly in this image?,Heart,Middle,OPEN,Position,0.0,0.0
+410,xmlab320/source.jpg,Which organs appear in pairs?,Lung,Lung,OPEN,Organ,1.0,1.0
+411,xmlab320/source.jpg,Which organ system is imaged?,Chest,Chest,OPEN,Organ,1.0,1.0
+412,xmlab320/source.jpg,What diseases are included in the picture?,Cardiomegaly,Pneumonia,OPEN,Abnormality,0.0,0.0
+413,xmlab320/source.jpg,Is this image normal?,No,No,CLOSED,Abnormality,1.0,1.0
+414,xmlab320/source.jpg,Can cardiomegaly be observed on the heart in this picture?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+415,xmlab320/source.jpg,What color does the left lung show in the picture?,Black,Black,OPEN,Color,1.0,1.0
+416,xmlab320/source.jpg,How many organs are there in this image?,2,2,OPEN,Quantity,1.0,1.0
+417,xmlab320/source.jpg,What is the function of the main organ in this picture?,Breathe,Breathe,OPEN,KG,1.0,1.0
+418,xmlab320/source.jpg,What kind of symptoms will the disease on the heart in this image bring to the patient?,"Chest tightness, arrhythmia","Coughing, shortness of breath",OPEN,KG,0.0,0.0
+419,xmlab320/source.jpg,Which organs/organ is part of the circulatory system in this image?,Heart,Heart,OPEN,KG,1.0,1.0
+420,xmlab329/source.jpg,What type of medical image is this?,X-Ray,X-Ray,OPEN,Modality,1.0,1.0
+421,xmlab329/source.jpg,Is this sagittal plane?,No,No,CLOSED,Plane,1.0,1.0
+422,xmlab329/source.jpg,Which part of the body does this image belong to?,Chest,Chest,OPEN,Position,1.0,1.0
+423,xmlab329/source.jpg,Which lobe is abnormal in this image?,Left,Right,OPEN,Position,0.0,0.0
+424,xmlab329/source.jpg,Where is the pulmonary infiltration in this image?,Lower Left Lung,Lower Left Lung,OPEN,Position,1.0,1.0
+425,xmlab329/source.jpg,What organ system is pictured?,Chest,Chest,OPEN,Organ,1.0,1.0
+426,xmlab329/source.jpg,What organ system is primarily present in this image?,Chest,Chest,OPEN,Organ,1.0,1.0
+427,xmlab329/source.jpg,Does the lung look abnormal?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+428,xmlab329/source.jpg,What diseases are included in the picture?,Pulmonary Infiltration,Pneumonia,OPEN,Abnormality,0.0,0.0
+429,xmlab329/source.jpg,Can pulmonary infiltration be observed on the upper right lung in this picture?,No,Yes,CLOSED,Abnormality,0.0,0.0
+430,xmlab329/source.jpg,What color does the left lung show in the picture?,Black,Black,OPEN,Color,1.0,1.0
+431,xmlab329/source.jpg,How many organs are there in this image?,2,2,OPEN,Quantity,1.0,1.0
+432,xmlab329/source.jpg,What is the effect of the main organ in this picture?,Breathe,Breathe,OPEN,KG,1.0,1.0
+433,xmlab329/source.jpg,How to prevent the occurrence of the disease on the lower left lobe of lung in this image?,"Live healthy, enhance physical fitness","Avoid smoking, strengthen physical fitness, and exercise more",OPEN,KG,0.0,0.4
+434,xmlab329/source.jpg,Which organs/organ is part of the respiratory system in this image?,Lung,Lung,OPEN,KG,1.0,1.0
+435,xmlab338/source.jpg,What imaging modality was used?,X-Ray,X-Ray,OPEN,Modality,1.0,1.0
+436,xmlab338/source.jpg,"Which plane is the image scanned, transverse plane or coronal plane?",Coronal Plane,Coronal Plane,CLOSED,Plane,1.0,1.0
+437,xmlab338/source.jpg,Which part do the organs in this image locate from the aspect of the whole body?,Chest,Chest,OPEN,Position,1.0,1.0
+438,xmlab338/source.jpg,Where is the abnormality in this image?,Lower Left Lung,"Right Lung, Left Side",OPEN,Position,0.0,0.6666666666666666
+439,xmlab338/source.jpg,Where is the pulmonary nodule located in this image?,Lower Left Lung,Right Lung,OPEN,Position,0.0,0.3333333333333333
+440,xmlab338/source.jpg,What is the organ system visualized?,Chest,Chest,OPEN,Organ,1.0,1.0
+441,xmlab338/source.jpg,Which organ system is imaged?,Chest,Chest,OPEN,Organ,1.0,1.0
+442,xmlab338/source.jpg,Is the lung normal appearing?,No,No,CLOSED,Abnormality,1.0,1.0
+443,xmlab338/source.jpg,Is this image normal?,No,No,CLOSED,Abnormality,1.0,1.0
+444,xmlab338/source.jpg,Can nodule be observed on the lower left lung in this picture?,Yes,No,CLOSED,Abnormality,0.0,0.0
+445,xmlab338/source.jpg,What color does the right lung show in the picture?,Black,Black,OPEN,Color,1.0,1.0
+446,xmlab338/source.jpg,How many lungs are shown in this image?,2,2,OPEN,Quantity,1.0,1.0
+447,xmlab338/source.jpg,What is the function of the main organ in this picture?,Breathe,Breathe,OPEN,KG,1.0,1.0
+448,xmlab338/source.jpg,How to treat the disease located on the lower left of lung in this image?,"Medical treatment, surgical treatment","Medication, Surgery",OPEN,KG,0.0,0.0
+449,xmlab338/source.jpg,Which organs/organ is part of the circulatory system in this image?,Heart,Heart,OPEN,KG,1.0,1.0
+450,xmlab344/source.jpg,What imaging modality was used?,X-Ray,X-Ray,OPEN,Modality,1.0,1.0
+451,xmlab344/source.jpg,"Which plane is the image scanned, transverse plane or coronal plane?",Coronal Plane,Coronal Plane,CLOSED,Plane,1.0,1.0
+452,xmlab344/source.jpg,Which part of the human body is the organ located in the image?,Chest,Chest,OPEN,Position,1.0,1.0
+453,xmlab344/source.jpg,Where is/are the abnormality located in this picture?,Upper Right Lung,"Left Lung, Right",OPEN,Position,0.0,0.6666666666666666
+454,xmlab344/source.jpg,Where is the nodule in this image?,Upper Right Lung,Upper Left Lung,OPEN,Position,0.0,0.6666666666666666
+455,xmlab344/source.jpg,Which organ system is imaged?,Chest,Chest,OPEN,Organ,1.0,1.0
+456,xmlab344/source.jpg,What organ system is pictured?,Chest,Chest,OPEN,Organ,1.0,1.0
+457,xmlab344/source.jpg,Does the patient have any abnormalities?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+458,xmlab344/source.jpg,Is the lung healthy?,No,No,CLOSED,Abnormality,1.0,1.0
+459,xmlab344/source.jpg,Can nodule be observed on the upper right lung in this picture?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+460,xmlab344/source.jpg,What color does the right lung show in the picture?,Black,Black,OPEN,Color,1.0,1.0
+461,xmlab344/source.jpg,How many lungs are shown in this image?,2,2,OPEN,Quantity,1.0,1.0
+462,xmlab344/source.jpg,What is the function of the main organ in this picture?,Breathe,Breathe,OPEN,KG,1.0,1.0
+463,xmlab344/source.jpg,What kind of symptoms will the disease on the upper right lung bring to the patient?,"Chest tightness, fatigue","Coughing, shortness of breath, chest pain",OPEN,KG,0.0,0.3333333333333333
+464,xmlab344/source.jpg,Which organs/organ in the picture belong to the respiratory system?,Lung,Lung,OPEN,KG,1.0,1.0
+465,xmlab350/source.jpg,Is this an MRI scan?,No,No,CLOSED,Modality,1.0,1.0
+466,xmlab350/source.jpg,Is this a coronal plane?,Yes,Yes,CLOSED,Plane,1.0,1.0
+467,xmlab350/source.jpg,Do the organs in the image exist in the chest?,Yes,Yes,CLOSED,Position,1.0,1.0
+468,xmlab350/source.jpg,Where is the abnormality in this image?,Upper Left Lung,Left Lung,OPEN,Position,0.0,0.6666666666666666
+469,xmlab350/source.jpg,What part of the lung is the pneumothorax located in?,Upper Left Lung,Right Lung,OPEN,Position,0.0,0.3333333333333333
+470,xmlab350/source.jpg,What organ system is pictured?,Chest,Chest,OPEN,Organ,1.0,1.0
+471,xmlab350/source.jpg,Which organ system is imaged?,Chest,Chest,OPEN,Organ,1.0,1.0
+472,xmlab350/source.jpg,Is the lung normal appearing?,No,No,CLOSED,Abnormality,1.0,1.0
+473,xmlab350/source.jpg,Is/Are there abnormalities in the patient's left lung?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+474,xmlab350/source.jpg,Can pneumothorax be observed on the lower right lung in this picture?,No,Yes,CLOSED,Abnormality,0.0,0.0
+475,xmlab350/source.jpg,What color is the lung in the picture?,Black,Black,OPEN,Color,1.0,1.0
+476,xmlab350/source.jpg,How many organs are there in this image?,2,2,OPEN,Quantity,1.0,1.0
+477,xmlab350/source.jpg,How much damage will be caused to the body taking such an image?,A Little,A Little,OPEN,KG,1.0,1.0
+478,xmlab350/source.jpg,How to treat the disease located on the upper left of lung in this image?,"Medical therapy, supportive therapy","Medication, Surgery, Bronchoscopy",OPEN,KG,0.0,0.0
+479,xmlab350/source.jpg,Which organs/organ in the picture belong to the circulatory system?,Heart,Heart,OPEN,KG,1.0,1.0
+480,xmlab357/source.jpg,Is this a X-Ray?,Yes,Yes,CLOSED,Modality,1.0,1.0
+481,xmlab357/source.jpg,What scanning plane does this image belong to?,Coronal Plane,Coronal Plane,OPEN,Plane,1.0,1.0
+482,xmlab357/source.jpg,Do the organs in the image exist in the abdomen?,No,No,CLOSED,Position,1.0,1.0
+483,xmlab357/source.jpg,Where is the abnormality in this image?,Lower Left Lung,"Right Lung, Left Side",OPEN,Position,0.0,0.6666666666666666
+484,xmlab357/source.jpg,Where is the pneumothorax in this image?,Lower Left Lung,Right Lung,OPEN,Position,0.0,0.3333333333333333
+485,xmlab357/source.jpg,What organ system is pictured?,Chest,Chest,OPEN,Organ,1.0,1.0
+486,xmlab357/source.jpg,Which organ system is imaged?,Chest,Chest,OPEN,Organ,1.0,1.0
+487,xmlab357/source.jpg,Are there abnormalities in this image?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+488,xmlab357/source.jpg,Is the lung healthy?,No,No,CLOSED,Abnormality,1.0,1.0
+489,xmlab357/source.jpg,Can pneumothorax be observed on the lower left lung in this picture?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+490,xmlab357/source.jpg,What color is the lung in the picture?,Black,Black,OPEN,Color,1.0,1.0
+491,xmlab357/source.jpg,How many existing heart in this image?,1,1,OPEN,Quantity,1.0,1.0
+492,xmlab357/source.jpg,What is the effect of the center organ in this picture?,Promote blood flow,Promote blood flow,OPEN,KG,1.0,1.0
+493,xmlab357/source.jpg,What is the main cause of the disease on the lower left of the lung in the picture?,"Chest injury, lung disease, bullae","Infection, tumor, etc.",OPEN,KG,0.0,0.0
+494,xmlab357/source.jpg,Which organs/organ in the picture belong to the circulatory system?,Heart,Heart,OPEN,KG,1.0,1.0
+495,xmlab361/source.jpg,Is this image taken via X-Ray?,Yes,Yes,CLOSED,Modality,1.0,1.0
+496,xmlab361/source.jpg,In what plane is this image scanned?,Coronal Plane,Coronal Plane,OPEN,Plane,1.0,1.0
+497,xmlab361/source.jpg,Which part of the human body is the organ located in the image?,Chest,Chest,OPEN,Position,1.0,1.0
+498,xmlab361/source.jpg,Where is the abnormality in this image?,Left Lung,"Right Lung, Left Side",OPEN,Position,0.0,1.0
+499,xmlab361/source.jpg,Where is/are the nodule located in this image?,Left Lung,Right Lung,OPEN,Position,0.0,0.5
+500,xmlab361/source.jpg,What is the main organ in the image?,Lung,Lung,OPEN,Organ,1.0,1.0
+501,xmlab361/source.jpg,What organ system is pictured?,Chest,Chest,OPEN,Organ,1.0,1.0
+502,xmlab361/source.jpg,Is the lung healthy?,No,No,CLOSED,Abnormality,1.0,1.0
+503,xmlab361/source.jpg,Is the lung abnormal?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+504,xmlab361/source.jpg,Can nodule be observed on the lower right lung in this picture?,No,No,CLOSED,Abnormality,1.0,1.0
+505,xmlab361/source.jpg,What color is the lung in the picture?,Black,Black,OPEN,Color,1.0,1.0
+506,xmlab361/source.jpg,How many organs are there in this image?,2,2,OPEN,Quantity,1.0,1.0
+507,xmlab361/source.jpg,What is the function of the main organ in this picture?,Breathe,Breathe,OPEN,KG,1.0,1.0
+508,xmlab361/source.jpg,How to prevent the occurrence of the disease on the left lobe of lung in this image?,"Quit smoking, enhance physical fitness","Avoid smoking, strengthen the chest, and enhance physical fitness",OPEN,KG,0.0,0.8
+509,xmlab361/source.jpg,Which organs/organ in the picture belong to the respiratory system?,Lung,Lung,OPEN,KG,1.0,1.0
+510,xmlab367/source.jpg,Is this image taken via X-Ray?,Yes,Yes,CLOSED,Modality,1.0,1.0
+511,xmlab367/source.jpg,What scanning plane does this image belong to?,Coronal Plane,Coronal Plane,OPEN,Plane,1.0,1.0
+512,xmlab367/source.jpg,Where does the picture show?,Chest,Chest,OPEN,Position,1.0,1.0
+513,xmlab367/source.jpg,"Which side of lung is abnormal in this image,left or right?",Left,Left,CLOSED,Position,1.0,1.0
+514,xmlab367/source.jpg,What part of the lung is the pneumonia located in?,Lower Left Lung,Lower Left Lung,OPEN,Position,1.0,1.0
+515,xmlab367/source.jpg,What is the organ system visualized?,Chest,Chest,OPEN,Organ,1.0,1.0
+516,xmlab367/source.jpg,Which organs appear in pairs?,Lung,Lung,OPEN,Organ,1.0,1.0
+517,xmlab367/source.jpg,Are there abnormalities in this image?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+518,xmlab367/source.jpg,Is the lung healthy?,No,No,CLOSED,Abnormality,1.0,1.0
+519,xmlab367/source.jpg,Can pneumonia be observed on the upper right lung in this picture?,No,Yes,CLOSED,Abnormality,0.0,0.0
+520,xmlab367/source.jpg,What color does the right lung show in the picture?,Black,Black,OPEN,Color,1.0,1.0
+521,xmlab367/source.jpg,How many lungs are shown in this image?,2,2,OPEN,Quantity,1.0,1.0
+522,xmlab367/source.jpg,What is the effect of the center organ in this picture?,Promote blood flow,Breathe,OPEN,KG,0.0,0.0
+523,xmlab367/source.jpg,How to treat the disease located on the lower left of lung in this image?,"Medical therapy, supportive therapy","Medication, Surgery",OPEN,KG,0.0,0.0
+524,xmlab367/source.jpg,Which organs/organ in the picture belong to the respiratory system?,Lung,Lung,OPEN,KG,1.0,1.0
+525,xmlab374/source.jpg,What type of medical image is this?,X-Ray,X-Ray,OPEN,Modality,1.0,1.0
+526,xmlab374/source.jpg,Is this a coronal plane?,Yes,Yes,CLOSED,Plane,1.0,1.0
+527,xmlab374/source.jpg,Which part do the organs in this image locate from the aspect of the whole body?,Chest,Chest,OPEN,Position,1.0,1.0
+528,xmlab374/source.jpg,Where is the abnormality in this image?,Upper Right Lung,"Right Lung, Left Side",OPEN,Position,0.0,0.6666666666666666
+529,xmlab374/source.jpg,What part of the lung is the pneumonia located in?,Upper Right Lung,Lower Left Lung,OPEN,Position,0.0,0.3333333333333333
+530,xmlab374/source.jpg,Which organ system is imaged?,Chest,Chest,OPEN,Organ,1.0,1.0
+531,xmlab374/source.jpg,Is this a study of the neck?,No,No,CLOSED,Organ,1.0,1.0
+532,xmlab374/source.jpg,Does the lung look abnormal?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+533,xmlab374/source.jpg,Are there abnormalities in this image?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+534,xmlab374/source.jpg,Can pneumonia be observed on the upper right lung in this picture?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+535,xmlab374/source.jpg,What color is the lung in the picture?,Black,Black,OPEN,Color,1.0,1.0
+536,xmlab374/source.jpg,How many existing heart in this image?,1,1,OPEN,Quantity,1.0,1.0
+537,xmlab374/source.jpg,What is the function of the main organ in this picture?,Breathe,Breathe,OPEN,KG,1.0,1.0
+538,xmlab374/source.jpg,How to prevent the occurrence of the disease on the upper right lobe of lung in this image?,"Pay attention to prevent cold and keep warm, enhance physical fitness","Avoid smoking, strengthen physical fitness, and exercise more.",OPEN,KG,0.0,0.2727272727272727
+539,xmlab374/source.jpg,Which organs/organ is part of the respiratory system in this image?,Lung,Lung,OPEN,KG,1.0,1.0
+540,xmlab375/source.jpg,How was this image taken?,X-Ray,X-Ray,OPEN,Modality,1.0,1.0
+541,xmlab375/source.jpg,Is this a transverse section?,No,No,CLOSED,Plane,1.0,1.0
+542,xmlab375/source.jpg,Where does the picture show?,Chest,Chest,OPEN,Position,1.0,1.0
+543,xmlab375/source.jpg,Which side of lung is abnormal in this image?,Right,Both,OPEN,Position,0.0,0.0
+544,xmlab375/source.jpg,Where is the pneumonia in the lung?,Lower Right Lung,Lower Left Lung,OPEN,Position,0.0,0.6666666666666666
+545,xmlab375/source.jpg,Is this a study of the chest?,Yes,Yes,CLOSED,Organ,1.0,1.0
+546,xmlab375/source.jpg,What is the organ system visualized?,Chest,Chest,OPEN,Organ,1.0,1.0
+547,xmlab375/source.jpg,What disease is/are shown on the right of lung?,Pneumonia,Pneumonia,OPEN,Abnormality,1.0,1.0
+548,xmlab375/source.jpg,Is the lung normal appearing?,No,No,CLOSED,Abnormality,1.0,1.0
+549,xmlab375/source.jpg,Can pneumonia be observed on the lower right lung in this picture?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+550,xmlab375/source.jpg,What color does the right lung show in the picture?,Black,Black,OPEN,Color,1.0,1.0
+551,xmlab375/source.jpg,How many existing lungs in this image?,2,2,OPEN,Quantity,1.0,1.0
+552,xmlab375/source.jpg,What is the effect of the center organ in this picture?,Promote blood flow,Breathe,OPEN,KG,0.0,0.0
+553,xmlab375/source.jpg,How to prevent the occurrence of the disease on the lower right lobe of lung in this image?,"Pay attention to prevent cold and keep warm, enhance physical fitness","Avoid smoking, strengthen physical fitness, and exercise more.",OPEN,KG,0.0,0.2727272727272727
+554,xmlab375/source.jpg,Which organs/organ is part of the circulatory system in this image?,Heart,Heart,OPEN,KG,1.0,1.0
+555,xmlab378/source.jpg,Is this image taken via CT?,No,No,CLOSED,Modality,1.0,1.0
+556,xmlab378/source.jpg,Is this a transverse plane?,No,No,CLOSED,Plane,1.0,1.0
+557,xmlab378/source.jpg,Where does the picture show?,Chest,Chest,OPEN,Position,1.0,1.0
+558,xmlab378/source.jpg,Which side of lung is abnormal in this image?,Left,Both,OPEN,Position,0.0,0.0
+559,xmlab378/source.jpg,What part of the lung is the infiltration located in?,Lower Left Lung,Lower Left Lung,OPEN,Position,1.0,1.0
+560,xmlab378/source.jpg,Which organs appear in pairs?,Lung,Lung,OPEN,Organ,1.0,1.0
+561,xmlab378/source.jpg,What is the main organ in the image?,Lung,Lung,OPEN,Organ,1.0,1.0
+562,xmlab378/source.jpg,Is/Are there abnormalities in the patient's left lung?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+563,xmlab378/source.jpg,What disease is/are shown on the lower left of lung?,Pulmonary Infiltration,Pneumonia,OPEN,Abnormality,0.0,0.0
+564,xmlab378/source.jpg,Can infiltration be observed on the lower left lung in this picture?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+565,xmlab378/source.jpg,What color is the lung in the picture?,Black,Black,OPEN,Color,1.0,1.0
+566,xmlab378/source.jpg,How many existing lungs in this image?,2,2,OPEN,Quantity,1.0,1.0
+567,xmlab378/source.jpg,What can the organ with black color in this image be used for?,Breathe,Breathe,OPEN,KG,1.0,1.0
+568,xmlab378/source.jpg,What kind of symptoms will the disease on the lower left of lung bring to the patient?,"Chest pain, cough, expectoration","Coughing, shortness of breath, chest pain",OPEN,KG,0.0,0.5
+569,xmlab378/source.jpg,Which organs/organ is part of the circulatory system in this image?,Heart,Heart,OPEN,KG,1.0,1.0
+570,xmlab385/source.jpg,Is this image taken via X-Ray?,Yes,Yes,CLOSED,Modality,1.0,1.0
+571,xmlab385/source.jpg,Is this a coronal section?,Yes,Yes,CLOSED,Plane,1.0,1.0
+572,xmlab385/source.jpg,Where does the image represent in the body?,Chest,Chest,OPEN,Position,1.0,1.0
+573,xmlab385/source.jpg,Which part of chest is abnormal in this image?,Lower Left Lung,Both,OPEN,Position,0.0,0.0
+574,xmlab385/source.jpg,Where is/are the effusion located?,Lower Left Lung,Right Lung,OPEN,Position,0.0,0.3333333333333333
+575,xmlab385/source.jpg,Which organ system is imaged?,Chest,Chest,OPEN,Organ,1.0,1.0
+576,xmlab385/source.jpg,Is this a study of the head?,No,No,CLOSED,Organ,1.0,1.0
+577,xmlab385/source.jpg,Does the patient have any abnormalities?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+578,xmlab385/source.jpg,Does the lung look abnormal?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+579,xmlab385/source.jpg,Can effusion be observed on the lower left lung in this picture?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+580,xmlab385/source.jpg,What color does the left lung show in the picture?,Black,Black,OPEN,Color,1.0,1.0
+581,xmlab385/source.jpg,How many lungs are shown in this image?,2,2,OPEN,Quantity,1.0,1.0
+582,xmlab385/source.jpg,What can the organ with black color in this image be used for?,Breathe,Breathe,OPEN,KG,1.0,1.0
+583,xmlab385/source.jpg,What is the main cause of the disease on the lower left of the lung in the picture?,"Inflammation, malignant tumor, trauma, etc","Infection, tumor, etc.",OPEN,KG,0.0,0.4
+584,xmlab385/source.jpg,Which organs/organ is part of the circulatory system in this image?,Heart,Heart,OPEN,KG,1.0,1.0
+585,xmlab386/source.jpg,What modality is used to take this image?,X-Ray,X-Ray,OPEN,Modality,1.0,1.0
+586,xmlab386/source.jpg,What scanning plane does this image belong to?,Coronal Plane,Coronal Plane,OPEN,Plane,1.0,1.0
+587,xmlab386/source.jpg,Do the organs in the image exist in the chest?,Yes,Yes,CLOSED,Position,1.0,1.0
+588,xmlab386/source.jpg,Where is the heart in this image?,Center,Center,OPEN,Position,1.0,1.0
+589,xmlab386/source.jpg,Where is the pleural effusion?,Lower Left Lung,Right,OPEN,Position,0.0,0.0
+590,xmlab386/source.jpg,Is this a study of the abdomen?,No,No,CLOSED,Organ,1.0,1.0
+591,xmlab386/source.jpg,Is this a study of the pelvic cavity?,No,No,CLOSED,Organ,1.0,1.0
+592,xmlab386/source.jpg,What diseases are included in the picture?,Pleural Effusion,Pneumonia,OPEN,Abnormality,0.0,0.0
+593,xmlab386/source.jpg,Is this image normal?,No,No,CLOSED,Abnormality,1.0,1.0
+594,xmlab386/source.jpg,Can effusion be observed on the lower left lung in this picture?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+595,xmlab386/source.jpg,What color does the left lung show in the picture?,Black,Black,OPEN,Color,1.0,1.0
+596,xmlab386/source.jpg,How many organs are there in this image?,2,2,OPEN,Quantity,1.0,1.0
+597,xmlab386/source.jpg,What is the effect of the main organ in this picture?,Breathe,Breathe,OPEN,KG,1.0,1.0
+598,xmlab386/source.jpg,What kind of symptoms will the disease on the lower left of lung bring to the patient?,"Chest tightness, dyspnea, chest pain","Cough, sputum, hemoptysis, chest pain",OPEN,KG,0.0,0.5
+599,xmlab386/source.jpg,Which organs/organ is part of the respiratory system in this image?,Lung,Lung,OPEN,KG,1.0,1.0
+600,xmlab401/source.jpg,"Which type of modality is shown about this image, MRI, CT or X-Ray?",CT,CT,CLOSED,Modality,1.0,1.0
+601,xmlab401/source.jpg,Is this sagittal plane?,No,No,CLOSED,Plane,1.0,1.0
+602,xmlab401/source.jpg,Do the organs in the image exist in the head?,Yes,Yes,CLOSED,Position,1.0,1.0
+603,xmlab401/source.jpg,Where is the brain stem in this image?,Center,Middle,OPEN,Position,0.0,0.0
+604,xmlab401/source.jpg,Which organs appear in pairs?,Temporal Lobe,Eyeball,OPEN,Organ,0.0,0.0
+605,xmlab401/source.jpg,Is this a study of the abdomen?,No,No,CLOSED,Organ,1.0,1.0
+606,xmlab401/source.jpg,Does the picture contain spleen?,No,No,CLOSED,Organ,1.0,1.0
+607,xmlab401/source.jpg,Does the temporal lobe appear in this image?,Yes,Yes,CLOSED,Organ,1.0,1.0
+608,xmlab401/source.jpg,What color is the right temporal lobe in the picture?,Gray,Black,OPEN,Color,0.0,0.0
+609,xmlab401/source.jpg,What is the largest organ in the picture?,Brain,Brain,OPEN,Size,1.0,1.0
+610,xmlab401/source.jpg,How many ears are shown in this image?,0,0,OPEN,Quantity,1.0,1.0
+611,xmlab401/source.jpg,How much damage will be caused to the body taking such an image?,Much,A lot,OPEN,KG,0.0,0.0
+612,xmlab401/source.jpg,Which organs/organ in the picture belong to the nervous system?,Brain,Brain,OPEN,KG,1.0,1.0
+613,xmlab401/source.jpg,Are there some organs controlling heartbeat and breathing in this image?,Yes,No,CLOSED,KG,0.0,0.0
+614,xmlab401/source.jpg,Do any of the organs in the picture belong to the respiratory system?,No,No,CLOSED,KG,1.0,1.0
+615,xmlab405/source.jpg,Is this a CT?,Yes,Yes,CLOSED,Modality,1.0,1.0
+616,xmlab405/source.jpg,Is this sagittal plane?,No,No,CLOSED,Plane,1.0,1.0
+617,xmlab405/source.jpg,Where does the image represent in the body?,Head,Head,OPEN,Position,1.0,1.0
+618,xmlab405/source.jpg,Where is the brain stem in this image?,Center,Middle,OPEN,Position,0.0,0.0
+619,xmlab405/source.jpg,What is the organ system visualized?,Head,Head,OPEN,Organ,1.0,1.0
+620,xmlab405/source.jpg,What organ system is primarily present in this image?,Head,Head,OPEN,Organ,1.0,1.0
+621,xmlab405/source.jpg,Does the ears exist in this picture?,Yes,Yes,CLOSED,Organ,1.0,1.0
+622,xmlab405/source.jpg,Does the picture contain bladder?,No,No,CLOSED,Organ,1.0,1.0
+623,xmlab405/source.jpg,What color is the ears in the picture?,White,Gray,OPEN,Color,0.0,0.0
+624,xmlab405/source.jpg,What is the largest organ in the picture?,Brain,Brain,OPEN,Size,1.0,1.0
+625,xmlab405/source.jpg,How many temporal lobes in this image?,0,2,OPEN,Quantity,0.0,0.0
+626,xmlab405/source.jpg,What is the function of the tissue on the center of this image?,Control heartbeat and breathing,"Breathe, Taste, Smell",OPEN,KG,0.0,0.0
+627,xmlab405/source.jpg,Does the picture contain the organ which has the effect of storing urine?,No,No,CLOSED,KG,1.0,1.0
+628,xmlab405/source.jpg,Do any of the organs in the picture belong to the digestive system?,No,Yes,CLOSED,KG,0.0,0.0
+629,xmlab407/source.jpg,What modality is shown in this image?,CT,CT,OPEN,Modality,1.0,1.0
+630,xmlab407/source.jpg,In what plane is this image scanned?,Transverse Plane,Transverse Plane,OPEN,Plane,1.0,1.0
+631,xmlab407/source.jpg,Do the organs in the image exist in the head?,Yes,Yes,CLOSED,Position,1.0,1.0
+632,xmlab407/source.jpg,Where is the tooth in this image?,Top,Top,OPEN,Position,1.0,1.0
+633,xmlab407/source.jpg,Is this a study of the abdomen?,No,No,CLOSED,Organ,1.0,1.0
+634,xmlab407/source.jpg,What is the organ system visualized?,Head,Head,OPEN,Organ,1.0,1.0
+635,xmlab407/source.jpg,Does the picture contain mandible?,Yes,Yes,CLOSED,Organ,1.0,1.0
+636,xmlab407/source.jpg,Does the parotid appear in the image?,Yes,Yes,CLOSED,Organ,1.0,1.0
+637,xmlab407/source.jpg,What color does the brain stem show in the picture?,Gray,Gray,OPEN,Color,1.0,1.0
+638,xmlab407/source.jpg,What is the largest organ in the picture?,Brain,Brain,OPEN,Size,1.0,1.0
+639,xmlab407/source.jpg,How many mandibles in this image?,2,2,OPEN,Quantity,1.0,1.0
+640,xmlab407/source.jpg,What is the function of the organ on the top of this image?,"Cutting, chewing, maintaining facial contour and assisting pronunciation","Bite, chew",OPEN,KG,0.0,0.0
+641,xmlab407/source.jpg,Which organs/organ in the picture belong to nervous system?,Brain,Brain,OPEN,KG,1.0,1.0
+642,xmlab407/source.jpg,Are there organs in the picture that can digest food?,No,Yes,CLOSED,KG,0.0,0.0
+643,xmlab407/source.jpg,Do any of the organs in the picture belong to the circulatory system?,No,No,CLOSED,KG,1.0,1.0
+644,xmlab427/source.jpg,What modality is shown in this image?,CT,CT,OPEN,Modality,1.0,1.0
+645,xmlab427/source.jpg,In what plane is this image scanned?,Transverse Plane,Transverse Plane,OPEN,Plane,1.0,1.0
+646,xmlab427/source.jpg,Do the organs in the image exist in the head?,No,Yes,CLOSED,Position,0.0,0.0
+647,xmlab427/source.jpg,What organ system is pictured?,Neck,Head,OPEN,Organ,0.0,0.0
+648,xmlab427/source.jpg,Is there an esophagus in this image?,No,Yes,CLOSED,Organ,0.0,0.0
+649,xmlab427/source.jpg,Does the trachea exist in this picture?,No,Yes,CLOSED,Organ,0.0,0.0
+650,xmlab427/source.jpg,What is the shape of larynx in this image?,Oval,Triangular,OPEN,Shape,0.0,0.0
+651,xmlab427/source.jpg,Which organs/organ in the picture belong to the respiratory system?,Larynx,Lung,OPEN,KG,0.0,0.0
+652,xmlab427/source.jpg,Are there organs in the picture that can deliver food?,Yes,No,CLOSED,KG,0.0,0.0
+653,xmlab427/source.jpg,Does the picture contain the organ which has the effect of gas delivery?,Yes,No,CLOSED,KG,0.0,0.0
+654,xmlab428/source.jpg,Is this a CT?,Yes,Yes,CLOSED,Modality,1.0,1.0
+655,xmlab428/source.jpg,What scanning plane does this image belong to?,Transverse Plane,Transverse Plane,OPEN,Plane,1.0,1.0
+656,xmlab428/source.jpg,Where does the image represent in the body?,Neck,Neck,OPEN,Position,1.0,1.0
+657,xmlab428/source.jpg,Where is the esophagus in this image?,Under the trachea,Middle,OPEN,Position,0.0,0.0
+658,xmlab428/source.jpg,What organ system is primarily present in this image?,Neck,Head and Neck,OPEN,Organ,0.0,1.0
+659,xmlab428/source.jpg,Does the ears exist in this picture?,No,No,CLOSED,Organ,1.0,1.0
+660,xmlab428/source.jpg,Is there small bowel in this image?,No,No,CLOSED,Organ,1.0,1.0
+661,xmlab428/source.jpg,What color do the trachea show in the picture?,Black,Black,OPEN,Color,1.0,1.0
+662,xmlab428/source.jpg,What is the shape of trachea about this patient?,Irregular,Squamous,OPEN,Shape,0.0,0.0
+663,xmlab428/source.jpg,What role does the black hollow tissue play in the human body?,Gas delivery,Respiratory Function,OPEN,KG,0.0,0.0
+664,xmlab428/source.jpg,Which organs/organ in the picture belong to the respiratory system?,Trachea,Lung,OPEN,KG,0.0,0.0
+665,xmlab428/source.jpg,Do any of the organs in the picture belong to the nervous system?,Yes,Yes,CLOSED,KG,1.0,1.0
+666,xmlab428/source.jpg,Does the picture contain the organ that could be used for detoxicating?,No,Yes,CLOSED,KG,0.0,0.0
+667,xmlab429/source.jpg,Is this an MRI scan?,No,Yes,CLOSED,Modality,0.0,0.0
+668,xmlab429/source.jpg,Is this a transverse section?,Yes,Yes,CLOSED,Plane,1.0,1.0
+669,xmlab429/source.jpg,Which part of the body does this image belong to?,Neck,Abdomen,OPEN,Position,0.0,0.0
+670,xmlab429/source.jpg,Which is trachea in this image?,Black Hollow,Left,OPEN,Position,0.0,0.0
+671,xmlab429/source.jpg,What organ system is primarily present in this image?,Neck,Abdomen,OPEN,Organ,0.0,0.0
+672,xmlab429/source.jpg,Does the picture contain spinal cord?,Yes,Yes,CLOSED,Organ,1.0,1.0
+673,xmlab429/source.jpg,Are/Is there kidneys in the picture?,No,No,CLOSED,Organ,1.0,1.0
+674,xmlab429/source.jpg,What is the shape of trachea about this patient?,Irregular,Round,OPEN,Shape,0.0,0.0
+675,xmlab429/source.jpg,What role does the black hollow tissue play in the human body?,Gas delivery,Respiratory Function,OPEN,KG,0.0,0.0
+676,xmlab429/source.jpg,Which organs/organ in the picture belong to the digestive system?,Esophagus,"Stomach, Small Bowel",OPEN,KG,0.0,0.0
+677,xmlab429/source.jpg,Does the picture contain the organ which has the effect of discharging waste?,No,No,CLOSED,KG,1.0,1.0
+678,xmlab429/source.jpg,Do any of the organs in the picture belong to the nervous system?,Yes,Yes,CLOSED,KG,1.0,1.0
+679,xmlab436/source.jpg,Is this a CT scan?,No,No,CLOSED,Modality,1.0,1.0
+680,xmlab436/source.jpg,"Which kind of weighting is this image generated with, t1 or t2?",T2,T2,CLOSED,Modality,1.0,1.0
+681,xmlab436/source.jpg,What is the scanning plane of this image?,Transverse Plane,Transverse Plane,OPEN,Plane,1.0,1.0
+682,xmlab436/source.jpg,Do the organs in the image exist in the head?,Yes,Yes,CLOSED,Position,1.0,1.0
+683,xmlab436/source.jpg,"Which hemisphere is abnormal,left or right?",Right,Left,CLOSED,Position,0.0,0.0
+684,xmlab436/source.jpg,Which organ system is imaged?,Head,Head,OPEN,Organ,1.0,1.0
+685,xmlab436/source.jpg,What diseases are included in the picture?,"Brain Edema, Brain Enhancing Tumor",Brain Tumor,OPEN,Abnormality,0.0,0.5
+686,xmlab436/source.jpg,How many kinds of abnormalities are there in this image?,2,2,OPEN,Quantity,1.0,1.0
+687,xmlab436/source.jpg,What is the main cause of the disease on the right lobe of brain in this picture?,"Brain embryonic tissue dysplasia, genetic factors, chemical factors",Cerebral Atherosclerosis,OPEN,KG,0.0,0.0
+688,xmlab442/source.jpg,How was this image taken?,MRI,With a MRI machine,OPEN,Modality,0.0,1.0
+689,xmlab442/source.jpg,Is this an MRI image with T1 weighted?,No,No,CLOSED,Modality,1.0,1.0
+690,xmlab442/source.jpg,Is this a coronal section?,No,No,CLOSED,Plane,1.0,1.0
+691,xmlab442/source.jpg,Where does the picture show?,Head,Brain,OPEN,Position,0.0,0.0
+692,xmlab442/source.jpg,Where is the brain non-enhancing tumor?,Upper Left Lobe,Left Lobe,OPEN,Position,0.0,0.6666666666666666
+693,xmlab442/source.jpg,Which organ system is imaged?,Head,Head,OPEN,Organ,1.0,1.0
+694,xmlab442/source.jpg,Is the brain healthy?,No,No,CLOSED,Abnormality,1.0,1.0
+695,xmlab442/source.jpg,What is the color of abnormality in this image?,White,White,OPEN,Color,1.0,1.0
+696,xmlab442/source.jpg,What is the main cause of the disease on the upper left lobe of brain in this picture?,"Brain embryonic tissue dysplasia, genetic factors, chemical factors","Inflammation, Tumor, Cerebral Edema, Trauma",OPEN,KG,0.0,0.0
+697,xmlab447/source.jpg,What modality is used to take this image?,MRI,MRI,OPEN,Modality,1.0,1.0
+698,xmlab447/source.jpg,"Which kind of weighting is this image generated with, t1 or t2?",T2,T2,CLOSED,Modality,1.0,1.0
+699,xmlab447/source.jpg,Is this sagittal plane?,No,No,CLOSED,Plane,1.0,1.0
+700,xmlab447/source.jpg,Where does the picture show?,Head,Brain,OPEN,Position,0.0,0.0
+701,xmlab447/source.jpg,"Which hemisphere is abnormal,left or right?",Left,Left,CLOSED,Position,1.0,1.0
+702,xmlab447/source.jpg,What organ system is primarily present in this image?,Head,Head,OPEN,Organ,1.0,1.0
+703,xmlab447/source.jpg,What disease is/are shown on the left of brain?,"Brain Edema, Brain Enhancing Tumor, Brain Non-enhancing Tumor",Cerebral Edema,OPEN,Abnormality,0.0,0.2
+704,xmlab447/source.jpg,Is the tumor enhancing?,Yes,Yes,CLOSED,Color,1.0,1.0
+705,xmlab447/source.jpg,How many kinds of abnormalities are there in this image?,3,1,OPEN,Quantity,0.0,0.0
+706,xmlab447/source.jpg,What kind of symptoms will the disease on the left lobe of brain in the picture bring to the patient?,"Visual impairment, vomiting, tinnitus, increased intracranial pressure","Headache, vomiting, loss of consciousness, convulsion",OPEN,KG,0.0,0.14285714285714285
+707,xmlab468/source.jpg,What modality is shown in this image?,MRI,MRI,OPEN,Modality,1.0,1.0
+708,xmlab468/source.jpg,Is this an MRI image with T1 weighted?,No,No,CLOSED,Modality,1.0,1.0
+709,xmlab468/source.jpg,What is the scanning plane of this image?,Transverse Plane,Transverse Plane,OPEN,Plane,1.0,1.0
+710,xmlab468/source.jpg,Do the organs in the image exist in the chest?,No,No,CLOSED,Position,1.0,1.0
+711,xmlab468/source.jpg,Where is the brain edema?,Left Lobe,Left Lobe,OPEN,Position,1.0,1.0
+712,xmlab468/source.jpg,Is this a study of the head?,Yes,Yes,CLOSED,Organ,1.0,1.0
+713,xmlab468/source.jpg,Is the brain abnormal?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+714,xmlab468/source.jpg,How many kinds of abnormalities are there in this image?,1,2,OPEN,Quantity,0.0,0.0
+715,xmlab468/source.jpg,How to treat the most severe disease in this image?,"Pharmacotherapy, rehabilitation",Supportive care,OPEN,KG,0.0,0.0
+716,xmlab469/source.jpg,What modality is shown in this image?,MRI,MRI,OPEN,Modality,1.0,1.0
+717,xmlab469/source.jpg,Is this a T1 weighted or T2 weighted MRI image?,T2,T2,CLOSED,Modality,1.0,1.0
+718,xmlab469/source.jpg,Is this a coronal section?,No,No,CLOSED,Plane,1.0,1.0
+719,xmlab469/source.jpg,Do the organs in the image exist in the abdomen?,No,No,CLOSED,Position,1.0,1.0
+720,xmlab469/source.jpg,Where are the abnormalities in this image?,Upper Left Lobe,Left Side,OPEN,Position,0.0,0.3333333333333333
+721,xmlab469/source.jpg,Is this a study of the head?,Yes,Yes,CLOSED,Organ,1.0,1.0
+722,xmlab469/source.jpg,Is there evidence of a brain edema?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+723,xmlab469/source.jpg,Is the abnormality hyperdense or hypodense?,Hyperdense,Hypodense,CLOSED,Color,0.0,0.0
+724,xmlab469/source.jpg,How many kinds of abnormalities are there in this image?,1,2,OPEN,Quantity,0.0,0.0
+725,xmlab469/source.jpg,How to treat the most severe disease in this image?,"Pharmacotherapy, rehabilitation",Rescue treatment,OPEN,KG,0.0,0.0
+726,xmlab471/source.jpg,What type of medical image is this?,MRI,MRI,OPEN,Modality,1.0,1.0
+727,xmlab471/source.jpg,Is this a T1 weighted or T2 weighted MRI image?,T2,T2,CLOSED,Modality,1.0,1.0
+728,xmlab471/source.jpg,Is this a coronal section?,No,No,CLOSED,Plane,1.0,1.0
+729,xmlab471/source.jpg,Which part of the body does this image belong to?,Head,Brain,OPEN,Position,0.0,0.0
+730,xmlab471/source.jpg,Where is the brain tumor?,Upper Left Lobe,Left Side,OPEN,Position,0.0,0.3333333333333333
+731,xmlab471/source.jpg,What is the organ system visualized?,Head,Head,OPEN,Organ,1.0,1.0
+732,xmlab471/source.jpg,Is this image normal?,No,No,CLOSED,Abnormality,1.0,1.0
+733,xmlab471/source.jpg,How to prevent the occurrence of the disease on the upper left lobe of brain in this image?,"Pay attention to dietary hygiene, strengthen physical fitness and avoid brain trauma","Maintain a healthy and balanced diet, exercise regularly, avoid smoking and excessive alcohol consumption, and maintain a good mood.",OPEN,KG,0.0,0.16666666666666666
+734,xmlab473/source.jpg,What imaging modality was used?,MRI,MRI,OPEN,Modality,1.0,1.0
+735,xmlab473/source.jpg,"Which kind of weighting is this image generated with, t1 or t2?",T2,T2,CLOSED,Modality,1.0,1.0
+736,xmlab473/source.jpg,Is this a transverse section?,Yes,Yes,CLOSED,Plane,1.0,1.0
+737,xmlab473/source.jpg,Which part of the body does this image belong to?,Head,Head,OPEN,Position,1.0,1.0
+738,xmlab473/source.jpg,Where is the brain tumor?,Upper Right Lobe,Left Side,OPEN,Position,0.0,0.0
+739,xmlab473/source.jpg,Is this a study of the neck?,No,No,CLOSED,Organ,1.0,1.0
+740,xmlab473/source.jpg,What disease is/are shown on the upper right of brain?,"Brain Edema, Brain Non-enhancing Tumor",Cerebral Edema,OPEN,Abnormality,0.0,0.2
+741,xmlab473/source.jpg,Is the abnormality hyperdense or hypodense?,Hyperdense,Hypodense,CLOSED,Color,0.0,0.0
+742,xmlab473/source.jpg,What kind of symptoms will the disease on the upper right lobe of brain in the picture bring to the patient?,"Visual impairment, vomiting, tinnitus, increased intracranial pressure","Headache, vomiting, hemiplegia, visual impairment, etc.",OPEN,KG,0.0,0.42857142857142855
+743,xmlab474/source.jpg,How was this image taken?,MRI,With a MRI Scanner,OPEN,Modality,0.0,1.0
+744,xmlab474/source.jpg,Is this a T1 weighted or T2 weighted MRI image?,T2,T2,CLOSED,Modality,1.0,1.0
+745,xmlab474/source.jpg,Is this a coronal section?,No,No,CLOSED,Plane,1.0,1.0
+746,xmlab474/source.jpg,Do the organs in the image exist in the abdomen?,No,No,CLOSED,Position,1.0,1.0
+747,xmlab474/source.jpg,Where is the brain tumor?,Upper Right Lobe,Left Side,OPEN,Position,0.0,0.0
+748,xmlab474/source.jpg,Which organ system is imaged?,Head,Head,OPEN,Organ,1.0,1.0
+749,xmlab474/source.jpg,Is the brain abnormal?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+750,xmlab474/source.jpg,How to prevent the occurrence of the disease on the upper right lobe of brain in this image?,"Pay attention to dietary hygiene, strengthen physical fitness and avoid brain trauma","Avoiding long-term high blood pressure, high cholesterol, and high sugar.",OPEN,KG,0.0,0.08333333333333333
+751,xmlab483/source.jpg,Is this image taken via MRI?,Yes,Yes,CLOSED,Modality,1.0,1.0
+752,xmlab483/source.jpg,What is the mr weighting in this image?,T1,T2,OPEN,Modality,0.0,0.0
+753,xmlab483/source.jpg,What scanning plane does this image belong to?,Transverse Plane,Transverse Plane,OPEN,Plane,1.0,1.0
+754,xmlab483/source.jpg,Where does the image represent in the body?,Head,Head,OPEN,Position,1.0,1.0
+755,xmlab483/source.jpg,"Which lobe is abnormal,left or right?",Right,Left,CLOSED,Position,0.0,0.0
+756,xmlab483/source.jpg,Is this a study of the head?,Yes,Yes,CLOSED,Organ,1.0,1.0
+757,xmlab483/source.jpg,What diseases are included in the picture?,"Brain Edema, Brain Non-enhancing Tumor",Alzheimer's Disease,OPEN,Abnormality,0.0,0.0
+758,xmlab483/source.jpg,How much damage will be caused to the body taking such an image?,None,Little,OPEN,KG,0.0,0.0
+759,xmlab49/source.jpg,What modality is used to take this image?,MRI,MRI,OPEN,Modality,1.0,1.0
+760,xmlab49/source.jpg,Which part of the body does this image belong to?,Brain,Head,OPEN,Position,0.0,0.0
+761,xmlab49/source.jpg,What is the mr weighting in this image?,T2,T2,OPEN,Modality,1.0,1.0
+762,xmlab49/source.jpg,What is the main organ in the image?,Brain,Brain,OPEN,Organ,1.0,1.0
+763,xmlab49/source.jpg,What is the largest organ in the picture?,Brain,Brain,OPEN,Size,1.0,1.0
+764,xmlab49/source.jpg,Does the picture contain brian?,Yes,Yes,CLOSED,Organ,1.0,1.0
+765,xmlab49/source.jpg,What diseases are included in the picture?,Brain Edema,"Brain Edema, Brain Tumor",OPEN,Abnormality,0.0,1.0
+766,xmlab49/source.jpg,Does the brain look abnormal?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+767,xmlab49/source.jpg,Where is/are the abnormality located?,Lower Right,Left Side,OPEN,Position,0.0,0.0
+768,xmlab495/source.jpg,Is this a X-Ray?,No,No,CLOSED,Modality,1.0,1.0
+769,xmlab495/source.jpg,"Which kind of weighting is this image generated with, t1 or t2?",T1,T2,CLOSED,Modality,0.0,0.0
+770,xmlab495/source.jpg,Is this a coronal plane?,No,No,CLOSED,Plane,1.0,1.0
+771,xmlab495/source.jpg,Which part of the body does this image belong to?,Head,Brain,OPEN,Position,0.0,0.0
+772,xmlab495/source.jpg,Where is/are the abnormality located?,Upper Right Lobe,Left,OPEN,Position,0.0,0.0
+773,xmlab495/source.jpg,What organ system is pictured?,Head,Neurology,OPEN,Organ,0.0,0.0
+774,xmlab495/source.jpg,Is/Are there abnormalities in the patient's left brain lobe?,No,Yes,CLOSED,Abnormality,0.0,0.0
+775,xmlab495/source.jpg,How many kinds of abnormalities are there in this image?,2,1,OPEN,Quantity,0.0,0.0
+776,xmlab495/source.jpg,How much damage will be caused to the body taking such an image?,None,Little,OPEN,KG,0.0,0.0
+777,xmlab498/source.jpg,Is this a CT scan?,No,Yes,CLOSED,Modality,0.0,0.0
+778,xmlab498/source.jpg,What is the mr weighting in this image?,T1,T2,OPEN,Modality,0.0,0.0
+779,xmlab498/source.jpg,Is this sagittal plane?,No,No,CLOSED,Plane,1.0,1.0
+780,xmlab498/source.jpg,Do the organs in the image exist in the pelvic cavity?,No,No,CLOSED,Position,1.0,1.0
+781,xmlab498/source.jpg,Where are the abnormalities in this image?,Left Lobe,Left Side,OPEN,Position,0.0,0.5
+782,xmlab498/source.jpg,Which organ system is imaged?,Head,Head,OPEN,Organ,1.0,1.0
+783,xmlab498/source.jpg,What diseases are included in the picture?,"Brain Edema, Brain Enhancing Tumor, Brain Non-enhancing Tumor",Brain Tumor,OPEN,Abnormality,0.0,0.4
+784,xmlab498/source.jpg,Is the brain enhancing tumor hyperdense or hypodense?,Hyperdense,Hyperdense,CLOSED,Color,1.0,1.0
+785,xmlab498/source.jpg,What kind of symptoms will the disease on the left lobe of brain in the picture bring to the patient?,"Visual impairment, vomiting, tinnitus, increased intracranial pressure","Cognitive impairment, personality change",OPEN,KG,0.0,0.14285714285714285
+786,xmlab506/source.jpg,Is this image taken via CT?,No,Yes,CLOSED,Modality,0.0,0.0
+787,xmlab506/source.jpg,"Which kind of weighting is this image generated with, t1 or t2?",T1,T2,CLOSED,Modality,0.0,0.0
+788,xmlab506/source.jpg,In what plane is this image scanned?,Transverse Plane,Transverse Plane,OPEN,Plane,1.0,1.0
+789,xmlab506/source.jpg,Which part of the human body is the organ located in the image?,Head,Head,OPEN,Position,1.0,1.0
+790,xmlab506/source.jpg,Where is the brain tumor located?,Lower Left Lobe,Right Lobe,OPEN,Position,0.0,0.3333333333333333
+791,xmlab506/source.jpg,Is this a study of the chest?,No,No,CLOSED,Organ,1.0,1.0
+792,xmlab506/source.jpg,Does the patient have brain tumor?,Yes,Yes,CLOSED,Abnormality,1.0,1.0
+793,xmlab506/source.jpg,What is the main cause of the disease on the left lobe of brain in this picture?,"Brain embryonic tissue dysplasia, genetic factors, chemical factors",Disease,OPEN,KG,0.0,0.0
+794,xmlab508/source.jpg,How was this image taken?,MRI,MRI,OPEN,Modality,1.0,1.0
+795,xmlab508/source.jpg,What type of MRI is shown in this image?,T1,T2,OPEN,Modality,0.0,0.0
+796,xmlab508/source.jpg,In what plane is this image scanned?,Transverse Plane,Transverse Plane,OPEN,Plane,1.0,1.0
+797,xmlab508/source.jpg,Where does the image represent in the body?,Head,Head,OPEN,Position,1.0,1.0
+798,xmlab508/source.jpg,Where is the brain tumor?,Left Lobe,Left Side,OPEN,Position,0.0,0.5
+799,xmlab508/source.jpg,Is this a study of the abdomen?,No,No,CLOSED,Organ,1.0,1.0
+800,xmlab508/source.jpg,What diseases are included in the picture?,"Brain Edema, Brain Enhancing Tumor, Brain Non-enhancing Tumor",Brain Tumor,OPEN,Abnormality,0.0,0.4
+801,xmlab508/source.jpg,What density is the brain enhancing tumor ?,Hyperdense,Heterogeneous,OPEN,Color,0.0,0.0
+802,xmlab508/source.jpg,What kind of symptoms will the disease on the left lobe of brain in the picture bring to the patient?,"Visual impairment, vomiting, tinnitus, increased intracranial pressure","Speech disorders, vertical eye movement disorders, horizontal eye movement disorders",OPEN,KG,0.0,0.0
+803,xmlab513/source.jpg,Is this a CT?,No,No,CLOSED,Modality,1.0,1.0
+804,xmlab513/source.jpg,Is this an MRI image with T2 weighted?,No,Yes,CLOSED,Modality,0.0,0.0
+805,xmlab513/source.jpg,What is the scanning plane of this image?,Transverse Plane,Transverse Plane,OPEN,Plane,1.0,1.0
+806,xmlab513/source.jpg,Do the organs in the image exist in the head?,Yes,Yes,CLOSED,Position,1.0,1.0
+807,xmlab513/source.jpg,Where is/are the abnormality located?,Lower Left Lobe,Left,OPEN,Position,0.0,0.3333333333333333
+808,xmlab513/source.jpg,What organ system is primarily present in this image?,Head,Head,OPEN,Organ,1.0,1.0
+809,xmlab513/source.jpg,What disease is/are shown on the lower left of brain?,"Brain Edema, Brain Enhancing Tumor",Multiple Sclerosis,OPEN,Abnormality,0.0,0.0
+810,xmlab513/source.jpg,What is the color of brain enhancing tumor in this image?,White,White,OPEN,Color,1.0,1.0
+811,xmlab513/source.jpg,How many kinds of abnormalities are there in this image?,2,1,OPEN,Quantity,0.0,0.0
+812,xmlab513/source.jpg,How to prevent the occurrence of the disease on the lower left lobe of brain in this image?,"Pay attention to dietary hygiene, strengthen physical fitness and avoid brain trauma","Maintain a good mood, exercise regularly, eat a healthy diet, eat more fruits and vegetables, avoid smoking and excessive alcohol consumption",OPEN,KG,0.0,0.16666666666666666
+813,xmlab525/source.jpg,What modality is used to take this image?,MRI,MRI,OPEN,Modality,1.0,1.0
+814,xmlab525/source.jpg,Is this an MRI image with T2 weighted?,Yes,Yes,CLOSED,Modality,1.0,1.0
+815,xmlab525/source.jpg,What is the scanning plane of this image?,Transverse Plane,Transverse Plane,OPEN,Plane,1.0,1.0
+816,xmlab525/source.jpg,Do the organs in the image exist in the head?,Yes,Yes,CLOSED,Position,1.0,1.0
+817,xmlab525/source.jpg,Where is the brain non-enhancing tumor?,Left Lobe,Left Lobe,OPEN,Position,1.0,1.0
+818,xmlab525/source.jpg,Is this a study of the head?,Yes,Yes,CLOSED,Organ,1.0,1.0
+819,xmlab525/source.jpg,What disease is/are shown on the left of brain?,"Brain Edema, Brain Non-enhancing Tumor",Cerebral Edema,OPEN,Abnormality,0.0,0.2
+820,xmlab525/source.jpg,How many kinds of abnormalities are there in this image?,2,2,OPEN,Quantity,1.0,1.0
+821,xmlab525/source.jpg,How much damage will be caused to the body taking such an image?,None,None,OPEN,KG,1.0,1.0
+822,xmlab529/source.jpg,Is this an MRI scan?,Yes,Yes,CLOSED,Modality,1.0,1.0
+823,xmlab529/source.jpg,What is the mr weighting in this image?,T2,T2,OPEN,Modality,1.0,1.0
+824,xmlab529/source.jpg,Is this a coronal section?,No,No,CLOSED,Plane,1.0,1.0
+825,xmlab529/source.jpg,Do the organs in the image exist in the neck?,No,No,CLOSED,Position,1.0,1.0
+826,xmlab529/source.jpg,Where is the brain edema located?,Left Lobe,Right Lobe,OPEN,Position,0.0,0.5
+827,xmlab529/source.jpg,What organ system is pictured?,Head,Head,OPEN,Organ,1.0,1.0
+828,xmlab529/source.jpg,Is the brain normal appearing?,No,No,CLOSED,Abnormality,1.0,1.0
+829,xmlab529/source.jpg,How much damage will be caused to the body taking such an image?,None,None,OPEN,KG,1.0,1.0
+830,xmlab53/source.jpg,What modality is used to take this image?,MRI,MRI,OPEN,Modality,1.0,1.0
+831,xmlab53/source.jpg,Which part of the body does this image belong to?,Brain,Head,OPEN,Position,0.0,0.0
+832,xmlab53/source.jpg,What is the mr weighting in this image?,T2,T2,OPEN,Modality,1.0,1.0
+833,xmlab53/source.jpg,What is the main organ in the image?,Brain,Brain,OPEN,Organ,1.0,1.0
+834,xmlab53/source.jpg,What is the largest organ in the picture?,Brain,Brain,OPEN,Size,1.0,1.0
+835,xmlab53/source.jpg,Does the picture contain brian?,Yes,Yes,CLOSED,Organ,1.0,1.0
+836,xmlab53/source.jpg,What diseases are included in the picture?,None,Brain Tumor,OPEN,Abnormality,0.0,0.0
+837,xmlab53/source.jpg,Does the brain look abnormal?,No,Yes,CLOSED,Abnormality,0.0,0.0
+838,xmlab532/source.jpg,Is this image taken via MRI?,Yes,Yes,CLOSED,Modality,1.0,1.0
+839,xmlab532/source.jpg,"Which kind of weighting is this image generated with, t1 or t2?",T2,T2,CLOSED,Modality,1.0,1.0
+840,xmlab532/source.jpg,Is this a transverse section?,Yes,Yes,CLOSED,Plane,1.0,1.0
+841,xmlab532/source.jpg,Which part do the organs in this image locate from the aspect of the whole body?,Head,Head,OPEN,Position,1.0,1.0
+842,xmlab532/source.jpg,Where are the abnormalities in this image?,Lower Left Lobe,Left Lobe,OPEN,Position,0.0,0.6666666666666666
+843,xmlab532/source.jpg,Which organ system is imaged?,Head,Head,OPEN,Organ,1.0,1.0
+844,xmlab532/source.jpg,What disease is/are shown on the left of brain?,Brain Edema,Cerebral Edema,OPEN,Abnormality,0.0,0.5
+845,xmlab532/source.jpg,How many kinds of abnormalities are there in this image?,1,2,OPEN,Quantity,0.0,0.0
+846,xmlab532/source.jpg,How much damage will be caused to the body taking such an image?,None,None,OPEN,KG,1.0,1.0
+847,xmlab538/source.jpg,Which is the kidney in this image?,Symmetrical to the bottom spine,Left,OPEN,Position,0.0,0.0
+848,xmlab538/source.jpg,What organ is the gray part on the left of the image?,Liver,Liver,OPEN,Organ,1.0,1.0
+849,xmlab538/source.jpg,Does the stomach appear in the image?,No,Yes,CLOSED,Organ,0.0,0.0
+850,xmlab538/source.jpg,Does the picture contain spleen?,Yes,Yes,CLOSED,Organ,1.0,1.0
+851,xmlab538/source.jpg,What color is the spleen in the picture?,Gray,Gray,OPEN,Color,1.0,1.0
+852,xmlab538/source.jpg,"Which is smaller in this image,liver or right kidney?",Right Kidney,Right Kidney,CLOSED,Size,1.0,1.0
+853,xmlab538/source.jpg,How many organs are there in this image?,6,5,OPEN,Quantity,0.0,0.0
+854,xmlab538/source.jpg,How much damage will be caused to the body taking such an image?,Much,Lot,OPEN,KG,0.0,0.0
+855,xmlab538/source.jpg,Which organs/organ is part of the lymphatic system in this image?,Spleen,Lymph Node,OPEN,KG,0.0,0.0
+856,xmlab538/source.jpg,Which organs/organ is part of the urinary system in this image?,Kidney,Bladder,OPEN,KG,0.0,0.0
+857,xmlab538/source.jpg,Does the picture contain the organ which has the effect of discharging waste?,Yes,No,CLOSED,KG,0.0,0.0
+858,xmlab538/source.jpg,Do any of the organs in the picture belong to the respiratory system?,No,No,CLOSED,KG,1.0,1.0
+859,xmlab543/source.jpg,In what plane is this image scanned?,Transverse Plane,Transverse Plane,OPEN,Plane,1.0,1.0
+860,xmlab543/source.jpg,Where is the colon in this image?,Upper Right,Top,OPEN,Position,0.0,0.0
+861,xmlab543/source.jpg,Is this a study of the abdomen?,Yes,Yes,CLOSED,Organ,1.0,1.0
+862,xmlab543/source.jpg,Does the trachea exist in this picture?,No,Yes,CLOSED,Organ,0.0,0.0
+863,xmlab543/source.jpg,Does the picture contain bladder?,No,No,CLOSED,Organ,1.0,1.0
+864,xmlab543/source.jpg,"Which is smaller in this image,liver or lung?",Lung,Lung,CLOSED,Size,1.0,1.0
+865,xmlab543/source.jpg,How many lungs have existed in this image?,2,2,OPEN,Quantity,1.0,1.0
+866,xmlab543/source.jpg,What is the effect of the organ on the upper left of this image?,"Biotransformation, detoxification",Breathe,OPEN,KG,0.0,0.0
+867,xmlab543/source.jpg,Which organs/organ in the picture belong to the respiratory system?,Lung,Lung,OPEN,KG,1.0,1.0
+868,xmlab543/source.jpg,Does the picture contain the organ that could be used for secreting enzymes?,No,No,CLOSED,KG,1.0,1.0
+869,xmlab543/source.jpg,Do any of the organs in the picture belong to the digestive system?,Yes,Yes,CLOSED,KG,1.0,1.0
+870,xmlab548/source.jpg,Which organ system is imaged?,Abdomen,Abdomen,OPEN,Organ,1.0,1.0
+871,xmlab548/source.jpg,Does the larynx appear in the image?,No,No,CLOSED,Organ,1.0,1.0
+872,xmlab548/source.jpg,Does the lung exist in this picture?,Yes,No,CLOSED,Organ,0.0,0.0
+873,xmlab548/source.jpg,"Which is smaller in this image,colon or liver?",Colon,Colon,CLOSED,Size,1.0,1.0
+874,xmlab548/source.jpg,How many existing heart in this image?,0,1,OPEN,Quantity,0.0,0.0
+875,xmlab548/source.jpg,What is the function of the organs appearing in pairs in the picture?,Breathe,Breathe,OPEN,KG,1.0,1.0
+876,xmlab548/source.jpg,Which organs/organ is part of the digestive system in this image?,"Stomach, Colon",Stomach,OPEN,KG,0.0,0.5
+877,xmlab548/source.jpg,Which organs/organ in the picture belong to the urinary system?,Kidney,Bladder,OPEN,KG,0.0,0.0
+878,xmlab548/source.jpg,Does the picture contain the organ which has the effect of detoxicating?,Yes,Yes,CLOSED,KG,1.0,1.0
+879,xmlab548/source.jpg,Does the picture contain the organ which has the effect of adjusting water and osmotic pressure balance?,Yes,No,CLOSED,KG,0.0,0.0
+880,xmlab554/source.jpg,What organ is the gray part on the right of the image?,Small Bowel,Liver,OPEN,Organ,0.0,0.0
+881,xmlab554/source.jpg,Does the picture contain colon?,No,Yes,CLOSED,Organ,0.0,0.0
+882,xmlab554/source.jpg,Does the picture contain brain stem?,No,No,CLOSED,Organ,1.0,1.0
+883,xmlab554/source.jpg,"Which is smaller in this image,kidney or small bowel?",Kidney,Small Bowel,CLOSED,Size,0.0,0.0
+884,xmlab554/source.jpg,How many existing heart in this image?,0,0,OPEN,Quantity,1.0,1.0
+885,xmlab554/source.jpg,What is the effect of the organ on the top of this image?,"Absorb nutrients, secrete enzymes, digest food",Breathe,OPEN,KG,0.0,0.0
+886,xmlab554/source.jpg,Are there some organs controlling heartbeat and breathing in this image?,No,No,CLOSED,KG,1.0,1.0
+887,xmlab554/source.jpg,Does the picture contain the organ which has the effect of digesting food?,Yes,Yes,CLOSED,KG,1.0,1.0
+888,xmlab557/source.jpg,Which is the kidney in this image?,Symmetrical to the bottom spine,Left,OPEN,Position,0.0,0.0
+889,xmlab557/source.jpg,What organ is the black part on the upper left of the image?,Small Bowel,Liver,OPEN,Organ,0.0,0.0
+890,xmlab557/source.jpg,Does the rectum appear in this picture?,No,Yes,CLOSED,Organ,0.0,0.0
+891,xmlab557/source.jpg,Does the picture contain heart?,No,No,CLOSED,Organ,1.0,1.0
+892,xmlab557/source.jpg,What color does the left kidney show in the picture?,Gray,Gray,OPEN,Color,1.0,1.0
+893,xmlab557/source.jpg,"Which is smaller in this image, liver or right kidney?",Liver,Right Kidney,CLOSED,Size,0.0,0.0
+894,xmlab557/source.jpg,How many organs are there in this image?,5,5,OPEN,Quantity,1.0,1.0
+895,xmlab557/source.jpg,What is the shape of spinal cord in this image?,Circular,Oval,OPEN,Shape,0.0,0.0
+896,xmlab557/source.jpg,What is the effect of the organ on the top of this image?,"Absorb nutrients, secrete enzymes, digest food",Breathe,OPEN,KG,0.0,0.0
+897,xmlab557/source.jpg,Which organs/organ is part of the nervous system in this image?,Spinal cord,Spinal Cord,OPEN,KG,1.0,1.0
+898,xmlab557/source.jpg,Does the picture contain the organ which has the effect of digesting food?,Yes,Yes,CLOSED,KG,1.0,1.0
+899,xmlab557/source.jpg,Does the picture contain the organ that could be used for secreting enzymes?,Yes,Yes,CLOSED,KG,1.0,1.0
+900,xmlab561/source.jpg,Where is the liver in this image?,Left,Top Left,OPEN,Position,0.0,1.0
+901,xmlab561/source.jpg,Is this a study of the abdomen?,Yes,Yes,CLOSED,Organ,1.0,1.0
+902,xmlab561/source.jpg,Does the picture contain colon?,No,Yes,CLOSED,Organ,0.0,0.0
+903,xmlab561/source.jpg,Does the humerus head exist in this picture?,No,No,CLOSED,Organ,1.0,1.0
+904,xmlab561/source.jpg,What color does the duodenum show in the picture?,Gray,Black,OPEN,Color,0.0,0.0
+905,xmlab561/source.jpg,"Which is smaller in this image, spleen or kidney?",Spleen,Spleen,CLOSED,Size,1.0,1.0
+906,xmlab561/source.jpg,How many lungs have existed in this image?,0,0,OPEN,Quantity,1.0,1.0
+907,xmlab561/source.jpg,What is the shape of spleen in the picture?,Oval,Oval,OPEN,Shape,1.0,1.0
+908,xmlab561/source.jpg,What is the function of the organ on the center of this image?,"Absorb nutrients, secrete enzymes, digest food",Digest food,OPEN,KG,0.0,0.3333333333333333
+909,xmlab561/source.jpg,Which organs/organ is part of the nervous system in this image?,Spinal cord,Spinal Cord,OPEN,KG,1.0,1.0
+910,xmlab561/source.jpg,Are there organs in the picture that can adjust water and osmotic pressure balance?,Yes,Yes,CLOSED,KG,1.0,1.0
+911,xmlab561/source.jpg,Are there any organs used for breathing in this image?,No,No,CLOSED,KG,1.0,1.0
+912,xmlab573/source.jpg,Is this a transverse section?,Yes,Yes,CLOSED,Plane,1.0,1.0
+913,xmlab573/source.jpg,Where is the stomach in this image?,Upper Right,Top,OPEN,Position,0.0,0.0
+914,xmlab573/source.jpg,Which organ system is imaged?,Abdomen,Abdomen,OPEN,Organ,1.0,1.0
+915,xmlab573/source.jpg,Does the picture contain eyes?,No,No,CLOSED,Organ,1.0,1.0
+916,xmlab573/source.jpg,Is there femoral head in this picture?,No,No,CLOSED,Organ,1.0,1.0
+917,xmlab573/source.jpg,"Which is bigger in this image,liver or stomach?",Liver,Liver,CLOSED,Size,1.0,1.0
+918,xmlab573/source.jpg,How many kidneys have existed in this image?,0,0,OPEN,Quantity,1.0,1.0
+919,xmlab573/source.jpg,What is the shape of spinal cord in this image?,Circular,Oval,OPEN,Shape,0.0,0.0
+920,xmlab573/source.jpg,What is the function of the rightmost organ in this picture?,Improve the body's immunity,Breathe,OPEN,KG,0.0,0.0
+921,xmlab573/source.jpg,Which organs/organ in the picture belong to the lymphatic system?,Spleen,Lymph Node,OPEN,KG,0.0,0.0
+922,xmlab573/source.jpg,Does the picture contain the organ that could receive sound?,No,No,CLOSED,KG,1.0,1.0
+923,xmlab573/source.jpg,Does the picture contain the organ which has the effect of gas delivery?,No,No,CLOSED,KG,1.0,1.0
+924,xmlab578/source.jpg,In what plane is this image scanned?,Transverse Plane,Transverse Plane,OPEN,Plane,1.0,1.0
+925,xmlab578/source.jpg,Where is the esophagus in this image?,Center,Top,OPEN,Position,0.0,0.0
+926,xmlab578/source.jpg,What is the organ system visualized?,Abdomen,Abdomen,OPEN,Organ,1.0,1.0
+927,xmlab578/source.jpg,Does the esophagus exist in this picture?,Yes,Yes,CLOSED,Organ,1.0,1.0
+928,xmlab578/source.jpg,Does the stomach appear in the image?,No,Yes,CLOSED,Organ,0.0,0.0
+929,xmlab578/source.jpg,What color is the spleen in this image?,Gray,Gray,OPEN,Color,1.0,1.0
+930,xmlab578/source.jpg,"Which is the biggest in this image, spleen, heart or liver?",Liver,Liver,CLOSED,Size,1.0,1.0
+931,xmlab578/source.jpg,How many existing heart in this image?,1,1,OPEN,Quantity,1.0,1.0
+932,xmlab578/source.jpg,How much damage will be caused to the body taking such an image?,Much,A lot,OPEN,KG,0.0,0.0
+933,xmlab578/source.jpg,Are there organs in the picture that can digest food?,No,No,CLOSED,KG,1.0,1.0
+934,xmlab58/source.jpg,What modality is used to take this image?,MRI,MRI,OPEN,Modality,1.0,1.0
+935,xmlab58/source.jpg,Which part of the body does this image belong to?,Brain,Head,OPEN,Position,0.0,0.0
+936,xmlab58/source.jpg,What is the mr weighting in this image?,T2,T2,OPEN,Modality,1.0,1.0
+937,xmlab58/source.jpg,What is the main organ in the image?,Brain,Brain,OPEN,Organ,1.0,1.0
+938,xmlab58/source.jpg,What is the largest organ in the picture?,Brain,Brain,OPEN,Size,1.0,1.0
+939,xmlab58/source.jpg,Does the picture contain brian?,Yes,Yes,CLOSED,Organ,1.0,1.0
+940,xmlab58/source.jpg,What diseases are included in the picture?,"Brain Tumor, Brain Edema",Cerebral Edema,OPEN,Abnormality,0.0,0.3333333333333333
+941,xmlab58/source.jpg,Is the brain healthy?,No,No,CLOSED,Abnormality,1.0,1.0
+942,xmlab58/source.jpg,Where is/are the abnormality located?,Lower Left,Left Side,OPEN,Position,0.0,0.5
+943,xmlab580/source.jpg,Which part of the body does this image belong to?,Abdomen,Abdomen,OPEN,Position,1.0,1.0
+944,xmlab580/source.jpg,"Where is the heart in this image,left,top or upper left?",Top,Left,CLOSED,Position,0.0,0.0
+945,xmlab580/source.jpg,Is this a study of the abdomen?,Yes,Yes,CLOSED,Organ,1.0,1.0
+946,xmlab580/source.jpg,Does the picture contain heart?,Yes,No,CLOSED,Organ,0.0,0.0
+947,xmlab580/source.jpg,Does the picture contain stomach?,No,Yes,CLOSED,Organ,0.0,0.0
+948,xmlab580/source.jpg,"Which is smaller in this image, esophagus or liver?",Esophagus,Esophagus,CLOSED,Size,1.0,1.0
+949,xmlab580/source.jpg,How many lungs have existed in this image?,2,2,OPEN,Quantity,1.0,1.0
+950,xmlab580/source.jpg,How much damage will be caused to the body taking such an image?,Much,Lot,OPEN,KG,0.0,0.0
+951,xmlab580/source.jpg,Which organs/organ in the picture belong to the digestive system?,Esophagus,Stomach,OPEN,KG,0.0,0.0
+952,xmlab580/source.jpg,Does the picture contain the organ which has the effect of gas delivery?,No,No,CLOSED,KG,1.0,1.0
+953,xmlab580/source.jpg,Does the picture contain the organ that could promote blood flow?,Yes,Yes,CLOSED,KG,1.0,1.0
+954,xmlab586/source.jpg,In what plane is this image scanned?,Transverse Plane,Transverse Plane,OPEN,Plane,1.0,1.0
+955,xmlab586/source.jpg,What is the leftmost organ in this image?,Right Lung,Left Lung,OPEN,Organ,0.0,0.5
+956,xmlab586/source.jpg,Does the picture contain spinal cord?,Yes,No,CLOSED,Organ,0.0,0.0
+957,xmlab586/source.jpg,Does the rectum appear in this picture?,No,No,CLOSED,Organ,1.0,1.0
+958,xmlab586/source.jpg,What color is the lung in this image?,Black,Black,OPEN,Color,1.0,1.0
+959,xmlab586/source.jpg,"Which is smaller in this image,heart or esophagus?",Esophagus,Esophagus,CLOSED,Size,1.0,1.0
+960,xmlab586/source.jpg,How many organs are there in this image?,4,4,OPEN,Quantity,1.0,1.0
+961,xmlab586/source.jpg,What is the function of the organ on the top of this image?,Promote blood flow,Breathe,OPEN,KG,0.0,0.0
+962,xmlab586/source.jpg,Does the picture contain the organ that could receive sound?,No,No,CLOSED,KG,1.0,1.0
+963,xmlab586/source.jpg,Does the picture contain the organ which has the effect of sensing light?,No,No,CLOSED,KG,1.0,1.0
+964,xmlab604/source.jpg,What modality is used to take this image?,CT,CT,OPEN,Modality,1.0,1.0
+965,xmlab604/source.jpg,Where does the image represent in the body?,Pelvic Cavity,Abdomen,OPEN,Position,0.0,0.0
+966,xmlab604/source.jpg,Where is the rectum existing in this image?,Bottom,Middle,OPEN,Position,0.0,0.0
+967,xmlab604/source.jpg,What organ system is primarily present in this image?,Pelvic Cavity,Abdomen,OPEN,Organ,0.0,0.0
+968,xmlab604/source.jpg,Does the picture contain bladder?,Yes,Yes,CLOSED,Organ,1.0,1.0
+969,xmlab604/source.jpg,Does the parotid appear in the image?,No,Yes,CLOSED,Organ,0.0,0.0
+970,xmlab604/source.jpg,"Which is smaller in this image, bladder or rectum?",Rectum,Rectum,CLOSED,Size,1.0,1.0
+971,xmlab604/source.jpg,How many femoral heads are shown in this image?,0,2,OPEN,Quantity,0.0,0.0
+972,xmlab604/source.jpg,What is the function of the organ on the bottom of this picture?,"Store feces, excrete feces",Excrete waste,OPEN,KG,0.0,0.3333333333333333
+973,xmlab604/source.jpg,Which organs/organ in the picture belong to the digestive system?,Rectum,"Stomach, Small Bowel",OPEN,KG,0.0,0.0
+974,xmlab604/source.jpg,Does the picture contain the organ which has the effect of discharging waste?,No,Yes,CLOSED,KG,0.0,0.0
+975,xmlab604/source.jpg,Does the picture contain the organ which has the effect of excreting feces?,Yes,Yes,CLOSED,KG,1.0,1.0
+976,xmlab605/source.jpg,Is this a coronal section?,No,No,CLOSED,Plane,1.0,1.0
+977,xmlab605/source.jpg,Which part do the organs in this image locate from the aspect of the whole body?,Pelvic Cavity,Abdomen,OPEN,Position,0.0,0.0
+978,xmlab605/source.jpg,Where is rectum in this image?,Bottom,Middle,OPEN,Position,0.0,0.0
+979,xmlab605/source.jpg,What is the organ system visualized?,Pelvic Cavity,Abdomen,OPEN,Organ,0.0,0.0
+980,xmlab605/source.jpg,Does the picture contain rectum?,Yes,Yes,CLOSED,Organ,1.0,1.0
+981,xmlab605/source.jpg,Does the picture contain bladder?,Yes,Yes,CLOSED,Organ,1.0,1.0
+982,xmlab605/source.jpg,What is the largest organ in the picture?,Bladder,Abdomen,OPEN,Size,0.0,0.0
+983,xmlab605/source.jpg,What is the effect of the gray organ on the center of this picture?,Store urine,Bowel movement,OPEN,KG,0.0,0.0
+984,xmlab605/source.jpg,Which organs/organ is part of the digestive system in this image?,Rectum,Small Bowel,OPEN,KG,0.0,0.0
+985,xmlab605/source.jpg,Does the picture contain the organ which has the effect of excreting feces?,Yes,No,CLOSED,KG,0.0,0.0
+986,xmlab605/source.jpg,Does the picture contain the organ which has the effect of detoxicating?,No,No,CLOSED,KG,1.0,1.0
+987,xmlab622/source.jpg,Which part of the body does this image belong to?,Pelvic Cavity,Abdomen,OPEN,Position,0.0,0.0
+988,xmlab622/source.jpg,Is this a study of the pelvic cavity?,Yes,Yes,CLOSED,Organ,1.0,1.0
+989,xmlab622/source.jpg,Does the picture contain colon?,Yes,Yes,CLOSED,Organ,1.0,1.0
+990,xmlab622/source.jpg,Which organs/organ in the picture belong to the urinary system?,Bladder,Bladder,OPEN,KG,1.0,1.0
+991,xmlab622/source.jpg,Are there organs in the picture that can deliver food?,No,Yes,CLOSED,KG,0.0,0.0
+992,xmlab628/source.jpg,How was this image taken?,CT,With radiation,OPEN,Modality,0.0,0.0
+993,xmlab628/source.jpg,Where does the picture show?,Pelvic Cavity,Abdomen,OPEN,Position,0.0,0.0
+994,xmlab628/source.jpg,Does the rectum exist in this picture?,No,Yes,CLOSED,Organ,0.0,0.0
+995,xmlab628/source.jpg,"Which is bigger in this image, small bowel or colon?",Small Bowel,Small Bowel,CLOSED,Size,1.0,1.0
+996,xmlab628/source.jpg,What is the function of the organ on the bottom of this image?,"Digest food, absorb water, excrete body waste",Bowel movement,OPEN,KG,0.0,0.0
+997,xmlab628/source.jpg,Do any of the organs in the picture belong to the urinary system?,No,No,CLOSED,KG,1.0,1.0
+998,xmlab629/source.jpg,What organ system is pictured?,Pelvic Cavity,Abdomen,OPEN,Organ,0.0,0.0
+999,xmlab629/source.jpg,Is there colon in the image?,Yes,Yes,CLOSED,Organ,1.0,1.0
+1000,xmlab629/source.jpg,"Which is smaller in this image, colon or small bowel?",Colon,Small Bowel,CLOSED,Size,0.0,0.0
+1001,xmlab629/source.jpg,What is the function of the organ on the top of this image?,"Absorb nutrients, secrete enzymes, digest food",Bowel movement,OPEN,KG,0.0,0.0
+1002,xmlab629/source.jpg,Do any of the organs in the picture belong to the digestive system?,Yes,Yes,CLOSED,KG,1.0,1.0
+1003,xmlab634/source.jpg,Is this a coronal plane?,No,No,CLOSED,Plane,1.0,1.0
+1004,xmlab634/source.jpg,Which part of the human body is the organ located in the image?,Pelvic Cavity,Abdomen,OPEN,Position,0.0,0.0
+1005,xmlab634/source.jpg,Where is colon in this image?,Upper Left,Upper Left,OPEN,Position,1.0,1.0
+1006,xmlab634/source.jpg,What organ system is primarily present in this image?,Pelvic Cavity,Abdomen,OPEN,Organ,0.0,0.0
+1007,xmlab634/source.jpg,Is there spinal cord in this picture?,Yes,Yes,CLOSED,Organ,1.0,1.0
+1008,xmlab634/source.jpg,What is the effect of the organ on the left of this picture?,"Digest food, absorb water, excrete body waste",Bowel movement,OPEN,KG,0.0,0.0
+1009,xmlab634/source.jpg,Which organs/organ is part of the digestive system in this image?,"Colon, Small Bowel","Stomach, Small Bowel",OPEN,KG,0.0,0.6666666666666666
+1010,xmlab634/source.jpg,Are there organs in the picture that can promote blood flow?,No,Yes,CLOSED,KG,0.0,0.0
+1011,xmlab71/source.jpg,What modality is used to take this image?,MRI,MRI,OPEN,Modality,1.0,1.0
+1012,xmlab71/source.jpg,Which part of the body does this image belong to?,Brain,Head,OPEN,Position,0.0,0.0
+1013,xmlab71/source.jpg,What is the mr weighting in this image?,T2,T2,OPEN,Modality,1.0,1.0
+1014,xmlab71/source.jpg,What is the main organ in the image?,Brain,Brain,OPEN,Organ,1.0,1.0
+1015,xmlab71/source.jpg,What is the largest organ in the picture?,Brain,Brain,OPEN,Size,1.0,1.0
+1016,xmlab71/source.jpg,Does the picture contain brian?,Yes,Yes,CLOSED,Organ,1.0,1.0
+1017,xmlab71/source.jpg,What diseases are included in the picture?,None,Brain Tumor,OPEN,Abnormality,0.0,0.0
+1018,xmlab71/source.jpg,Is the brain healthy?,Yes,No,CLOSED,Abnormality,0.0,0.0
+1019,xmlab77/source.jpg,What modality is used to take this image?,MRI,MRI,OPEN,Modality,1.0,1.0
+1020,xmlab77/source.jpg,Which part of the body does this image belong to?,Brain,Brain,OPEN,Position,1.0,1.0
+1021,xmlab77/source.jpg,What is the mr weighting in this image?,T2,T2,OPEN,Modality,1.0,1.0
+1022,xmlab77/source.jpg,What is the main organ in the image?,Brain,Brain,OPEN,Organ,1.0,1.0
+1023,xmlab77/source.jpg,What is the largest organ in the picture?,Brain,Brain,OPEN,Size,1.0,1.0
+1024,xmlab77/source.jpg,Does the picture contain brian?,Yes,Yes,CLOSED,Organ,1.0,1.0
+1025,xmlab77/source.jpg,What diseases are included in the picture?,None,Alzheimer's Disease,OPEN,Abnormality,0.0,0.0
+1026,xmlab77/source.jpg,Is the brain healthy?,Yes,No,CLOSED,Abnormality,0.0,0.0
+1027,xmlab82/source.jpg,What modality is used to take this image?,CT,CT,OPEN,Modality,1.0,1.0
+1028,xmlab82/source.jpg,Which part of the body does this image belong to?,Chest,Chest,OPEN,Position,1.0,1.0
+1029,xmlab82/source.jpg,What is the main organ in the image?,Lung,Lung,OPEN,Organ,1.0,1.0
+1030,xmlab82/source.jpg,What is the largest organ in the picture?,Lung,Lung,OPEN,Size,1.0,1.0
+1031,xmlab82/source.jpg,Does the picture contain liver?,No,No,CLOSED,Organ,1.0,1.0
+1032,xmlab82/source.jpg,Does the picture contain lung?,Yes,Yes,CLOSED,Organ,1.0,1.0
+1033,xmlab82/source.jpg,Does the picture contain heart?,Yes,Yes,CLOSED,Organ,1.0,1.0
+1034,xmlab82/source.jpg,What diseases are included in the picture?,None,Pneumonia,OPEN,Abnormality,0.0,0.0
+1035,xmlab82/source.jpg,Is the lung healthy?,Yes,No,CLOSED,Abnormality,0.0,0.0
+1036,xmlab82/source.jpg,"Which is the biggest in this image,lung,liver or heart?",Lung,Lung,CLOSED,Size,1.0,1.0
+1037,xmlab85/source.jpg,What modality is used to take this image?,CT,CT,OPEN,Modality,1.0,1.0
+1038,xmlab85/source.jpg,Which part of the body does this image belong to?,Chest,Abdomen,OPEN,Position,0.0,0.0
+1039,xmlab85/source.jpg,What is the main organ in the image?,Liver,Liver,OPEN,Organ,1.0,1.0
+1040,xmlab85/source.jpg,What is the largest organ in the picture?,Liver,Liver,OPEN,Size,1.0,1.0
+1041,xmlab85/source.jpg,Does the picture contain liver?,Yes,Yes,CLOSED,Organ,1.0,1.0
+1042,xmlab85/source.jpg,Does the picture contain lung?,Yes,Yes,CLOSED,Organ,1.0,1.0
+1043,xmlab85/source.jpg,Does the picture contain heart?,No,No,CLOSED,Organ,1.0,1.0
+1044,xmlab85/source.jpg,Does the lung look healthy?,Yes,No,CLOSED,Abnormality,0.0,0.0
+1045,xmlab85/source.jpg,"Which is the biggest in this image,lung,liver or heart?",Liver,Liver,CLOSED,Size,1.0,1.0
+1046,xmlab90/source.jpg,What modality is used to take this image?,CT,CT,OPEN,Modality,1.0,1.0
+1047,xmlab90/source.jpg,Which part of the body does this image belong to?,Chest,Chest,OPEN,Position,1.0,1.0
+1048,xmlab90/source.jpg,What is the main organ in the image?,"Lung, Heart",Lung,OPEN,Organ,0.0,0.5
+1049,xmlab90/source.jpg,What is the largest organ in the picture?,Lung,Lung,OPEN,Size,1.0,1.0
+1050,xmlab90/source.jpg,Does the picture contain liver?,No,No,CLOSED,Organ,1.0,1.0
+1051,xmlab90/source.jpg,Does the picture contain lung?,Yes,Yes,CLOSED,Organ,1.0,1.0
+1052,xmlab90/source.jpg,Does the picture contain heart?,Yes,Yes,CLOSED,Organ,1.0,1.0
+1053,xmlab90/source.jpg,Is the lung healthy?,Yes,No,CLOSED,Abnormality,0.0,0.0
+1054,xmlab90/source.jpg,"Which is the biggest in this image,lung,liver or heart?",Lung,Lung,CLOSED,Size,1.0,1.0
+1055,xmlab93/source.jpg,What modality is used to take this image?,CT,CT,OPEN,Modality,1.0,1.0
+1056,xmlab93/source.jpg,Which part of the body does this image belong to?,Chest,Abdomen,OPEN,Position,0.0,0.0
+1057,xmlab93/source.jpg,What is the main organ in the image?,Spinal Cord,Abdominal Aorta,OPEN,Organ,0.0,0.0
+1058,xmlab93/source.jpg,Does the picture contain liver?,No,No,CLOSED,Organ,1.0,1.0
+1059,xmlab93/source.jpg,Does the picture contain lung?,No,No,CLOSED,Organ,1.0,1.0
+1060,xmlab93/source.jpg,Does the picture contain heart?,No,No,CLOSED,Organ,1.0,1.0
