@@ -21,3 +21,7 @@
 ## 2026-10-13 - slake_img10_s2024
 - 45 training images / 472 questions, 3 epochs, lr 0.0002, seed 2024; train 96.3 min, peak 5.0 GB
 - test (n=1061): overall 0.6739 [0.6449, 0.7006], closed 0.7788, open 0.6062
+
+## 2026-10-13 - slake_img25_s42
+- 112 training images / 1232 questions, 3 epochs, lr 0.0002, seed 42; train 246.1 min, peak 5.0 GB
+- test (n=1061): overall 0.7069 [0.6788, 0.7348], closed 0.7909, open 0.6527
