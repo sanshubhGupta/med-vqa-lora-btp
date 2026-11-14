@@ -1,0 +1,16 @@
+Question: How many kidneys in this image?
+Answer: 0
+Question: Is the lung healthy?
+Answer: No
+Question: Where is/are the abnormality located in this picture?
+Answer: Heart
+Question: What are the white veins in the black part of the body in this image?
+Answer: Pulmonary bronchus
+Question: Does the picture contain brian?
+Answer: Yes
+Question: Is the lung normal appearing?
+Answer: No
+Question: What is the mr weighting in this image?
+Answer: T1
+Question: Is the lung unhealthy?
+Answer: Yes

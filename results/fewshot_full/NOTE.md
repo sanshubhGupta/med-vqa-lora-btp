@@ -1,0 +1,6 @@
+## 2026-11-14 - few-shot (text-only, 8 examples) baseline, n=1061
+            exact: few-shot gain exact: fine-tuned gain (mean of runs) exact: share of gap closed by few-shot contain_short: few-shot gain contain_short: fine-tuned gain (mean of runs) contain_short: share of gap closed by few-shot
+subset                                                                                                                                                                                                                                 
+overall  -0.055 [-0.075, -0.034]                                +0.133                                   -41%      -0.063 [-0.085, -0.042]                                        +0.126                                           -50%
+CLOSED   -0.048 [-0.084, -0.010]                                +0.062                                   -78%      -0.060 [-0.097, -0.020]                                        +0.050                                          -121%
+OPEN     -0.059 [-0.081, -0.036]                                +0.179                                   -33%      -0.065 [-0.089, -0.041]                                        +0.176                                           -37%
