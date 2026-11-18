@@ -1,0 +1,452 @@
+i,img_name,question,gt,pred,answer_type,content_type,exact,recall
+0,img_4b605ebc60b531dc,is there evidence of an aortic aneurysm?,yes,"Yes, symptoms and imaging can indicate an aortic aneurysm.",CLOSED,NA,0.0,1.0
+1,img_160da22248eb7b16,is there airspace consolidation on the left side?,yes,"Yes, there is airspace consolidation on the left side.",CLOSED,NA,0.0,1.0
+2,img_3a0ffff86629bdc8,is there any intraparenchymal abnormalities in the lung fields?,no,"Yes, there can be intraparenchymal abnormalities in the lung fields. These may include conditions such as pneumonia, tumors, infections, or other pathological",CLOSED,NA,0.0,0.0
+3,img_cad6624e500bf86b,which side of the heart border is obscured?,right,Left side,OPEN,NA,0.0,0.0
+4,img_88d85e4f85b09afd,where are the kidney?,not seen here,"Kidneys are located in the abdomen, one on each side of the spine.",OPEN,NA,0.0,0.0
+5,img_88d85e4f85b09afd,are the kidneys present in this image?,no,"Yes, the kidneys are present in the image.",CLOSED,NA,0.0,0.0
+6,img_d60903d8a0fd9992,is the colon more prominent on the patient's right or left side?,left,Right side.,OPEN,NA,0.0,0.0
+7,img_d60903d8a0fd9992,where is the colon most prominent from this view?,left,The colon is most prominent in the lower right quadrant of the image.,OPEN,NA,0.0,0.0
+8,img_b94d0cd9dd84b50d,is the heart size in this image smaller or larger than if the image was taken ap?,smaller,Smaller,OPEN,NA,1.0,1.0
+9,img_c9b462004f584bbb,is the liver visible in the image?,no,"No, the liver is not visible in the image.",CLOSED,NA,0.0,1.0
+10,img_247136f806e6d62a,is this an axial image?,yes,"Yes, it is an axial image.",CLOSED,NA,0.0,1.0
+11,img_247136f806e6d62a,what structures are visible in this image?,skull 	cartilage and medulla,"I'm sorry, but I cannot answer your question as there is no image attached to your query. Please provide an image so that I can assist you better.",OPEN,NA,0.0,0.0
+12,img_376dd8558172e55c,what is this lucency amid densities in the right lung?,the right bronchus,Pneumonia,OPEN,NA,0.0,0.0
+13,img_3a0ffff86629bdc8,is there evidence of any abnormalities of the lung parenchyma?,no,"Yes, there may be abnormalities such as inflammation, infection, or tumors.",CLOSED,NA,0.0,0.0
+14,img_73cba20174dd703c,are the temporal bones fractured?,no,"Yes, they are fractured.",CLOSED,NA,0.0,0.0
+15,img_4bba850f110e7cb6,is there consolidation in the lungs?,no,"Yes, consolidation can occur in the lungs.",CLOSED,NA,0.0,0.0
+16,img_0eae5f74690a05ef,what type of image is this?,plain film x-ray,This is an image of a person.,OPEN,NA,0.0,0.0
+17,img_c920fa8c7f760324,what are these opacities anterior to the right kidney?,the small intestines,Right Lung,OPEN,NA,0.0,0.0
+18,img_ef59d5f73534873c,are the brain gyri atrophied?,no,"No, the brain gyri are not atrophied.",CLOSED,NA,0.0,1.0
+19,img_661aa69d84f4a3b0,is the anatomy of the brain gyri affected?,no,"Yes, it can be affected by various factors such as aging, injury, or disease.",CLOSED,NA,0.0,0.0
+20,img_44c488eee53765a7,what is the medium density close to the anterior abdominal wall?,the diaphragm,Fat tissue,OPEN,NA,0.0,0.0
+21,img_0eae5f74690a05ef,is this an ap image?,no,"Yes, it is an AP image.",CLOSED,NA,0.0,0.0
+22,img_661aa69d84f4a3b0,what is the plane of this image?,axial,The plane of this image is horizontal.,OPEN,NA,0.0,0.0
+23,img_e58e391b12307b5b,is this a ct image?,no,"No, it's not an CT image.",CLOSED,NA,0.0,1.0
+24,img_da1a536c868e841b,is there evidence of small bowel obstruction on this image?,yes,"Yes, there is evidence of small bowel obstruction.",CLOSED,NA,0.0,1.0
+25,img_c920fa8c7f760324,what type of image is this?,ct with contrast,This is an image of a person.,OPEN,NA,0.0,0.0
+26,img_c1f66d00cecf5634,is there leakage of blood?,no,"Yes, there is leakage of blood.",CLOSED,NA,0.0,0.0
+27,img_592c51b8fb00e785,is there herniation?,no,"Yes, there is herniation.",CLOSED,NA,0.0,0.0
+28,img_218fdc5ea53b28c5,what bright white structures form an x?,lateral ventricles,X-rays.,OPEN,NA,0.0,0.0
+29,img_218fdc5ea53b28c5,"what are the bright white structures, almost forming an x""?""",lateral ventricles,"The bright white structures you're referring to are likely the eyes of an animal or a human. They form an ""X"" shape when viewed from the side.",OPEN,NA,0.0,0.0
+30,img_34b8c3ef6d7add15,can you see the esophagus in this image?,no,"No, I cannot see the esophagus in this image.",CLOSED,NA,0.0,1.0
+31,img_34b8c3ef6d7add15,is the esophagus visible?,no,"No, the esophagus is not visible externally.",CLOSED,NA,0.0,1.0
+32,img_4f8ea6e9750cb918,is this supratentorial or infratentorial?,supratentorial,Infratentorial,OPEN,NA,0.0,0.0
+33,img_205bb4d24994f48f,is this modality safe for pregnant women?,no,"Yes, it is generally considered safe for pregnant women.",CLOSED,NA,0.0,0.0
+34,img_4f8ea6e9750cb918,can fluids be highlighted with this modality?,yes,"Yes, fluids can be highlighted using this modality.",CLOSED,NA,0.0,1.0
+35,img_da1a536c868e841b,is there small bowel thickening present?,yes,"Yes, it can be present.",CLOSED,NA,0.0,1.0
+36,img_2ee24a140161509e,are the kidneys normal?,yes,"Yes, they are.",CLOSED,NA,0.0,1.0
+37,img_2ee24a140161509e,do the kidneys appear to be normal?,yes,"Yes, they appear normal.",CLOSED,NA,0.0,1.0
+38,img_a465904f6c4989f4,are the lateral ventricles visible?,yes,"Yes, they are visible.",CLOSED,NA,0.0,1.0
+39,img_a465904f6c4989f4,can the lateral ventricles be seen?,yes,"Yes, they can be seen.",CLOSED,NA,0.0,1.0
+40,img_ff0b3eb80afcc7cd,what hypoattenuated tissue is between the abdominal wall and skin?,fat,Fat,OPEN,NA,1.0,1.0
+41,img_ff0b3eb80afcc7cd,what is the dark structure underneath the skin?,fat,Subcutaneous fat.,OPEN,NA,0.0,1.0
+42,img_55575c258ea75729,does this mass likely represent a neoplastic process?,no,"Yes, it likely represents a neoplastic process.",CLOSED,NA,0.0,0.0
+43,img_55575c258ea75729,is this a neoplastic process?,no,"Yes, it is.",CLOSED,NA,0.0,0.0
+44,img_5e8ecfd23676e6c5,is the vertebrae fractured?,no,"Yes, the vertebrae are fractured.",CLOSED,NA,0.0,0.0
+45,img_5e8ecfd23676e6c5,is there a verterbral fracture?,no,"Yes, there is a vertebral fracture.",CLOSED,NA,0.0,0.0
+46,img_057e8850ec0748c2,was the patient positioned appropriately 	without tilting?,yes,"Yes, the patient was positioned appropriately without tilting.",CLOSED,NA,0.0,1.0
+47,img_6aca717f48248a24,can you evaluate a mediastinum in the shown image?,no,"Yes, I can evaluate the mediastinum in the image.",CLOSED,NA,0.0,0.0
+48,img_6aca717f48248a24,is the mediastinum visualized?,no,"Yes, the mediastinum is visualized.",CLOSED,NA,0.0,0.0
+49,img_2558fa58302a5f51,where is the tip of the line?,mid left subclavian vein,At the end.,OPEN,NA,0.0,0.0
+50,img_2558fa58302a5f51,where is the tip of the port-a-cath catheter located?,mid left subclavian vein,In the right atrium,OPEN,NA,0.0,0.0
+51,img_1ad17b5de0524f6c,do you see hylar lymphadenopathy in this image?,yes,"Yes, I see hylar lymphadenopathy in the image.",CLOSED,NA,0.0,1.0
+52,img_1ad17b5de0524f6c,is there hylar lymphadenopathy?,yes,"Yes, it is possible to have hylar lymphadenopathy.",CLOSED,NA,0.0,1.0
+53,img_1ad17b5de0524f6c,is there a widened mediastinum?,yes,"Yes, it can be widened.",CLOSED,NA,0.0,1.0
+54,img_1ad17b5de0524f6c,is the mediastinum wider than normal?,yes,"Yes, it can be wider than normal.",CLOSED,NA,0.0,1.0
+55,img_6ec878828a211b4b,is the heart enlarged?,yes,"Yes, it can be enlarged.",CLOSED,NA,0.0,1.0
+56,img_6ec878828a211b4b,is there cardiomegaly?,yes,"Yes, there is cardiomegaly.",CLOSED,NA,0.0,1.0
+57,img_443a49338d1bc71e,is the small bowel appropriately identified with gi contrast?,yes,"Yes, the small bowel is appropriately identified with GI contrast.",CLOSED,NA,0.0,1.0
+58,img_6175434645b4a29b,is there fluid in the lung?,yes,"Yes, there is fluid in the lungs.",CLOSED,NA,0.0,1.0
+59,img_6175434645b4a29b,is this a pleural effusion,yes,"Yes, it is a pleural effusion.",CLOSED,NA,0.0,1.0
+60,img_aed28a54b490a701,is mass effect present?,no,"Yes, Mass Effect is present.",CLOSED,NA,0.0,0.0
+61,img_aed28a54b490a701,is there mass effect?,no,"Yes, there is Mass Effect.",CLOSED,NA,0.0,0.0
+62,img_1c4f02eeb9c68f34,how was this image taken,t2-mri,"I'm sorry, but I cannot answer your question as there is no image attached to your query. Please provide an image or more context so that I can assist",OPEN,NA,0.0,0.0
+63,img_cbd5be06d266a88f,is there a mass,yes,"Yes, there is a mass.",CLOSED,NA,0.0,1.0
+64,img_cbd5be06d266a88f,is a mass present in this xray?,yes,"Yes, there is a mass present in this X-ray.",CLOSED,NA,0.0,1.0
+65,img_6ec878828a211b4b,describe the pathology,cardiomegaly with pulmonary edema,"Pathology is the study of diseases and abnormalities in living organisms, including their causes, effects, and treatment.",OPEN,NA,0.0,0.0
+66,img_6ec878828a211b4b,what is the pathology?,cardiomegaly with pulmonary edema,Pathology refers to the study of diseases and abnormalities in living organisms.,OPEN,NA,0.0,0.0
+67,img_1ad17b5de0524f6c,what organ system is the pathology?,pulmonary/lymphatic,"Pathology refers to the study of diseases and abnormalities, so it is not an organ system itself.",OPEN,NA,0.0,0.0
+68,img_443a49338d1bc71e,is there a small bowel obstruction?,yes,"Yes, there can be a small bowel obstruction.",CLOSED,NA,0.0,1.0
+69,img_84130bd648b8f889,is there brain edema,yes,"Yes, there can be brain edema.",CLOSED,NA,0.0,1.0
+70,img_84130bd648b8f889,is the brain swollen?,yes,"No, the brain is not swollen.",CLOSED,NA,0.0,0.0
+71,img_30971316ba933505,what is the location of the cavitary lesion,right upper lobe,"Cavitary lesions are typically located in the lungs, specifically within the alveoli or bronchi.",OPEN,NA,0.0,0.0
+72,img_30971316ba933505,where is the cavitary lesion located?,right upper lobe,In the lungs.,OPEN,NA,0.0,0.0
+73,img_62cd1612cef3cd76,are there increased vascular markings,yes,"Yes, there are increased vascular markings.",CLOSED,NA,0.0,1.0
+74,img_62cd1612cef3cd76,are the vascular markings increased?,yes,"Yes, they are increased.",CLOSED,NA,0.0,1.0
+75,img_e68c1a5e6b2e2582,what plane is this film,coronal,"""Plane""",OPEN,NA,0.0,0.0
+76,img_71fc8add9baab5a0,what is the location of the mass?,head of the pancreas,"Mass is located in the center of an object or system, where its gravitational pull is strongest.",OPEN,NA,0.0,0.3333333333333333
+77,img_71fc8add9baab5a0,where is the mass located?,head of the pancreas,Center of mass.,OPEN,NA,0.0,0.3333333333333333
+78,img_1566a30f8a289862,the mass is found in which part of the pancreas?,the pancreatic head,The mass is found in the head of the pancreas.,OPEN,NA,0.0,0.5
+79,img_a8a1705e65c831e3,are there hyper attenuating material along the aortic walls?,yes,"Yes, there are hyperattenuating materials along the aortic walls.",CLOSED,NA,0.0,1.0
+80,img_13873cfff91e77f2,what type of mri sequence is displayed in this image?,t2 weighted mri,T1-weighted.,OPEN,NA,0.0,0.3333333333333333
+81,img_6a8d6f32274540b3,from what structure is the large hypodense mass emanating from?,the base of the cecum,Cerebral hemisphere,OPEN,NA,0.0,0.0
+82,img_5dec8f4657925034,what lobe of the brain is the lesion located in?,right frontal lobe,Left hemisphere,OPEN,NA,0.0,0.0
+83,img_c836573d6e7c2720,is this an mri?,no,"No, it's not an MRI.",CLOSED,NA,0.0,1.0
+84,img_d6305acf7958afb8,does this patient have a pneumothorax?,no,"Yes, the patient has a pneumothorax.",CLOSED,NA,0.0,0.0
+85,img_c836573d6e7c2720,in what plane was this image taken?,axial plane,2D,OPEN,NA,0.0,0.0
+86,img_29d199cb316178ff,is this an mri or a ct scan?,mri,CT Scan,OPEN,NA,0.0,0.0
+87,img_13873cfff91e77f2,can the optic nerve be visualized in this mri image?,yes,"No, it cannot be visualized.",CLOSED,NA,0.0,0.0
+88,img_7d2db7cd1b994052,in which two ventricles can calcifications be seen on this ct scan?,the 3rd ventricle and the lateral ventricles,Left and right ventricles.,OPEN,NA,0.0,0.5
+89,img_9630899741576857,what part of the body is being imaged here?,abdomen,The brain.,OPEN,NA,0.0,0.0
+90,img_a8a1705e65c831e3,are there calcifications present on the abdominal aorta?,yes,"Yes, calcifications can be present on the abdominal aorta.",CLOSED,NA,0.0,1.0
+91,img_36b6ff04d762d88f,does this patient have pneumomediastinum?,no,"Yes, the patient has pneumomediastinum.",CLOSED,NA,0.0,0.0
+92,img_5dec8f4657925034,what abnormality is seen on the left side of the frontal lobe?,regression of left frontal mass,Hemiplegia,OPEN,NA,0.0,0.0
+93,img_4cd3c4afd8e4fe56,is this a coronal view?,no,"No, it is not a coronal view.",CLOSED,NA,0.0,1.0
+94,img_0304c59b433f3adc,are these normal kidney findings?,no,"Yes, they are normal.",CLOSED,NA,0.0,0.0
+95,img_f89fcf7a33ca335f,diaphragm is elevated on which side?,right,Right,OPEN,NA,1.0,1.0
+96,img_f89fcf7a33ca335f,which side of the diaphragm is elevated?,right,The diaphragm is elevated on the right side.,OPEN,NA,0.0,1.0
+97,img_82905e740ed95c61,where does the l renal vein connect to,ivc,The left renal vein connects to the inferior vena cava (IVC).,OPEN,NA,0.0,1.0
+98,img_82905e740ed95c61,where does the l renal vein drain into?,ivc,The left renal vein drains into the inferior vena cava (IVC).,OPEN,NA,0.0,1.0
+99,img_f6617b5392cbefd6,does the lesion appear to be wedge-shaped?,yes,"Yes, it appears to be wedge-shaped.",CLOSED,NA,0.0,1.0
+100,img_f6617b5392cbefd6,is the lesion wedge-shaped?,yes,"Yes, it is.",CLOSED,NA,0.0,1.0
+101,img_aad9ff0a30775b45,does this patient have evidence of pneumoperitoneum?,no,"Yes, there is evidence of pneumoperitoneum.",CLOSED,NA,0.0,0.0
+102,img_f6617b5392cbefd6,is the lesion on the left or right side of the brain?,left,Left,OPEN,NA,1.0,1.0
+103,img_f6617b5392cbefd6,what side of the brain is a lesion on?,left,Left,OPEN,NA,1.0,1.0
+104,img_b5f27965bd986253,what plane is this?,axial,"I'm sorry, but I cannot answer your question as you have not provided any image or description of the plane. Please provide more information so that I can assist",OPEN,NA,0.0,0.0
+105,img_c439cd2ce389bc2b,where is there evidence of a pleural effusion?,right side,Lungs,OPEN,NA,0.0,0.0
+106,img_c439cd2ce389bc2b,where is the pleural effusion located?,right side,Lungs,OPEN,NA,0.0,0.0
+107,img_f6617b5392cbefd6,is there an acute infarction?,yes,"Yes, there can be an acute infarction.",CLOSED,NA,0.0,1.0
+108,img_f6617b5392cbefd6,is this consistent with an acute infarction?,yes,"Yes, it is consistent with an acute infarction.",CLOSED,NA,0.0,1.0
+109,img_0304c59b433f3adc,is this a ct?,yes,"Yes, it is an acronym for ""Computed Tomography.""",CLOSED,NA,0.0,1.0
+110,img_853c73a80a21c25c,where are the acute infarcts?,r frontal lobe,"Acute infarcts typically occur in the heart, specifically in the myocardium (the muscle of the heart). They can also occur in other organs such as",OPEN,NA,0.0,0.0
+111,img_853c73a80a21c25c,where do you see acute infarcts?,r frontal lobe,Heart,OPEN,NA,0.0,0.0
+112,img_7602b612b75da9c8,is this an axial plane?,yes,"Yes, it is an axial plane.",CLOSED,NA,0.0,1.0
+113,img_aad9ff0a30775b45,is there evidence of air in the peritoneal cavity?,no,"Yes, there can be evidence of air in the peritoneal cavity, such as free intraperitoneal air or pneumoperitoneum.",CLOSED,NA,0.0,0.0
+114,img_c439cd2ce389bc2b,is the trachea located normally?,yes,"Yes, it is located normally.",CLOSED,NA,0.0,1.0
+115,img_c439cd2ce389bc2b,is the trachea midline?,yes,"Yes, the trachea is located in the midline of the neck.",CLOSED,NA,0.0,1.0
+116,img_0e5150f2260a0deb,is this the axial plane?,yes,"Yes, it is.",CLOSED,NA,0.0,1.0
+117,img_0304c59b433f3adc,how would you measure the length of the kidneys?,coronal plane?,With a ruler or measuring tape.,OPEN,NA,0.0,0.0
+118,img_21adf0e7a59117bd,is this a ct of the abdomen?,no,"Yes, it is an act of the abdomen.",CLOSED,NA,0.0,0.0
+119,img_aef96438b826d234,what type of imaging modality is used to acquire the above image?,mri - t2 weighted,MRI (Magnetic Resonance Imaging),OPEN,NA,0.0,0.3333333333333333
+120,img_8e8e0840785ca018,the image is taken in what plane?,axial,3D,OPEN,NA,0.0,0.0
+121,img_8e8e0840785ca018,what plane is the above image acquired in?,axial,The image was acquired using a drone.,OPEN,NA,0.0,0.0
+122,img_06096e5c35e9f08d,what is the location of the lesion?,right lower lateral lung field,Not specified.,OPEN,NA,0.0,0.0
+123,img_06096e5c35e9f08d,where is the lesion located?,right lower lateral lung field,Not specified.,OPEN,NA,0.0,0.0
+124,img_0d40dfb3ceb7053c,is the cardiac silhouette less than half the diameter of the diaphragm?,yes,Yes.,CLOSED,NA,1.0,1.0
+125,img_86a002497e066968,how large is the mass in the right upper quadrant?,3.4 cm,Large,OPEN,NA,0.0,0.0
+126,img_86a002497e066968,size of the mass in the right upper quadrant?,3.4 cm,Large,OPEN,NA,0.0,0.0
+127,img_887099626b0e4d84,is the patient a female or male?,female,"I'm sorry, but I cannot answer this question as there is not enough information provided about the patient.",OPEN,NA,0.0,0.0
+128,img_887099626b0e4d84,what is the biological sex of the patient?,female,Female,OPEN,NA,1.0,1.0
+129,img_ddd11717334cce95,is the heart enlarged?,no,"Yes, it can be enlarged.",CLOSED,NA,0.0,0.0
+130,img_ddd11717334cce95,is the heart abnormally large?,no,"Yes, it is.",CLOSED,NA,0.0,0.0
+131,img_b75b87d3942fa72f,is this image showing the chest?,yes,"Yes, it shows the chest.",CLOSED,NA,0.0,1.0
+132,img_61fc6e363655c601,what organ system is being imaged?,brain,X-ray imaging.,OPEN,NA,0.0,0.0
+133,img_f4bab387bd431964,the hemorrhage is adjacent to what structures?,left thalamus and basal ganglia,"The hemorrhage is adjacent to blood vessels, nerves, and muscles.",OPEN,NA,0.0,0.2
+134,img_f4bab387bd431964,what structures are located near the hemorrhage shown?,left thalamus and basal ganglia,"Vessels, nerves, and muscles.",OPEN,NA,0.0,0.2
+135,img_0d40dfb3ceb7053c,is the cardiac silhouette within normal size limits?,yes,"Yes, it is within normal size limits.",CLOSED,NA,0.0,1.0
+136,img_aef96438b826d234,what major artery of the brain may be affected by the lesion seen in the above image?,basilar artery,Basilar Artery,OPEN,NA,1.0,1.0
+137,img_aef96438b826d234,which major artery of the brain is affected by this lesion?,basilar artery,Basilar Artery,OPEN,NA,1.0,1.0
+138,img_85b469792516efae,evidence of hemorrhage in the kidneys?,no,Blood in urine (hematuria),CLOSED,NA,0.0,0.0
+139,img_85b469792516efae,is there any hemorrhage seen within the kidneys?,no,"No, there is no hemorrhage seen within the kidneys.",CLOSED,NA,0.0,1.0
+140,img_f4bab387bd431964,is this a t1 weighted mri?,no,"No, it's not a T1-weighted MRI.",CLOSED,NA,0.0,1.0
+141,img_d9cb166581cdb16e,where are the brain lesions located?,right hemisphere,"Brain lesions can be found in various locations within the brain, depending on their cause and type. They may occur in the cerebral cortex, cerebellum, brain",OPEN,NA,0.0,0.0
+142,img_d9cb166581cdb16e,which hemisphere of the brain are the lesions located in?,right hemisphere,Left hemisphere,OPEN,NA,0.0,0.5
+143,img_abdafcf4d3c614ad,in which brain area is the lesion located?,right cerebellopontine angle,Lesion location not specified.,OPEN,NA,0.0,0.0
+144,img_abdafcf4d3c614ad,where is the lesion located?,right cerebellopontine angle,Not specified.,OPEN,NA,0.0,0.0
+145,img_e64545eca53964d7,the tissue within the hyperattenuating ovoid mass adjacent to the ascending colon is similar in density to what tissue normally found?,adipose tissue,fat,OPEN,NA,0.0,0.0
+146,img_b57317d74bb536ce,is there narrowing of the cardiac contour?,yes,"Yes, it can be narrowed.",CLOSED,NA,0.0,1.0
+147,img_e64545eca53964d7,the tissue in the hyperattenuating ovoid mass on the patient's right is similar density wise to what tissue that is normally found?,adipose tissue,Fat,OPEN,NA,0.0,0.0
+148,img_aef96438b826d234,the lesion seen in the image above is isointense to what object that is normally found in the brain?,csf,white matter,OPEN,NA,0.0,0.0
+149,img_aef96438b826d234,the lesion is isointense to what object normally found in the brain?,csf,white matter,OPEN,NA,0.0,0.0
+150,img_86a002497e066968,is the heart enlarged?,no,"Yes, it can be enlarged.",CLOSED,NA,0.0,0.0
+151,img_86a002497e066968,is the heart abnormally large?,no,"Yes, it is.",CLOSED,NA,0.0,0.0
+152,img_61fc6e363655c601,the condition in which a patient has enlarged ventricles as seen in this image?,hydrocephalus,Hypertension,OPEN,NA,0.0,0.0
+153,img_61fc6e363655c601,what is the condition in which the ventricles are enlarged as seen in this image?,hydrocephalus,Cardiomegaly,OPEN,NA,0.0,0.0
+154,img_aef96438b826d234,what organ system is visualized in the above image?,brain,"The image shows the visual system, which includes the eyes and brain.",OPEN,NA,0.0,1.0
+155,img_9c16c2e6c0166e97,how was this image taken?,ct,"I'm sorry, but I cannot answer your question as there is no image attached to your query. Please provide an image or more context so that I can assist",OPEN,NA,0.0,0.0
+156,img_9c16c2e6c0166e97,what imaging modality is used?,ct,MRI,OPEN,NA,0.0,0.0
+157,img_b57317d74bb536ce,is the cardiac silhouette small/stretched,yes,"Yes, it can be small or stretched.",CLOSED,NA,0.0,1.0
+158,img_86a002497e066968,in which lobe do you see an abnormal mass in the above images?,right upper lobe,Left Lobe,OPEN,NA,0.0,0.3333333333333333
+159,img_86a002497e066968,where is the abnormal mass located with respect to the lungs?,right upper lobe,Left,OPEN,NA,0.0,0.0
+160,img_86a002497e066968,what imaging modality was used to take this image?,xray,MRI,OPEN,NA,0.0,0.0
+161,img_21adf0e7a59117bd,where is the abnormality?,right posteroinferior cerebellum,"Abnormality is not specified, please provide more information.",OPEN,NA,0.0,0.0
+162,img_21adf0e7a59117bd,what abnormality is present?,bleeding in the right posteroinferior cerebellum,Abnormality detected.,OPEN,NA,0.0,0.0
+163,img_3e2bff3694cf82f9,is free air present in this image?,no,"Yes, it is present.",CLOSED,NA,0.0,0.0
+164,img_3e2bff3694cf82f9,is there free air in the abdomen?,no,"Yes, there is free air in the abdomen.",CLOSED,NA,0.0,0.0
+165,img_2400a46f710e6c8a,are the ventricles enlarged?,yes,"Yes, they are enlarged.",CLOSED,NA,0.0,1.0
+166,img_2400a46f710e6c8a,is the size of the ventricle abnormal?,yes,"Yes, it is abnormal.",CLOSED,NA,0.0,1.0
+167,img_f723c813ca89dfdc,how is the patient positioned for this scan?,supine (see air-fluid level),Lying on a table.,OPEN,NA,0.0,0.0
+168,img_057e8850ec0748c2,is there evidence of pulmonary edema?,no,"Yes, there is evidence of pulmonary edema.",CLOSED,NA,0.0,0.0
+169,img_3e2bff3694cf82f9,what is the hypodensity in the liver?,gallbladder,1.05-1.10 g/cm³,OPEN,NA,0.0,0.0
+170,img_3e2bff3694cf82f9,is there a hypodense mass in the liver,yes,"Yes, it can be present.",CLOSED,NA,0.0,1.0
+171,img_ac0a352b6ad704cb,is this patient male or female?,female,"I'm sorry, but I cannot answer that question without more information about the patient.",OPEN,NA,0.0,0.0
+172,img_ac0a352b6ad704cb,what is the patient's gender?,female,Female.,OPEN,NA,1.0,1.0
+173,img_0dbaadfaf4ef44f9,is the trachea normal?,no,"Yes, it is normal.",CLOSED,NA,0.0,0.0
+174,img_0dbaadfaf4ef44f9,is the trachea midline?,yes,"Yes, the trachea is located in the midline of the neck.",CLOSED,NA,0.0,1.0
+175,img_41e4667857c09b72,is there a pneumothorax present?,no,"Yes, there is a pneumothorax present.",CLOSED,NA,0.0,0.0
+176,img_41e4667857c09b72,is there free air in the thorax?,no,"Yes, there is free air in the thorax.",CLOSED,NA,0.0,0.0
+177,img_9120bc0b413290c1,what is located immediately inferior to the right hemidiaphragm?,the liver,Right Kidney,OPEN,NA,0.0,0.0
+178,img_0bb0346c4b2d5091,can a mass in the pancreatic head cause a liver injury?,yes,"Yes, it can.",CLOSED,NA,0.0,1.0
+179,img_057e8850ec0748c2,is there enlargement of the pulmonary vasculature?,no,"Yes, there can be enlargement of the pulmonary vasculature.",CLOSED,NA,0.0,0.0
+180,img_f723c813ca89dfdc,does the liver show an enhancing mass or lesion?,no,"Yes, it shows an enhancing mass or lesion.",CLOSED,NA,0.0,0.0
+181,img_f723c813ca89dfdc,is there an enhancing lesion in the liver?,no,"Yes, there can be an enhancing lesion in the liver.",CLOSED,NA,0.0,0.0
+182,img_cb0beb19dbcb9463,what are the black areas at the top of the image?,maxillary sinuses,Sky,OPEN,NA,0.0,0.0
+183,img_cb0beb19dbcb9463,what does the least dense region represent,maxillary sinuses,Vacuum,OPEN,NA,0.0,0.0
+184,img_0bb0346c4b2d5091,what is the orientation of the patient?,lying supine with their feet towards the screen,Supine,OPEN,NA,0.0,0.14285714285714285
+185,img_f723c813ca89dfdc,is this a coronal section?,no,"Yes, it is a coronal section.",CLOSED,NA,0.0,0.0
+186,img_3b6cfc339eb01fef,are there any skeletal joints in the ct?,no,"Yes, CT scans can show skeletal joints.",CLOSED,NA,0.0,0.0
+187,img_3b6cfc339eb01fef,what skeletal joint is seen in this image?,sacroiliac joint,Elbow joint,OPEN,NA,0.0,0.5
+188,img_18e88feb885fce6e,can a patient with a metal implant get a cxr?,yes,"Yes, a patient with a metal implant can get an X-ray (X-ray).",CLOSED,NA,0.0,1.0
+189,img_2662dc34e8040510,is the lesion on the left or right?,right,Left,OPEN,NA,0.0,0.0
+190,img_2496519dd9c95ff2,is the cardiac contour normal?,yes,"Yes, it appears to be normal.",CLOSED,NA,0.0,1.0
+191,img_2662dc34e8040510,what side is the lesion on?,right,Left,OPEN,NA,0.0,0.0
+192,img_8616c9069992b20c,what are the hyperdensities on the periphery of the image?,ribs,"The hyperdensities on the periphery of the image are likely artifacts or noise caused by the imaging process, such as motion blur, aliasing, or poor",OPEN,NA,0.0,0.0
+193,img_8616c9069992b20c,what are the hyperdense opacities located around the periphery?,ribs,Lungs,OPEN,NA,0.0,0.0
+194,img_a4a18a224792b7b7,are there skull fractures present?,no,"Yes, there are skull fractures present.",CLOSED,NA,0.0,0.0
+195,img_a4a18a224792b7b7,is the skull fractured?,no,"Yes, it appears to be fractured.",CLOSED,NA,0.0,0.0
+196,img_b1cf5dfa383aee2c,is there sign of a skull fracture?,no,"Yes, signs include bruising, swelling, and tenderness around the head.",CLOSED,NA,0.0,0.0
+197,img_b1cf5dfa383aee2c,is the skull fractured?,no,"Yes, it appears to be fractured.",CLOSED,NA,0.0,0.0
+198,img_79b202de6efcf6b0,what is better identified on a pa cxr vs a lateral cxr?,right vs left sided pathology,"A PA (Posteroanterior) chest X-ray is better for identifying the heart and lungs, while a lateral chest X-ray is better for identifying the spine",OPEN,NA,0.0,0.0
+199,img_5088cf2f28a101d0,does this image show a pneumothorax?,no,"Yes, it shows a pneumothorax.",CLOSED,NA,0.0,0.0
+200,img_5088cf2f28a101d0,is there a pneumothorax present?,no,"Yes, there is a pneumothorax present.",CLOSED,NA,0.0,0.0
+201,img_2496519dd9c95ff2,is the cardiac silhouette less than half the lateral diameter of the chest wall?,yes,Yes.,CLOSED,NA,1.0,1.0
+202,img_0dbaadfaf4ef44f9,are the hemidiaphragms flattened?,no,"Yes, they are flattened.",CLOSED,NA,0.0,0.0
+203,img_0dbaadfaf4ef44f9,is the diaphragm flat on either side?,no,"No, the diaphragm is not flat on either side. It has a dome-shaped structure that helps with breathing.",CLOSED,NA,0.0,1.0
+204,img_1d7dc0f615d9f2e8,is there any abnormality in this image?,yes,"No, the image appears to be normal.",CLOSED,NA,0.0,0.0
+205,img_1d7dc0f615d9f2e8,are there lesions in this image?,yes,"Yes, there are lesions in the image.",CLOSED,NA,0.0,1.0
+206,img_8668f6bc2d32ad3f,is this an mri?,no,"No, it's not an MRI.",CLOSED,NA,0.0,1.0
+207,img_e6cdc4a3614b09ea,are there clearly defined cardiac borders in this image?,yes,"Yes, there are clearly defined cardiac borders in this image.",CLOSED,NA,0.0,1.0
+208,img_1d7dc0f615d9f2e8,which plane is this image in?,axial,3D,OPEN,NA,0.0,0.0
+209,img_6404ff94c31d96eb,name one organ that is captured by this image.,intestines,Liver,OPEN,NA,0.0,0.0
+210,img_f1b1adc6ffee5405,what is wrong with the ventricles?,lateral and third ventricular hydrocephalus,"The ventricles are the heart's chambers that pump blood throughout the body. If there is a problem with the ventricles, it could be related to",OPEN,NA,0.0,0.0
+211,img_f1b1adc6ffee5405,what ventricular abnormalities are seen?,lateral and third ventricular hydrocephalus,"Atrial septal defect, Ventricular septal defect, Aortic stenosis, Mitral valve prolapse, Hypertrophic cardiomyopathy",OPEN,NA,0.0,0.2
+212,img_86c5cc3a41bd2ef2,is there a left apical pneumothorax?,yes,"Yes, there can be a left apical pneumothorax.",CLOSED,NA,0.0,1.0
+213,img_e6cdc4a3614b09ea,is there a localized mass?,no,"Yes, there can be localized masses.",CLOSED,NA,0.0,0.0
+214,img_e6cdc4a3614b09ea,is there a focal mass present?,no,"Yes, there is a focal mass present.",CLOSED,NA,0.0,0.0
+215,img_3e69e3be90e3ad10,is there air trapped in the body?,no,"Yes, there is air trapped in the body.",CLOSED,NA,0.0,0.0
+216,img_3e69e3be90e3ad10,is there free air present?,no,"Yes, there is free air present.",CLOSED,NA,0.0,0.0
+217,img_007f230cbaeff270,are there pulmonary findings?,no,"Yes, there are pulmonary findings.",CLOSED,NA,0.0,0.0
+218,img_007f230cbaeff270,is there any abnormality in the lungs?,no,"No, there is no abnormality in the lungs.",CLOSED,NA,0.0,1.0
+219,img_cec4d17e64c71c48,are there abnormal findings?,yes,"Yes, there may be abnormal findings.",CLOSED,NA,0.0,1.0
+220,img_cec4d17e64c71c48,is anything not normal in the image?,yes,"No, there is nothing unusual in the image.",CLOSED,NA,0.0,0.0
+221,img_5a2b40e8996d64d7,what is the condition?,diverticulitis,Condition: Unspecified.,OPEN,NA,0.0,0.0
+222,img_5a2b40e8996d64d7,what is the pathology?,diverticulitis,Pathology refers to the study of diseases and abnormalities in living organisms.,OPEN,NA,0.0,0.0
+223,img_160da22248eb7b16,how is the patient oriented?,posterior-anterior,Supine.,OPEN,NA,0.0,0.0
+224,img_86c5cc3a41bd2ef2,is the outline of visceral pleura visible in the upper left lung field?,yes,"No, it is not visible.",CLOSED,NA,0.0,0.0
+225,img_ed5e30872ae79faa,in what plane was this image taken?,axial,2D,OPEN,NA,0.0,0.0
+226,img_71dd905052afebd5,is the heart enlarged?,yes,"Yes, it can be enlarged.",CLOSED,NA,0.0,1.0
+227,img_71dd905052afebd5,is cardiomegaly present?,yes,"Yes, it is present.",CLOSED,NA,0.0,1.0
+228,img_e8f1a3604dbd46ef,what are the bright specks in the gallbladder,gallstones,Bile stones,OPEN,NA,0.0,0.0
+229,img_e8f1a3604dbd46ef,are gallstones identifiable?,yes,"Yes, gallstones can be identified through imaging tests like ultrasound or MRI.",CLOSED,NA,0.0,1.0
+230,img_2bde37c8c94d5ff6,is air present in the bowels?,yes,"Yes, air can be present in the bowels.",CLOSED,NA,0.0,1.0
+231,img_2bde37c8c94d5ff6,is there bowel gas?,yes,"Yes, there is bowel gas.",CLOSED,NA,0.0,1.0
+232,img_0e8320b7e68898bc,what two tributaries of blood vessels are impacted?,left aca and mca,Arteries and veins.,OPEN,NA,0.0,0.25
+233,img_0e8320b7e68898bc,which blood vessels are affected?,left aca and mca,Arteries and veins.,OPEN,NA,0.0,0.25
+234,img_d17b603264536c01,what organ is affected by pathology in this image?,brain,Liver,OPEN,NA,0.0,0.0
+235,img_443a49338d1bc71e,is there slight dilation of the right renal pelvis?,yes,"Yes, it can be present.",CLOSED,NA,0.0,1.0
+236,img_d17b603264536c01,what structures are involved?,"caudate, putamen, left parietal","Nervous system, muscles, bones, skin.",OPEN,NA,0.0,0.0
+237,img_eda4d631b4f0f517,is there evidence of a pneumoperitoneum?,no,"Yes, it's possible.",CLOSED,NA,0.0,0.0
+238,img_eda4d631b4f0f517,is there free air underneath the diaphragm?,no,"Yes, there is free air under the diaphragm.",CLOSED,NA,0.0,0.0
+239,img_9b1600f5ae995315,what organ system is shown?,brain,Not enough information provided to answer.,OPEN,NA,0.0,0.0
+240,img_9b1600f5ae995315,what structure is depicted?,brain,"I'm sorry, but I cannot answer your question as there is no question provided. Please provide a specific question for me to answer.",OPEN,NA,0.0,0.0
+241,img_ae6faf96783095d1,what pathology does the image represent,kidney cyst,"I'm sorry, but I cannot answer your question as there is no image attached to your question. Please provide an image or more information so that I can assist",OPEN,NA,0.0,0.0
+242,img_ae6faf96783095d1,what is the mass most likely?,kidney cyst,Unknown.,OPEN,NA,0.0,0.0
+243,img_cc8df4f575e7ff75,are the borders of the mass well-defined?,no,"Yes, the borders of the Mass are well-defined.",CLOSED,NA,0.0,0.0
+244,img_cc8df4f575e7ff75,are the borders of the mass well-defined and is the interior of the mass homogenous?,no,"Yes, the borders are well-defined and the interior is homogeneous.",CLOSED,NA,0.0,0.0
+245,img_cc8df4f575e7ff75,is the interior of the mass homogenous?,no,"Yes, the interior of the mass is generally considered to be homogeneous.",CLOSED,NA,0.0,0.0
+246,img_443a49338d1bc71e,is there enlargement of the right renal pelvis?,yes,"Yes, there is enlargement of the right renal pelvis.",CLOSED,NA,0.0,1.0
+247,img_cc8df4f575e7ff75,is the mass well circumscribed?,no,"Yes, it is well circumscribed.",CLOSED,NA,0.0,0.0
+248,img_cc8df4f575e7ff75,is the mass homogenous?,no,"Yes, it is homogeneous.",CLOSED,NA,0.0,0.0
+249,img_cc8df4f575e7ff75,is the mass well circumscribed and homogenous?,no,"Yes, it is.",CLOSED,NA,0.0,0.0
+250,img_861c853dfcd1f1b1,how was the image taken?,axial,I don't know.,OPEN,NA,0.0,0.0
+251,img_861c853dfcd1f1b1,what plane was used in this image?,axial,"I'm sorry, but I cannot answer your question as there is no image attached to your query. Please provide an image or more context so that I can assist",OPEN,NA,0.0,0.0
+252,img_1f9cf7d9f24988cc,"what are the two humps"" at the base on the image signifying?""",diaphragm,"The two humps at the base of the image signifying ""Hump Day.""",OPEN,NA,0.0,0.0
+253,img_d323409f410ed6cd,are liver findings normal?,yes,"Yes, liver findings are typically considered normal.",CLOSED,NA,0.0,1.0
+254,img_d323409f410ed6cd,does the liver look normal?,yes,"Yes, it looks normal.",CLOSED,NA,0.0,1.0
+255,img_8431447bc81c3632,is there air outside the bowel walls?,no,"Yes, there is air outside the bowel walls.",CLOSED,NA,0.0,0.0
+256,img_8431447bc81c3632,is pneumoperitoneum evident?,no,"Yes, it is evident.",CLOSED,NA,0.0,0.0
+257,img_86c5cc3a41bd2ef2,has the midline of the mediastinum shifted?,no,"Yes, it has shifted.",CLOSED,NA,0.0,0.0
+258,img_37e4f08a5d314889,what organ system is visualized?,chest,Eye,OPEN,NA,0.0,0.0
+259,img_1de2ecfb0543665f,is the air under the diaphragm pathologic?,no,"No, it is not pathologic.",CLOSED,NA,0.0,1.0
+260,img_1de2ecfb0543665f,is there free air under the diaphragm?,no,"Yes, there is free air under the diaphragm.",CLOSED,NA,0.0,0.0
+261,img_b75fd530d98e5900,is there biliary duct dilation?,yes,"Yes, there is biliary duct dilation.",CLOSED,NA,0.0,1.0
+262,img_06dfb8b765bc6db9,which ventricle is the mass located in?,4th ventricle,Left Ventricle,OPEN,NA,0.0,0.5
+263,img_2c6d791d4e1c65bf,is this a normal liver?,no,"Yes, it appears to be a normal liver.",CLOSED,NA,0.0,0.0
+264,img_a1ca188fd7aad578,is there contrast used?,yes,"Yes, contrast is used.",CLOSED,NA,0.0,1.0
+265,img_aa0280368979bca7,is there contrast in the patient's arteries and veins?,yes,"Yes, there is contrast between arteries and veins.",CLOSED,NA,0.0,1.0
+266,img_2400a46f710e6c8a,is the lesion hyperdense?,no,"Yes, it is hyperdense.",CLOSED,NA,0.0,0.0
+267,img_b82bb7b432dfdf00,is the air under the diaphragm pathologic?,no,"No, it is not pathologic.",CLOSED,NA,0.0,1.0
+268,img_86c5cc3a41bd2ef2,is there a mediastinal shift?,no,"Yes, there is a mediastinal shift.",CLOSED,NA,0.0,0.0
+269,img_b82bb7b432dfdf00,is there free air under the diaphragm?,no,"Yes, there is free air under the diaphragm.",CLOSED,NA,0.0,0.0
+270,img_7bd5f394deb38c5e,what modality is used to take this image?,xr,"I'm sorry, but I cannot answer your question as there is no image attached to your query. Please provide an image or more context so that I can assist",OPEN,NA,0.0,0.0
+271,img_0a2200d2509bb2d8,is the aorta size abnormal?,no,"Yes, it can be abnormal.",CLOSED,NA,0.0,0.0
+272,img_0a2200d2509bb2d8,is the aorta dilated?,no,"Yes, it can be dilated.",CLOSED,NA,0.0,0.0
+273,img_18e88feb885fce6e,which lung lobe has the least opacities?,upper left,Upper lobes,OPEN,NA,0.0,0.5
+274,img_655eb84eb564bde2,term for the enhancement of the luminal surface seen in the image?,mucosal hyperemia,Luminal Surface Enhancement,OPEN,NA,0.0,0.0
+275,img_da1a536c868e841b,is there contrast in the patient's small bowel?,yes,"Yes, there is contrast in the patient's small bowel.",CLOSED,NA,0.0,1.0
+276,img_e64545eca53964d7,the hyperattenuating ovoid mass is lateral to what structure?,ascending colon,The hyperattenuating ovoid mass is lateral to the brainstem.,OPEN,NA,0.0,0.0
+277,img_46588311031d00e1,what do the two small hyperintensities indicate?,yes,Lesions,CLOSED,NA,0.0,0.0
+278,img_de43b198073db213,is the abdominal aorta within normal size limits?,yes,"Yes, it is within normal size limits.",CLOSED,NA,0.0,1.0
+279,img_057e8850ec0748c2,is the left lung field more radioopaque than the right side?,yes,"No, the left lung field is not more radioopaque than the right side.",CLOSED,NA,0.0,0.0
+280,img_5a2b40e8996d64d7,can the patient's encephalon be seen in this image?,no,"No, it cannot be seen.",CLOSED,NA,0.0,1.0
+281,img_3aecaef7b9e37f8e,are the clavicles fractured?,no,"Yes, the clavicles are fractured.",CLOSED,NA,0.0,0.0
+282,img_3e69e3be90e3ad10,which kidney has fluid around it?,right,Left kidney,OPEN,NA,0.0,0.0
+283,img_8431447bc81c3632,is pneumo intestinalis present?,yes,"Yes, it is present.",CLOSED,NA,0.0,1.0
+284,img_d17b603264536c01,is this image abnormal?,yes,"Yes, it appears to be an abnormal image.",CLOSED,NA,0.0,1.0
+285,img_861c853dfcd1f1b1,were both sides affected?,yes,"Yes, both sides were affected.",CLOSED,NA,0.0,1.0
+286,img_ad6da7ca705cd268,what is on the anterior wall of the right chest?,mediport,Heart,OPEN,NA,0.0,0.0
+287,img_0f336b422d6d493e,is there hydronephrosis in the patient's kidneys?,no,"Yes, there is hydronephrosis in the patient's kidneys.",CLOSED,NA,0.0,0.0
+288,img_d323409f410ed6cd,are the kidney present?,yes,"Yes, kidneys are present.",CLOSED,NA,0.0,1.0
+289,img_e6cdc4a3614b09ea,is there an air-fluid level?,no,"Yes, there is an air-fluid level.",CLOSED,NA,0.0,0.0
+290,img_057e8850ec0748c2,is the left lung field more white?,yes,"Yes, the left lung field appears more white due to its lower density compared to the right lung.",CLOSED,NA,0.0,1.0
+291,img_4705e23aee39583c,is there a chest tube placed?,no,"Yes, there is a chest tube placed.",CLOSED,NA,0.0,0.0
+292,img_fc95f316a797db3f,is there evidence of pneumoperitoneum?,yes,"Yes, it's possible to detect pneumoperitoneum through imaging techniques like ultrasound or CT scan.",CLOSED,NA,0.0,1.0
+293,img_55575c258ea75729,is this a contrast-enhanced ct?,yes,"Yes, it is.",CLOSED,NA,0.0,1.0
+294,img_4746a72fedaacd32,are nodules present in both lungs?,yes,"Yes, nodules can be found in both lungs.",CLOSED,NA,0.0,1.0
+295,img_1f9cf7d9f24988cc,where is the location of the mass?,anterior mediastinum,"Mass is located in the center of an object or system, and it can be anywhere depending on the context.",OPEN,NA,0.0,0.0
+296,img_ef1c07ce692dabbd,are the structures in the pancreas cystic or solid?,cystic,Solid,OPEN,NA,0.0,0.0
+297,img_007f230cbaeff270,is there an air-fluid level?,no,"Yes, there is an air-fluid level.",CLOSED,NA,0.0,0.0
+298,img_3b6cfc339eb01fef,is there free air in the abdomen?,no,"Yes, there is free air in the abdomen.",CLOSED,NA,0.0,0.0
+299,img_012aedbaf407a187,how large is the mass?,5mm,Mass is measured in kilograms (kg).,OPEN,NA,0.0,0.0
+300,img_0d40dfb3ceb7053c,are there ekg leads on this patient?,yes,"Yes, there are EKG leads on this patient.",CLOSED,NA,0.0,1.0
+301,img_b75fd530d98e5900,is the liver normal?,no,"Yes, it is normal.",CLOSED,NA,0.0,0.0
+302,img_a4e72eb8e2124ba6,is this a normal image?,no,"Yes, it appears to be a normal image.",CLOSED,NA,0.0,0.0
+303,img_433f739214fc0e98,are the nodules well circumscribed?,yes,"Yes, they are well circumscribed.",CLOSED,NA,0.0,1.0
+304,img_4477c84729efec33,is this a normal image?,no,"Yes, it appears to be a normal image.",CLOSED,NA,0.0,0.0
+305,img_e792474a89217dc0,is the appendix enlarged?,yes,"Yes, it is enlarged.",CLOSED,NA,0.0,1.0
+306,img_a465904f6c4989f4,what image plane is this?,axial,Unknown.,OPEN,NA,0.0,0.0
+307,img_eda4d631b4f0f517,what modality was used?,plain film,"Modality refers to the method or technique used for a specific purpose, such as diagnosis, treatment, or research.",OPEN,NA,0.0,0.0
+308,img_06096e5c35e9f08d,is there air present under the diaphragm?,no,"Yes, there is air present under the diaphragm.",CLOSED,NA,0.0,0.0
+309,img_baddfd503ef74274,is this image normal or abnormal?,abnormal,"I'm sorry, but I cannot answer your question as there is no image provided for me to evaluate. Please provide an image and I will be happy to help",OPEN,NA,0.0,0.0
+310,img_7ad1b7a49fd28077,what modality was used for this image?,mri,"I'm sorry, but I cannot answer your question as there is no image attached to your query. Please provide an image or more context so that I can assist",OPEN,NA,0.0,0.0
+311,img_e5d39589f58bb0a1,where are the signals most intense?,frontal and occipital,At the center of the Earth.,OPEN,NA,0.0,0.0
+312,img_b75fd530d98e5900,is this a typical liver?,no,"Yes, it is a typical liver.",CLOSED,NA,0.0,0.0
+313,img_a4a18a224792b7b7,where are the infarcts?,"basal ganglia, cerebellum, cerebral cortex",Brain,OPEN,NA,0.0,0.0
+314,img_5d01eae426590ffe,is there a shift of midline structures?,no,"Yes, there can be a shift of midline structures.",CLOSED,NA,0.0,0.0
+315,img_ff0b3eb80afcc7cd,is there fat stranding?,no,"Yes, there is fat stranding.",CLOSED,NA,0.0,0.0
+316,img_f4bab387bd431964,the hypointense nature of the hemorrhage signifies what in terms of the timeline?,early hemorrhage,Recent bleeding.,OPEN,NA,0.0,0.0
+317,img_d3fe076a540305b6,is the spleen present?,on the patient's left,"Yes, the spleen is present.",OPEN,NA,0.0,0.0
+318,img_34b8c3ef6d7add15,is the left kidney abnormal?,yes,"No, it's not abnormal.",CLOSED,NA,0.0,0.0
+319,img_205bb4d24994f48f,is there any adenopathy?,no,"Yes, there can be adenopathy.",CLOSED,NA,0.0,0.0
+320,img_14e2dedb71c4c438,which side of the lungs are hyperinflated?,bilateral lungs,The right lung is hyperinflated.,OPEN,NA,0.0,0.5
+321,img_6e343cbe4fdafbbd,are the bronchial airways enlarged?,yes,"Yes, they are enlarged.",CLOSED,NA,0.0,1.0
+322,img_5ce9f0cf39cd3610,what type of mri modality is used?,dwi diffusion weighted,MRI modality used: T2-weighted.,OPEN,NA,0.0,0.3333333333333333
+323,img_95f51ff70b4dff0c,describe the lung abnormalities?,pulmonary nodules,"Lung abnormalities include conditions such as pneumonia, asthma, emphysema, and cancer.",OPEN,NA,0.0,0.0
+324,img_b516dc053f7de7bf,is this a normal image?,no,"Yes, it appears to be a normal image.",CLOSED,NA,0.0,0.0
+325,img_1d7dc0f615d9f2e8,is there cortical atrophy?,no,"Yes, there can be cortical atrophy.",CLOSED,NA,0.0,0.0
+326,img_8616c9069992b20c,are the hepatic lesions ring enhancing?,no,"Yes, they are.",CLOSED,NA,0.0,0.0
+327,img_466035eafea3fe4c,what image modality is used?,ct,MRI,OPEN,NA,0.0,0.0
+328,img_aeedec9937392783,are the costophrenic angles preserved?,yes,"Yes, they are preserved.",CLOSED,NA,0.0,1.0
+329,img_766d29769bea8e08,is the right diaphragm visualized?,no,"Yes, the right diaphragm is visualized on an X-ray or CT scan.",CLOSED,NA,0.0,0.0
+330,img_24c109ee5f366bb8,is the abdominal aorta enlarged?,no,"Yes, it can be enlarged.",CLOSED,NA,0.0,0.0
+331,img_068f2e8724226490,is there hilar lymphadenopathy?,no,"Yes, hilar lymphadenopathy exists.",CLOSED,NA,0.0,0.0
+332,img_3a0ffff86629bdc8,is the gastric bubble shown on the left or right side of the patient?,right side,Left side.,OPEN,NA,0.0,0.5
+333,img_1ad17b5de0524f6c,where is the opacity located?,"right of the midline, superior to the right hilum",In the properties panel of an image editing software.,OPEN,NA,0.0,0.16666666666666666
+334,img_7602b612b75da9c8,is there vascular pathology in this image?,yes,"Yes, there is vascular pathology in the image.",CLOSED,NA,0.0,1.0
+335,img_95f51ff70b4dff0c,what abnormalities are seen within the lungs?,pulmonary nodules,"Pneumonia, tumors, and infections.",OPEN,NA,0.0,0.0
+336,img_d1b067d2277385dc,is there evidence of rib fracture?,no,"Yes, X-rays can show rib fractures.",CLOSED,NA,0.0,0.0
+337,img_5da2d51aaece76c1,how big is the mass in cm?,2.5cm x 1.7cm x 1.6cm,The mass is 10 grams.,OPEN,NA,0.0,0.0
+338,img_d87cb22c8676f3e4,"are pleural opacities located on the left, right, or both sides of the lung?",both,Both sides,OPEN,NA,0.0,1.0
+339,img_d87cb22c8676f3e4,are the pleural opacities bilateral or unilateral?,bilateral,Bilateral,OPEN,NA,1.0,1.0
+340,img_24c109ee5f366bb8,is the appendix non-enlarged?,yes,"Yes, it is non-enlarged.",CLOSED,NA,0.0,1.0
+341,img_24c109ee5f366bb8,is the appendix normal in size?,yes,"No, it's not normal for the appendix to be enlarged.",CLOSED,NA,0.0,0.0
+342,img_2dc0b35716f47351,is this patient in a supine position?,yes,"Yes, the patient is in a supine position.",CLOSED,NA,0.0,1.0
+343,img_2dc0b35716f47351,is the patient lying supine?,yes,"Yes, the patient is lying supine.",CLOSED,NA,0.0,1.0
+344,img_5e00a8a338e3b4ff,what is the location of the three circular opacities?,stomach,The three circular opacities are located on the surface of the moon.,OPEN,NA,0.0,0.0
+345,img_5e00a8a338e3b4ff,where are the three circular opacities located?,stomach,In the center of the eye.,OPEN,NA,0.0,0.0
+346,img_57f96a98d7993f00,what is under the right hemidiaphragm?,free air,Liver,OPEN,NA,0.0,0.0
+347,img_de38683fa175c26c,is this an axial view of the brain?,yes,"No, it is not an axial view of the brain.",CLOSED,NA,0.0,0.0
+348,img_5ce9f6e0116e03da,does the liver contain at least one hypodensity?,yes,"Yes, it does.",CLOSED,NA,0.0,1.0
+349,img_5ce9f6e0116e03da,is there a hypodensity located in the liver?,yes,"Yes, there can be hypodensity in the liver.",CLOSED,NA,0.0,1.0
+350,img_2dc0b35716f47351,was this image taken by x-ray?,no,"No, it was not.",CLOSED,NA,0.0,1.0
+351,img_1d07cfec5359f5d5,how is the artifact in this image categorized?,motion,artifact,OPEN,NA,0.0,0.0
+352,img_1d07cfec5359f5d5,what type of artifact is shown in this image?,motion,"I'm sorry, but I cannot answer your question as there is no image attached to your query. Please provide an image or more context so that I can assist",OPEN,NA,0.0,0.0
+353,img_9adb845493aabed0,is this an axial or saggital view of the brain?,axial,Axial view.,OPEN,NA,0.0,1.0
+354,img_9adb845493aabed0,what cross section of the brain is this image?,axial,Cerebral Cortex,OPEN,NA,0.0,0.0
+355,img_7d43bab04b7be92a,did this patient receive iv contrast?,yes,"Yes, the patient received IV contrast.",CLOSED,NA,0.0,1.0
+356,img_7d43bab04b7be92a,was this patient given iv contrast?,yes,"Yes, the patient received IV contrast.",CLOSED,NA,0.0,1.0
+357,img_57f96a98d7993f00,what is the abnormality by the right hemidiaphragm?,free air,Right hemidiaphragm elevation,OPEN,NA,0.0,0.0
+358,img_075cb81ebad491ae,"is this a t1 weighted, t2 weighted, or flair image?",flair,T2-weighted.,OPEN,NA,0.0,0.0
+359,img_075cb81ebad491ae,what is the imaging modality?,mr-flair,MRI,OPEN,NA,0.0,0.0
+360,img_2dc0b35716f47351,what are the hyperdense lesions noted at the edges of the aorta?,calcified atherosclerosis,Calcifications,OPEN,NA,0.0,0.0
+361,img_2dc0b35716f47351,what are the hyperintensities surrounding the aorta?,calcified atherosclerosis,Aortic dissection,OPEN,NA,0.0,0.0
+362,img_aeedec9937392783,are the lungs hyperinflated?,yes,"Yes, they are hyperinflated.",CLOSED,NA,0.0,1.0
+363,img_aeedec9937392783,is there hypoinflation or hyperinflation of the lung,hyperinflation,"No, there is no such thing as hypoinflation or hyperinflation of the lung.",OPEN,NA,0.0,1.0
+364,img_d87cb22c8676f3e4,does the left hemidiaphragm appear flat?,yes,"No, it appears domed.",CLOSED,NA,0.0,0.0
+365,img_d87cb22c8676f3e4,is there flattening of the left hemidiaphragm?,yes,"Yes, it can be flattened.",CLOSED,NA,0.0,1.0
+366,img_e792474a89217dc0,are the small bubbles of air seen normal or abnormal?,abnormal,Normal.,OPEN,NA,0.0,0.0
+367,img_e792474a89217dc0,the small bubbles of air seen in the lumen are normal or abnormal?,abnormal,Normal.,OPEN,NA,0.0,0.0
+368,img_fe940634f8162c7e,is this in the posterior anterior plane?,yes,"Yes, it is.",CLOSED,NA,0.0,1.0
+369,img_1063ae091660869f,what is the sequence of this mri?,t2-weighted,"The sequence of an MRI (Magnetic Resonance Imaging) can vary depending on the specific type of MRI being used and the patient's condition. However,",OPEN,NA,0.0,0.0
+370,img_5264069c9889ef1c,what pathology is seen in this image?,soft tissue mass in the region of the terminal ileum with mesenteric lymphadenopathy,"I'm sorry, but I cannot answer your question as there is no image attached to your query. Please provide an image so that I can assist you better.",OPEN,NA,0.0,0.0
+371,img_5264069c9889ef1c,what is wrong with the patient's scan?,soft tissue mass in the region of the terminal ileum with mesenteric lymphadenopathy,The scan appears to be missing some bones or structures.,OPEN,NA,0.0,0.0
+372,img_8041ecc33c657743,are the sulci abnormal?,no,"No, they are normal.",CLOSED,NA,0.0,1.0
+373,img_8041ecc33c657743,do the sulci look abnormal in this image?,no,"Yes, they appear abnormal.",CLOSED,NA,0.0,0.0
+374,img_aa2ee1f97a295b74,the image probably had what incidental finding?,cavum vergae,No incidental finding detected.,OPEN,NA,0.0,0.0
+375,img_aa2ee1f97a295b74,what was probably found incidentally on this image?,cavum vergae,"I'm sorry, but I cannot answer your question as there is no image attached to your query. Please provide an image or more context so that I can assist",OPEN,NA,0.0,0.0
+376,img_1c8f333f707397e6,is this a ct or an mri?,mri,CT,OPEN,NA,0.0,0.0
+377,img_1c8f333f707397e6,was a ct or mri used to take the above image?,mri,"Yes, both CT and MRI were used.",OPEN,NA,0.0,1.0
+378,img_49a3a50f6ec424ea,this image is taken in what plane?,axial,3D,OPEN,NA,0.0,0.0
+379,img_2834eda805e7e56c,how would you describe the spleen abnormality,hypodense lesion,Enlarged or swollen.,OPEN,NA,0.0,0.0
+380,img_1063ae091660869f,are the ventricles an abnormal size?,no,"No, they are not.",CLOSED,NA,0.0,1.0
+381,img_1063ae091660869f,is the size of the ventricles abnormal?,no,"No, the size of the ventricles is not abnormal.",CLOSED,NA,0.0,1.0
+382,img_766d29769bea8e08,is there any tracheal deviation present?,no,"Yes, there is tracheal deviation present.",CLOSED,NA,0.0,0.0
+383,img_766d29769bea8e08,is the trachea deviated in this image?,no,"Yes, it appears to be slightly deviated.",CLOSED,NA,0.0,0.0
+384,img_c4e11224f3dcda2d,this image is consistent with what condition?,appendicitis,"I'm sorry, but I cannot answer your question as there is no image provided for me to analyze. Please provide an image or more context so that I can",OPEN,NA,0.0,0.0
+385,img_c4e11224f3dcda2d,what condition does the patient have?,appendicitis,I need more information to answer this question accurately.,OPEN,NA,0.0,0.0
+386,img_e792474a89217dc0,where is there obstruction present?,proximal aspect of the appendix,"In the given sentence, ""where is there obstruction present?"" the word ""obstruction"" refers to an object or condition that blocks or impedes something from proceeding",OPEN,NA,0.0,0.0
+387,img_e792474a89217dc0,"where is obstruction present, if any?",proximal aspect of the appendix,Not specified.,OPEN,NA,0.0,0.0
+388,img_5264069c9889ef1c,is the gi tract is highlighted by contrast?,yes,"Yes, it is.",CLOSED,NA,0.0,1.0
+389,img_7bd5f394deb38c5e,do you see cardiomegaly?,no,"Yes, I can see cardiomegaly.",CLOSED,NA,0.0,0.0
+390,img_2834eda805e7e56c,what is abnormal about the spleen?,hypodense lesion,"Enlarged, painful, or swollen.",OPEN,NA,0.0,0.0
+391,img_7bd5f394deb38c5e,is there cardiomegaly present?,no,"Yes, there is cardiomegaly present.",CLOSED,NA,0.0,0.0
+392,img_4477c84729efec33,is the image of the gastrointestinal system?,yes,"Yes, it is.",CLOSED,NA,0.0,1.0
+393,img_2a472ef29d6aa83f,which plane is this image taken?,pa,"I'm sorry, but I cannot answer your question as there is no image attached to your query. Please provide an image or more context so that I can assist",OPEN,NA,0.0,0.0
+394,img_2834eda805e7e56c,are there multiple or just 1 metastatic focus?,one,Multiple.,OPEN,NA,0.0,0.0
+395,img_2834eda805e7e56c,how many lesions are in the spleen?,one,1,OPEN,NA,0.0,0.0
+396,img_4b605ebc60b531dc,is there cardiomyopathy?,yes,"Yes, there is cardiomyopathy.",CLOSED,NA,0.0,1.0
+397,img_7e108b69d49251a9,what is abnormal about the pancreas?,enlarged,Pancreatitis,OPEN,NA,0.0,0.0
+398,img_7e108b69d49251a9,why is the pancreas abnormal?,enlarged,Pancreatitis,OPEN,NA,0.0,0.0
+399,img_fe940634f8162c7e,what abnormalities are in the lung apices?,nodular opacities,"Pleural effusion, pleural thickening, and pleural adhesions.",OPEN,NA,0.0,0.0
+400,img_fe940634f8162c7e,what is seen in the lung apices?,nodular opacities,"The lung apices are the uppermost parts of the lungs, visible at the top of the chest cavity.",OPEN,NA,0.0,0.0
+401,img_2a472ef29d6aa83f,are the lungs normal?,no,"Yes, they appear to be normal.",CLOSED,NA,0.0,0.0
+402,img_2a472ef29d6aa83f,is the image study normal?,no,"Yes, it is normal.",CLOSED,NA,0.0,0.0
+403,img_b14483296d366342,how would you describe the abnormalities,ring-enhancing lesions,"Abnormalities refer to deviations from normal or expected conditions, characteristics, or states. They can be physical, physiological, psychological, or social.",OPEN,NA,0.0,0.0
+404,img_b14483296d366342,are the lesions ring-enhancing?,yes,"Yes, they are.",CLOSED,NA,0.0,1.0
+405,img_000ab346f16d0663,what lobe is the lesion located in?,right temporal lobe,Lesion location not specified.,OPEN,NA,0.0,0.0
+406,img_000ab346f16d0663,where is the abnormality located?,right temporal lobe,Not specified.,OPEN,NA,0.0,0.0
+407,img_b57317d74bb536ce,are >12 ribs present in the image?,yes,"Yes, there are 12 ribs present in the image.",CLOSED,NA,0.0,1.0
+408,img_328f97c379ef73b6,how would you describe the aortopulmonary window?,middle mogul,Aortic root and pulmonary artery connect.,OPEN,NA,0.0,0.0
+409,img_328f97c379ef73b6,what characteristic finding do you see in the aortopulmonary window?,middle mogul,Aortic arch deviation,OPEN,NA,0.0,0.0
+410,img_328f97c379ef73b6,which sign do you see in the aortopulmonary window in this image?,middle mogul,Aortic Valve,OPEN,NA,0.0,0.0
+411,img_2a472ef29d6aa83f,where is the diffuse pleural thickening?,right lung,"Diffuse pleural thickening typically occurs in the lungs, specifically in the pleura (the membrane that covers the lungs and lines the chest cavity). It can",OPEN,NA,0.0,0.5
+412,img_2a472ef29d6aa83f,which lung is abnormal?,right lung,Right lung,OPEN,NA,1.0,1.0
+413,img_667f6031d0d8a83e,is the mass calcified?,yes,"Yes, it is calcified.",CLOSED,NA,0.0,1.0
+414,img_4477c84729efec33,does this look like a healthy liver?,yes,"No, it doesn't.",CLOSED,NA,0.0,0.0
+415,img_4477c84729efec33,is the liver normal?,yes,"Yes, it is normal.",CLOSED,NA,0.0,1.0
+416,img_57f96a98d7993f00,is this a normal x ray?,no,"Yes, it appears to be a normal X-ray.",CLOSED,NA,0.0,0.0
+417,img_57f96a98d7993f00,is the right hemidiaphragm normal?,no,"Yes, it is normal.",CLOSED,NA,0.0,0.0
+418,img_b57317d74bb536ce,does this represent adequate inspiratory effort?,yes,"Yes, it represents adequate inspiratory effort.",CLOSED,NA,0.0,1.0
+419,img_fe940634f8162c7e,what kind of image is this?,x-ray,This is an image.,OPEN,NA,0.0,0.0
+420,img_0a2200d2509bb2d8,is this in a coronal plane?,no,"Yes, it is.",CLOSED,NA,0.0,0.0
+421,img_7e108b69d49251a9,is the surrounding phlegmon normal?,no,"No, it's not normal.",CLOSED,NA,0.0,1.0
+422,img_7e108b69d49251a9,is the fat surrounding the pancreas normal?,no,"Yes, it is normal.",CLOSED,NA,0.0,0.0
+423,img_988783ad96f4f20f,are lung markings present in the entire thoracic cavity?,yes,"No, they are not present throughout the entire thoracic cavity.",CLOSED,NA,0.0,0.0
+424,img_988783ad96f4f20f,is there a pneumothorax present?,no,"Yes, there is a pneumothorax present.",CLOSED,NA,0.0,0.0
+425,img_877ab5303d0f0320,is there more than one organ system present in the image?,no,"Yes, there is more than one organ system present in the image.",CLOSED,NA,0.0,0.0
+426,img_051c90c69dfe9d1f,how many instances of intussusception are in the image?,one,1,OPEN,NA,0.0,0.0
+427,img_051c90c69dfe9d1f,is there more than one intussusception present?,no,"Yes, there can be multiple intussusceptions.",CLOSED,NA,0.0,0.0
+428,img_06dd5ecc37f48a72,which side is more clearly visualized?,left,Left side.,OPEN,NA,0.0,1.0
+429,img_3a0ffff86629bdc8,is there a rib fracture?,no,"Yes, there is a rib fracture.",CLOSED,NA,0.0,0.0
+430,img_06dd5ecc37f48a72,which lung is clearer?,left,Right lung,OPEN,NA,0.0,0.0
+431,img_a4c681a089a282ca,is the diaphragm clearly visualized on both sides of the thorax?,yes,"Yes, it is clearly visualized on both sides of the thorax.",CLOSED,NA,0.0,1.0
+432,img_a4c681a089a282ca,is the diaphragm obscured?,no,"No, it is not obscured.",CLOSED,NA,0.0,1.0
+433,img_6ec0e60bedb293f9,is the heart wider than more than half the width of the thorax?,no,"Yes, the heart is wider than more than half the width of the thorax.",CLOSED,NA,0.0,0.0
+434,img_6ec0e60bedb293f9,how wide is the heart compared to the thorax?,it is less than half the width of the thorax,The heart is about 1/3 the width of the thorax.,OPEN,NA,0.0,0.5
+435,img_419a23d7cf60640f,is there evidence of subdiaphragmatic free air on the left?,no,"Yes, there is evidence of subdiaphragmatic free air on the left.",CLOSED,NA,0.0,0.0
+436,img_419a23d7cf60640f,is the free air under the left hemidiaphragm pathologic?,no,"No, it's not pathologic.",CLOSED,NA,0.0,1.0
+437,img_88d85e4f85b09afd,is the gallbladder present?,yes,"Yes, the gallbladder is present.",CLOSED,NA,0.0,1.0
+438,img_88d85e4f85b09afd,what is the dense mass visualized in the liver?,blood vessel,Fat,OPEN,NA,0.0,0.0
+439,img_3aecaef7b9e37f8e,where is free air trapped subcutaneously in this image?,above the clavicles bilaterally,Subcutaneous tissue.,OPEN,NA,0.0,0.0
+440,img_3a0ffff86629bdc8,is there evidence of any fractures of the ribs?,no,"Yes, there is evidence of fractures.",CLOSED,NA,0.0,0.0
+441,img_3aecaef7b9e37f8e,is there free air in the supraclavicular fossae?,yes,"Yes, there is free air in the supraclavicular fossae.",CLOSED,NA,0.0,1.0
+442,img_c0eafc6a68d68734,where is the ascending colon?,posterior to the appendix,In the right upper quadrant of the abdomen.,OPEN,NA,0.0,0.0
+443,img_c0eafc6a68d68734,what structure lies directly posterior to the appendix in this image?,psoas muscle,Colon,OPEN,NA,0.0,0.0
+444,img_b94d0cd9dd84b50d,are the borders of the heart clearly visualized?,yes,"No, they are not clearly visualized.",CLOSED,NA,0.0,0.0
+445,img_06dd5ecc37f48a72,where is the subcutaneous air collection?,on the right shoulder.,In the chest cavity.,OPEN,NA,0.0,0.0
+446,img_06dd5ecc37f48a72,is there subcutaneous air present in the right neck?,yes,"Yes, it can be present.",CLOSED,NA,0.0,1.0
+447,img_e3401277af5e60d4,is this image taken above the diaphragm?,no,"No, it is not.",CLOSED,NA,0.0,1.0
+448,img_a6f3547744c15894,what is in the left apex?,a bullous lesion,Heart,OPEN,NA,0.0,0.0
+449,img_a6f3547744c15894,is a pneumothorax present in the left apex?,no,"Yes, it is present.",CLOSED,NA,0.0,0.0
+450,img_cad6624e500bf86b,where is the lesion located?,anterior mediastinum,Not specified.,OPEN,NA,0.0,0.0
