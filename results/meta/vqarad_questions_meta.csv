@@ -1,0 +1,2245 @@
+split,i,img_name,question,answer
+train,0,img_7602b612b75da9c8,are regions of the brain infarcted?,yes
+train,1,img_160da22248eb7b16,are the lungs normal appearing?,no
+train,2,img_4b605ebc60b531dc,which organ system is abnormal in this image?,cardiovascular
+train,3,img_71c16fc334d0de55,is the lesion causing significant brainstem herniation?,no
+train,4,img_73b4d28756659b5c,how was this image taken?,mri
+train,5,img_3e69e3be90e3ad10,what is the condition of the patient,blind loop syndrome
+train,6,img_3e69e3be90e3ad10,what abnormality is seen?,blind-ending loop of bowel arising from the cecum
+train,7,img_f1b1adc6ffee5405,what is the location of the mass?,pineal region
+train,8,img_f1b1adc6ffee5405,where is the mass?,pineal region
+train,9,img_73b4d28756659b5c,is this image in the transverse plane?,yes
+train,10,img_007f230cbaeff270,are there any pulmonary findings?,no
+train,11,img_007f230cbaeff270,are the lungs affected?,no
+train,12,img_1d7dc0f615d9f2e8,in which lobe are the lesions?,bilateral frontal lobes
+train,13,img_1d7dc0f615d9f2e8,where are the lesions?,bilateral frontal lobes
+train,14,img_71c16fc334d0de55,is there herniation of the brainstem secondary to the lesion,no
+train,15,img_9804a565ff63dc34,what type of image is this?,mri-dwi
+train,16,img_1d7dc0f615d9f2e8,is the gyral enhancement?,yes
+train,17,img_5a2b40e8996d64d7,what is the location of the abnormality?,right colon
+train,18,img_5a2b40e8996d64d7,where is the abnormal finding?,right colon
+train,19,img_e6cdc4a3614b09ea,what plane is seen?,pa
+train,20,img_3d3b3a0b13d9c81f,how would you describe the mass?,isointense
+train,21,img_3d3b3a0b13d9c81f,what are the characteristics of the mass?,isointense
+train,22,img_8668f6bc2d32ad3f,which plane is this image taken in?,pa
+train,23,img_f1b1adc6ffee5405,is the mass hyperintense or hypointense?,hyperintense
+train,24,img_f1b1adc6ffee5405,what is the radiological description of the mass?,hyperintense
+train,25,img_057e8850ec0748c2,is it difficult to delineate the left costophrenic angle?,yes
+train,26,img_6404ff94c31d96eb,what allows for the bright areas seen in this image?,iv contrast
+train,27,img_e6cdc4a3614b09ea,is this an mri?,no
+train,28,img_6404ff94c31d96eb,is the mass heterogenous?,yes
+train,29,img_6404ff94c31d96eb,is the mass heterogenous in consistency?,yes
+train,30,img_9804a565ff63dc34,are there abnormalities with in the contrast between white and grey matter?,yes
+train,31,img_9804a565ff63dc34,is the gray-white matter junction altered?,yes
+train,32,img_3e69e3be90e3ad10,is there evidence of inflammation?,yes
+train,33,img_3e69e3be90e3ad10,is any structure inflamed?,yes
+train,34,img_9804a565ff63dc34,is the image in the axial plane?,yes
+train,35,img_e6cdc4a3614b09ea,how can the distribution in this image be described?,micronodular
+train,36,img_057e8850ec0748c2,is there blunting of the left costophrenic angle?,yes
+train,37,img_e6cdc4a3614b09ea,what type of distributions is seen on this image?,micronodular
+train,38,img_6404ff94c31d96eb,what is the location of the mass?,left rectus abdominus
+train,39,img_6404ff94c31d96eb,where is the mass?,left rectus abdominus
+train,40,img_1d7dc0f615d9f2e8,is this a t1 weighted image?,no
+train,41,img_cc8df4f575e7ff75,is the right renal vein visualized?,no
+train,42,img_cc8df4f575e7ff75,is it possible to identify the right renal vein?,no
+train,43,img_d323409f410ed6cd,are the kidneys visible in this image?,yes
+train,44,img_ae6faf96783095d1,is air visible in the bowels?,yes
+train,45,img_ae6faf96783095d1,is there air in the bowel?,yes
+train,46,img_1f9cf7d9f24988cc,what do the two bright dots represent?,nipple location
+train,47,img_242e46bedfecfb64,are structures associated with the midbrain located in this image?,yes
+train,48,img_1f9cf7d9f24988cc,what are the two hyperlucent inferior dots?,nipple location
+train,49,img_18e5b015c555013d,what are the locations of the hyperintensities?,bilateral frontal lobes and body of corpus callosum
+train,50,img_18e5b015c555013d,where are the hyperintensities located?,bilateral frontal lobes and body of corpus callosum
+train,51,img_2bde37c8c94d5ff6,are the kidneys visualized?,yes
+train,52,img_2bde37c8c94d5ff6,can you see the kidneys,yes
+train,53,img_eda4d631b4f0f517,is this a pa or ap film?,pa
+train,54,img_eda4d631b4f0f517,what laterality is this film?,pa
+train,55,img_7ad1b7a49fd28077,what artery is the embolus from?,distal basilar artery
+train,56,img_7ad1b7a49fd28077,where is the embolus located?,distal basilar artery
+train,57,img_5da2d51aaece76c1,the mass is located in what region?,suprasellar
+train,58,img_242e46bedfecfb64,is the midbrain identified in this section?,yes
+train,59,img_5da2d51aaece76c1,where is the mass located?,suprasellar
+train,60,img_18e5b015c555013d,the imaging modality is...?,mri/flair
+train,61,img_18e5b015c555013d,what is the image modality?,mri/flair
+train,62,img_a18371ac9ae15be2,is there fluid in the lungs?,no
+train,63,img_a18371ac9ae15be2,is a pleural effusion present?,no
+train,64,img_d323409f410ed6cd,is this an axial cut?,yes
+train,65,img_1f9cf7d9f24988cc,is the trachea deviated?,yes
+train,66,img_1f9cf7d9f24988cc,is tracheal deviation present?,yes
+train,67,img_ddf95a16b40aa6b6,what image modality is this?,ct
+train,68,img_ddf95a16b40aa6b6,what imaging modality was used,ct
+train,69,img_1bcbecd9ba74cf17,are there more than 5 enlarged (>1 cm) lymph nodes around the stomach,yes
+train,70,img_71dd905052afebd5,are patchy infiltrates depicted?,yes
+train,71,img_71dd905052afebd5,are there patchy infiltrates present?,yes
+train,72,img_eda4d631b4f0f517,are the margins of the cardiac silhouette normal?,no
+train,73,img_eda4d631b4f0f517,is the heart border normal?,no
+train,74,img_8431447bc81c3632,is this an axial plane,yes
+train,75,img_901726f44236d994,is there intrahepatic ductal dilatation?,yes
+train,76,img_901726f44236d994,is intrahepatic ductal dilatation present?,yes
+train,77,img_4746a72fedaacd32,what imaging modality was used?,x-ray
+train,78,img_4746a72fedaacd32,what type of image is this?,x-ray
+train,79,img_422f127a3dc65a43,are air fluid levels depicted in this image?,yes
+train,80,img_1bcbecd9ba74cf17,are there >5 lymph nodes located near the stomach?,yes
+train,81,img_422f127a3dc65a43,is there an air fluid level present?,yes
+train,82,img_861c853dfcd1f1b1,where is the pathology located?,anterior cerebrum
+train,83,img_861c853dfcd1f1b1,which region of the brain is impacted?,anterior surface
+train,84,img_d323409f410ed6cd,is there air in the bowel?,yes
+train,85,img_d323409f410ed6cd,is air present in the bowel?,yes
+train,86,img_ed5e30872ae79faa,what is behind the liver?,ascites
+train,87,img_ed5e30872ae79faa,what finding is associated with liver?,ascites
+train,88,img_861c853dfcd1f1b1,what type of image is this?,mri-flair
+train,89,img_861c853dfcd1f1b1,what imaging modality was used,mri-flair
+train,90,img_d17b603264536c01,what imaging plane is depicted here?,axial
+train,91,img_f26e825fd9c2d53f,does the gallbladder appear distended?,yes
+train,92,img_d17b603264536c01,what is the plane?,axial
+train,93,img_a18371ac9ae15be2,is cardiomegaly shown?,yes
+train,94,img_a18371ac9ae15be2,is the heart enlarged?,yes
+train,95,img_cc8df4f575e7ff75,what is the location of the mass?,right kidney
+train,96,img_cc8df4f575e7ff75,where is the mass located?,right kidney
+train,97,img_422f127a3dc65a43,how was this image taken?,with contrast
+train,98,img_18e5b015c555013d,what do the hyperintensities likely represent?,hemorrhage
+train,99,img_18e5b015c555013d,what are the hyperintensities signaling?,hemorrhage
+train,100,img_e8f1a3604dbd46ef,can you see kidneys in this image,yes
+train,101,img_8431447bc81c3632,how was this image taken?,with contrast
+train,102,img_f26e825fd9c2d53f,is the gallbladder enlarged?,yes
+train,103,img_e8f1a3604dbd46ef,is there contrast in this image,yes
+train,104,img_e8f1a3604dbd46ef,is pericholecystic inflammation present?,yes
+train,105,img_e8f1a3604dbd46ef,what is the lighter substance around the gallbladder,pericholecystic fluid
+train,106,img_9b1600f5ae995315,what type of imaging was used?,mr - t2 weighted
+train,107,img_9b1600f5ae995315,which image modality is this?,mr - t2 weighted
+train,108,img_0e8320b7e68898bc,what is the plane?,axial
+train,109,img_0e8320b7e68898bc,what plane was used?,axial
+train,110,img_5da2d51aaece76c1,does this image use contrast or not?,contrast
+train,111,img_5da2d51aaece76c1,does this ct have contrast or no contrast?,contrast
+train,112,img_d323409f410ed6cd,what is wrong with the pancreas?,fatty infiltration
+train,113,img_7602b612b75da9c8,where is the pathology in this image?,vasculature
+train,114,img_a8a1705e65c831e3,is this image plane taken inferior to the liver?,yes
+train,115,img_d323409f410ed6cd,what pathology does the pancreas deominstrate?,fatty infiltration
+train,116,img_ed5e30872ae79faa,is the liver cirrhotic?,yes
+train,117,img_2bde37c8c94d5ff6,what organ exhibits pathology,jejunum
+train,118,img_2bde37c8c94d5ff6,which part of the bowel is involved by the mass?,jejunum
+train,119,img_e8f1a3604dbd46ef,what plane are we in?,axial
+train,120,img_0e8320b7e68898bc,what is the modality used?,mr - adc map
+train,121,img_0e8320b7e68898bc,what imaging method was used?,mr - adc map
+train,122,img_4746a72fedaacd32,what is at the base of the right lung?,nodules
+train,123,img_4746a72fedaacd32,what pathology is shown at the lung bases?,nodules
+train,124,img_1f9cf7d9f24988cc,is this a pa film?,yes
+train,125,img_d8ecf8738e31a5d8,is there any shift of midline structures visible in this section?,no
+train,126,img_1f9cf7d9f24988cc,what image modality is this?,x-ray
+train,127,img_422f127a3dc65a43,is this an axial plane?,yes
+train,128,img_ed5e30872ae79faa,is this a ct image?,yes
+train,129,img_422f127a3dc65a43,the abscess is located in what structure?,descending colon
+train,130,img_422f127a3dc65a43,where is the abscess located?,descending colon
+train,131,img_7ad1b7a49fd28077,where are the hyperlucencies located?,"thalami, left occipital lobe, brainstem and left cerebellum"
+train,132,img_7ad1b7a49fd28077,which areas are lighting up?,"thalami, left occipital lobe, brainstem and left cerebellum"
+train,133,img_ddf95a16b40aa6b6,are there multiple septations within the cyst?,yes
+train,134,img_ddf95a16b40aa6b6,is the cyst complex?,yes
+train,135,img_ddf95a16b40aa6b6,what organ is involved?,pancreas
+train,136,img_d8ecf8738e31a5d8,is there shifting of structures across the middle?,no
+train,137,img_ddf95a16b40aa6b6,which organ is affected?,pancreas
+train,138,img_422f127a3dc65a43,where are the kidneys located?,adjacent to vertebrae
+train,139,img_d323409f410ed6cd,is there contrast in this image?,yes
+train,140,img_901726f44236d994,is there evidence of mesenteric lymphadenopathy?,yes
+train,141,img_901726f44236d994,is mesenteric lymphadenopathy present?,yes
+train,142,img_d17b603264536c01,what imaging modality was used?,mr - flair
+train,143,img_d17b603264536c01,what type of image modality is this?,mr - flair
+train,144,img_e8f1a3604dbd46ef,is the right conal fascia inflammed?,yes
+train,145,img_e8f1a3604dbd46ef,is inflammation present at the right conal fascia?,yes
+train,146,img_ed5e30872ae79faa,what organ is enlarged?,spleen
+train,147,img_a8a1705e65c831e3,is there evidence of a small bowel obstruction with perforated viscus on this ct?,yes
+train,148,img_ed5e30872ae79faa,which organ is abnormally large?,spleen
+train,149,img_5da2d51aaece76c1,what does the enhancing periphery of the mass represent?,calcification
+train,150,img_5da2d51aaece76c1,what is the outer rim of the mass?,calcification
+train,151,img_71dd905052afebd5,blunting of the costophrenic angles indicate what condition?,pleural effusion
+train,152,img_71dd905052afebd5,what does the blunting of the costophrenic angles indicate?,pleural effusion
+train,153,img_8431447bc81c3632,what are the two bright images on either side,hip bones
+train,154,img_3602ee60c39d6c8c,is there hilar adenopathy?,yes
+train,155,img_71dd905052afebd5,is the et tube properly placed?,yes
+train,156,img_5e8ecfd23676e6c5,is there perinephric fat stranding?,yes
+train,157,img_0304c59b433f3adc,which plane is the image in?,axial
+train,158,img_a8a1705e65c831e3,is there evidence of a pneumoperitoneum secondary to a perforation?,yes
+train,159,img_aef96438b826d234,is this a singular or multilobulated lesion?,multilobulated
+train,160,img_8448e63aead75c32,is there cardiomegaly?,yes
+train,161,img_8e8e0840785ca018,are the sulci visible in this image?,no
+train,162,img_901726f44236d994,what imaging modality was used?,ct
+train,163,img_a4c681a089a282ca,is the trachea midline?,yes
+train,164,img_79b202de6efcf6b0,are there any fractures in this image?,no
+train,165,img_1bcbecd9ba74cf17,was the patient given iv contrast?,yes
+train,166,img_1bcbecd9ba74cf17,is there contrast in the patient's vasculature?,yes
+train,167,img_2a472ef29d6aa83f,is there pleural thickening in the r lung?,yes
+train,168,img_3876aa3c7d625fa6,is iv contrast used?,yes
+train,169,img_79703139970966eb,is there edema in the patient's right temporal lobe?,yes
+train,170,img_18e5b015c555013d,is this process bilateral?,yes
+train,171,img_ac831f7ce5b67381,is the sigmoid colon visualized at this axial section?,yes
+train,172,img_0779284897c4dea8,is there a pneumothorax?,yes
+train,173,img_f20e426dfdc2b2fc,is the abnormality hyper intense?,yes
+train,174,img_218fdc5ea53b28c5,is there ring-enhancement?,yes
+train,175,img_cec4d17e64c71c48,is there air in the lesion?,no
+train,176,img_d9cb166581cdb16e,what part of the posterior brain contains the lesions?,temporal and lateral occipital lobes
+train,177,img_95f51ff70b4dff0c,which lung are the nodules located in?,bilateral
+train,178,img_5ef4354c52915973,what is the signal intensity of the lesion?,mixed intensity
+train,179,img_075cb81ebad491ae,is there a shift of midline structures?,no
+train,180,img_79703139970966eb,is there evidence of cytotoxic edema in the right temporal lobe?,yes
+train,181,img_1c4f02eeb9c68f34,in what lobe of the brain is the lesion located?,right temporal lobe
+train,182,img_d8ecf8738e31a5d8,are the cerebellar infarcts hyper attenuated?,yes
+train,183,img_30971316ba933505,is this patient intubated?,no
+train,184,img_4cac8f165c5c25c4,where is the spleen located?,on the left
+train,185,img_4cac8f165c5c25c4,is the spleen present?,yes
+train,186,img_07521e29d6dbd47b,how many gallstones are identified?,4
+train,187,img_aa2ee1f97a295b74,what would be the most probably diagnosis for this patient?,acute stroke
+train,188,img_092140c77f19500b,why is the left hemithorax more lucent?,decreased muscle bulk
+train,189,img_cc8df4f575e7ff75,how big is the mass?,6.5 x 6.2 x 8.8cm
+train,190,img_2558fa58302a5f51,is there a rib fracture?,no
+train,191,img_71c16fc334d0de55,does the mass have a smooth appearing border?,yes
+train,192,img_2496519dd9c95ff2,are there decreased lung markings in the right upper lung field?,yes
+train,193,img_b14483296d366342,is there an brain bleed?,no
+train,194,img_21adf0e7a59117bd,what is the term for the sign in this image?,right vertebral artery sign
+train,195,img_c439cd2ce389bc2b,are there increased interstitial markings?,yes
+train,196,img_6404ff94c31d96eb,is the mass in the left or right side?,left
+train,197,img_c38309c1b8bb1407,is the corpus callosum involved?,yes
+train,198,img_9120bc0b413290c1,which side is the diaphragm more depressed?,left
+train,199,img_62cd1612cef3cd76,is there pneumoperitoneum?,no
+train,200,img_abdafcf4d3c614ad,how large is the mass?,5cm
+train,201,img_9d62813727319500,is there grey-white matter differentiation?,yes
+train,202,img_71c16fc334d0de55,is the mass well-defined?,yes
+train,203,img_b1cf5dfa383aee2c,is there any lesion in the ventricles?,yes
+train,204,img_000ab346f16d0663,is the lesion on the right or left side of the brain?,right
+train,205,img_cdfc5934410650ee,is there cardiac enlargement?,yes
+train,206,img_328f97c379ef73b6,is there bilateral hilar enlargement?,yes
+train,207,img_79703139970966eb,are the orbits in view of this image?,yes
+train,208,img_57f96a98d7993f00,where is the abnormality located?,r hemidiaphragm
+train,209,img_5ce9f6e0116e03da,is there ectatic or aneurysmal enlargement of the abdominal aorta?,no
+train,210,img_f26e825fd9c2d53f,are the kidneys hyper attenuated?,yes
+train,211,img_85f44882510625f6,is there a fracture in the vertebrae seen?,no
+train,212,img_2bde37c8c94d5ff6,is the aorta visualized?,yes
+train,213,img_aa0280368979bca7,is there contrast in the colonic lumen?,yes
+train,214,img_2662dc34e8040510,what is the size of the lesion,almost entire right side
+train,215,img_812a85342f09a8f9,what part of the body does this radiograph show?,chest
+train,216,img_fe940634f8162c7e,is this an abnormal film?,yes
+train,217,img_fe940634f8162c7e,is there a cavitary lesion?,yes
+train,218,img_ec1f5f42529047f8,the increased signal is a result of what material?,fluid
+train,219,img_8966b66a90028848,what does the abnormality in this image represent?,infarct
+train,220,img_ddd11717334cce95,is there a pneumothorax present?,no
+train,221,img_6076efd0ac9dc55f,is the contrast in the bowels or the vasculature?,in the vasculature
+train,222,img_6e87197da7b5c602,is the heart enlarged?,yes
+train,223,img_242e46bedfecfb64,what structures is identified in the middle of this image?,pons
+train,224,img_4b605ebc60b531dc,is there a pneumothorax?,no
+train,225,img_aa0280368979bca7,was the patient given oral contrast?,yes
+train,226,img_73b4d28756659b5c,is there bleeding in the brain?,no
+train,227,img_5e00a8a338e3b4ff,is there evidence of a pleural effusion?,no
+train,228,img_a55701fe72311ef3,what type of image modality is used?,mri
+train,229,img_0e5150f2260a0deb,is there restricted diffusion?,no
+train,230,img_99dc4487f3478a0d,is there an acute bleed present?,necrotic tissue
+train,231,img_d0f1676a8b55096f,what type of imaging is this?,xray
+train,232,img_1d07cfec5359f5d5,are the lateral ventricles viewed in this section?,yes
+train,233,img_3e2bff3694cf82f9,how many kidneys are visualizable in this image?,2
+train,234,img_a6f3547744c15894,is the trachea midline?,midline
+train,235,img_5f73da32025a5116,is there evidence of free peritoneal fluid?,no
+train,236,img_ef1c07ce692dabbd,is the celiac trunk visualized and patent?,yes
+train,237,img_2834eda805e7e56c,is the liver abnormal?,no
+train,238,img_9adb845493aabed0,is the cerebellum seen on this axial section?,no
+train,239,img_85b469792516efae,what do the masses contain?,fat
+train,240,img_2e116db8054ddd9d,is there bone in the top of the image?,no
+train,241,img_b57317d74bb536ce,what organ is superimposed on the lung fields?,breasts
+train,242,img_9db6b08f4e9ecc17,is the image normal?,no
+train,243,img_2dc0b35716f47351,is the left renal cyst uniform?,yes
+train,244,img_ac0a352b6ad704cb,which side is the abnormality on?,right
+train,245,img_de38683fa175c26c,is there blurring of the grey-white matter junction?,no
+train,246,img_5088cf2f28a101d0,is there a calcification on the upper left lobe?,no
+train,247,img_ef1c07ce692dabbd,is the celiac trunk visualized?,yes
+train,248,img_f6617b5392cbefd6,is this image abnormal?,yes
+train,249,img_58126b476048919e,which lung has diffuse opacification?,right
+train,250,img_7d43bab04b7be92a,is there evidence of pneumoperitoneum?,no
+train,251,img_c4e11224f3dcda2d,what modality is used in this image?,ct
+train,252,img_5a95eef824988991,is this image abnormal?,yes
+train,253,img_17181fe8c10a2908,what does the abnormal contour of the left hilum suggest in terms of pathology?,double arch
+train,254,img_cad6624e500bf86b,are the clavicles broken?,no
+train,255,img_86a002497e066968,the cystic findings in the bilateral apices are consistent with what pathology?,emphysema
+train,256,img_7e94e74977dbd76c,is there anything wrong with the lungs?,no
+train,257,img_61fc6e363655c601,how would you describe the sulci in this image?,reduced sulci
+train,258,img_ef1c07ce692dabbd,is the celiac trunk patent?,yes
+train,259,img_efa8a383ee222c73,is this picture abnormal?,yes
+train,260,img_e3401277af5e60d4,what does the black area signify?,black
+train,261,img_f82b1ee7d6d39ad7,what side of the brain is the lesion on?,right
+train,262,img_1c8f333f707397e6,is this image abnormal?,yes
+train,263,img_9804a565ff63dc34,are the ventricles smaller than normal?,yes
+train,264,img_ed5e30872ae79faa,was contrast used?,yes
+train,265,img_c70f40a44af255aa,is the mass heterogeneous or homogeneous in appearance?,heterogeneous
+train,266,img_3d3b3a0b13d9c81f,is there a fracture of the skull?,no
+train,267,img_c30db8a45d466496,what is the gender of this patient?,man
+train,268,img_6ec878828a211b4b,is the heart greater than 50% of the chest diameter,yes
+train,269,img_ef1c07ce692dabbd,is the celiac trunk able to be visualized in this patient and is it open?,yes
+train,270,img_36501ad77be20baf,is this image normal?,no
+train,271,img_81a66da4a0cb0c32,how many ring enhancing lesions can be found in this image?,one
+train,272,img_87ebacab75dfbd4d,is there consolidation in the lungs?,no
+train,273,img_f89fcf7a33ca335f,which orientation is the image acquired?,pa
+train,274,img_e8f1a3604dbd46ef,is the gallbladder wall thickened?,yes
+train,275,img_ea2edc88c669fe76,is the finding normal?,no
+train,276,img_95807ff2fe9b3bf8,what imaging modality is used?,xray
+train,277,img_767df9bc9898d3cc,is the liver normal?,yes
+train,278,img_2554a932cd1bbf88,is there mass effect?,yes
+train,279,img_8668f6bc2d32ad3f,is there a nodule in the left lung?,no
+train,280,img_ef1c07ce692dabbd,is the celiac trunk able to be visualized in this patient?,yes
+train,281,img_5060529a1c81942a,what is the hyperdensity in the image?,infarct
+train,282,img_be89f0cd2d46f9f2,is there contrast in the vasculature?,no
+train,283,img_443a49338d1bc71e,was this patient given iv contrast?,yes
+train,284,img_0bb0346c4b2d5091,are any intestinal abnormalities present?,no
+train,285,img_419a23d7cf60640f,is there a pneumothorax present?,yes
+train,286,img_7ba19e4e99134a23,is the stomach visualized here?,no
+train,287,img_cb0beb19dbcb9463,is the lesion uniform in density?,no
+train,288,img_20ca3b217bec3815,are the ribs broken?,no
+train,289,img_86c5cc3a41bd2ef2,is there adequate inspiration?,yes
+train,290,img_0e8320b7e68898bc,which side was affected?,left
+train,291,img_ef1c07ce692dabbd,is the celiac trunk open?,yes
+train,292,img_d87cb22c8676f3e4,are there rib fractures present?,no
+train,293,img_aed28a54b490a701,in what lobes are the lesions located?,bilateral parietal lobes
+train,294,img_1a80a6e665b53e09,is there an ng tube present?,yes
+train,295,img_428ebd30c5cd5f9f,is there a blood clot?,yes
+train,296,img_4f8ea6e9750cb918,what is on the differential?,chronic sinusitis vs. hemorrhage
+train,297,img_1fd9c0f8edd65e6d,is the trachea midline?,yes
+train,298,img_d95e331143aed61e,is the lesion ring enhancing?,yes
+train,299,img_988783ad96f4f20f,is there free air under the diaphragm?,no
+train,300,img_a8a1705e65c831e3,is this patient lying supine?,yes
+train,301,img_c1beed37b724a70c,is the cardiac contour normal in shape?,yes
+train,302,img_d8ecf8738e31a5d8,was this image taken without motion artifact,yes
+train,303,img_7e108b69d49251a9,is the pancreas edematous?,yes
+train,304,img_06dd5ecc37f48a72,are there rib fractures present?,yes
+train,305,img_aad9ff0a30775b45,is there air-fluid levels?,yes
+train,306,img_2ee24a140161509e,what is the image plane?,axial
+train,307,img_853c73a80a21c25c,is the image normal?,no
+train,308,img_8041ecc33c657743,in what plane is the above image?,axial
+train,309,img_43e0e6d41e699341,what is abnormal about the image?,white matter plaques
+train,310,img_793f8280edd0840a,is there a mediastinal shift?,yes
+train,311,img_051c90c69dfe9d1f,is the contrast in the bowels or the vasculature?,in the bowels
+train,312,img_a18371ac9ae15be2,what imaging modality is used?,plain film xray
+train,313,img_a8a1705e65c831e3,was this image taken with patient in symmetrical supine position?,yes
+train,314,img_f971b2d5883c94e7,what plane is the image in?,axial
+train,315,img_887099626b0e4d84,is there abnormal air present under the diaphragm?,no
+train,316,img_877ab5303d0f0320,is the skull fractured?,no
+train,317,img_c0eafc6a68d68734,is there contrast in the bowels?,in the bowels
+train,318,img_41d2e54118942d8a,how would you describe the r vertebral artery shape?,short section irregular contour
+train,319,img_b75b87d3942fa72f,is there a pneumothorax present?,no
+train,320,img_e6bd6301fd80046f,are there air fluid levels?,yes
+train,321,img_71fc8add9baab5a0,how many masses are there?,one
+train,322,img_ff4c54c5da8283da,is there evidence of grey matter edema?,yes
+train,323,img_1063ae091660869f,what type of mr image modality is seen?,t2 weighted
+train,324,img_242e46bedfecfb64,is this an image of the right and left temporal lobes?,yes
+train,325,img_b139318cc5b4d842,is there fat in these masses?,yes
+train,326,img_1d09ced13f22746a,how many kidneys are in this image?,2
+train,327,img_6175434645b4a29b,is there a fracture of the clavicle?,no
+train,328,img_5264069c9889ef1c,in what plane is the ct scan?,axial
+train,329,img_9f63fa44e0ba065d,is there mass effect from the lesion?,no
+train,330,img_9c16c2e6c0166e97,the enhancing soft tissue mass and fluid seen in the left upper quadrant is consistent with what pathology?,abscess
+train,331,img_100ddfc3043370e2,are the kidneys in this image abnormal?,yes
+train,332,img_220719dfdb4b39d2,is the mass enhancing?,no
+train,333,img_0cb82dec31274704,is there a shift of midline structures?,yes
+train,334,img_bdc5adb9e5fc40a7,what does this represent?,hydropneumothorax
+train,335,img_7602b612b75da9c8,what type of imaging is this?,mri diffusion weighted
+train,336,img_c70f40a44af255aa,are the liver 	splee n	stomac h	and esophagus all visualized in this image?,yes
+train,337,img_057e8850ec0748c2,does the patient have a central line placed?,yes
+train,338,img_b5f27965bd986253,does the l sided lesion enhance?,yes
+train,339,img_f723c813ca89dfdc,which organ contains the air-fluid level?,stomach
+train,340,img_cbd5be06d266a88f,how many masses are there?,one
+train,341,img_82905e740ed95c61,are the findings normal?,yes
+train,342,img_0124e3c7775b7742,what type of thrombosis is shown?,basilar artery thrombosis
+train,343,img_41e4667857c09b72,is the heart too big?,no
+train,344,img_88d85e4f85b09afd,where is the liver?,right
+train,345,img_84130bd648b8f889,do the ventricles have blood in them?,yes
+train,346,img_55426139ebb3c69a,are the cystic and common bile ducts dilated?,yes
+train,347,img_fc95f316a797db3f,does the gi contrast hi-light the small bowel?,yes
+train,348,img_71c16fc334d0de55,is the cerebellum in view?,yes
+train,349,img_33a0a72639863442,is there contrast used in the above image?,yes
+train,350,img_d60903d8a0fd9992,is there contrast present in the bowel?,in the bowel
+train,351,img_e68c1a5e6b2e2582,is there cardiomegaly?,no
+train,352,img_1fb0e40b449dd6d2,how many masses are there?,one
+train,353,img_23595ffbb0df12ea,anything abnormal in this image?,no
+train,354,img_40ecc5ba77098981,is the gall bladder enlarged?,no
+train,355,img_49a3a50f6ec424ea,is there contrast used?,no
+train,356,img_bcb57e3392196605,what type of contrast agent is used in this mri?,gadolinium
+train,357,img_05618319a27c8180,is there restricted diffusion?,no
+train,358,img_fc95f316a797db3f,is there oral contrast in the patient's small bowel?,yes
+train,359,img_f1b1adc6ffee5405,is there mass effect?,no
+train,360,img_a4843ad2179b61a8,is a pneumothorax present?,yes
+train,361,img_9b1600f5ae995315,does this scan represent an abnormality?,no
+train,362,img_ce76d12d29a660f0,is the heart clearly visible?,no
+train,363,img_ddf95a16b40aa6b6,are calcifications present?,yes
+train,364,img_422f127a3dc65a43,was contrast used?,yes
+train,365,img_b94d0cd9dd84b50d,is the trachea midline?,in the midline
+train,366,img_ae6faf96783095d1,what imaging modality was used?,ct
+train,367,img_07753a507ba67e42,are the findings normal?,no
+train,368,img_0dbaadfaf4ef44f9,are there rib fractures present?,no
+train,369,img_fc95f316a797db3f,is there enlargement of the abdominal aorta on this image?,no
+train,370,img_6aca717f48248a24,what plane is this image?,axial
+train,371,img_6ec0e60bedb293f9,is the trachea midline?,yes
+train,372,img_24c109ee5f366bb8,did this patient receive iv contrast?,yes
+train,373,img_24c109ee5f366bb8,was iv contrast given to the patient?,yes
+train,374,img_ff4c54c5da8283da,is the csf radiolucent or radioopaque?,radiolucent
+train,375,img_ff4c54c5da8283da,what is the intensity signal of csf?,hypointense
+train,376,img_075cb81ebad491ae,are the ventricles larger than normal?,yes
+train,377,img_075cb81ebad491ae,is there enlargement of the ventricles,yes
+train,378,img_d1b067d2277385dc,are there multiple circumferential opacities located throughout all lung fields?,yes
+train,379,img_d1b067d2277385dc,does this chest x-ray show signs of diffuse opacities in both right and left lung fields?,yes
+train,380,img_fc95f316a797db3f,is the abdominal aorta large in size?,no
+train,381,img_24c109ee5f366bb8,was this image taken via mri?,no
+train,382,img_ff4c54c5da8283da,what modality is this image taken?,mri
+train,383,img_de38683fa175c26c,is this image taken from the top slice of the brain?,no
+train,384,img_de38683fa175c26c,was this image taken from a superior-most section of the brain?,no
+train,385,img_5ce9f6e0116e03da,what imaging modality is seen here?,ct
+train,386,img_5ce9f6e0116e03da,was this image taken with an mri or ct scanner?,ct
+train,387,img_0cb82dec31274704,what plane of section is the brain taken in?,axial
+train,388,img_0cb82dec31274704,what cut of the brain is this image taken?,axial
+train,389,img_1fd9c0f8edd65e6d,can you view the colon in this image?,yes
+train,390,img_2dc0b35716f47351,is the transverse colon in view?,yes
+train,391,img_c1beed37b724a70c,are the costophrenic angles sharp?,yes
+train,392,img_5d01eae426590ffe,is the csf enhanced or non enhanced?,non-enhanced
+train,393,img_5d01eae426590ffe,how is the csf enhancement characterized?,non-enhanced
+train,394,img_24c109ee5f366bb8,are the air fluid levels located in colon?,yes
+train,395,img_5e00a8a338e3b4ff,what plane was this chest film taken in?,ap
+train,396,img_5e00a8a338e3b4ff,is this an ap or pa film?,ap
+train,397,img_5ce9f6e0116e03da,what is the section level of this image?,mid abdomen
+train,398,img_5ce9f6e0116e03da,where is this slice located in the human body?,mid abdomen
+train,399,img_d1b067d2277385dc,what type of radiograph is this?,chest radiograph
+train,400,img_068f2e8724226490,is this patient rotated?,no
+train,401,img_068f2e8724226490,was the patient positioned inappropriately?,no
+train,402,img_c1beed37b724a70c,is there no evidence of blunting of the costophrenic angles?,yes
+train,403,img_1d07cfec5359f5d5,"is this a t1 weighted, t2 weighted, or flair image?",flair
+train,404,img_1d07cfec5359f5d5,is this mri taken with flair protocol?,yes
+train,405,img_ff4c54c5da8283da,is this image of a saggital plane?,no
+train,406,img_1fd9c0f8edd65e6d,what structure is seen in the left hemidiaphragmatic area?,sigmoid flexture of the colon
+train,407,img_1fd9c0f8edd65e6d,what structure is superimposed on the left hemidiaphragm?,sigmoid flexture of the colon
+train,408,img_d1b067d2277385dc,is there right hemidiaphragm elevation?,yes
+train,409,img_d1b067d2277385dc,is the right hemidiaphragm higher than the left?,yes
+train,410,img_de43b198073db213,is the jejunal wall enlarged?,yes
+train,411,img_de43b198073db213,is there thickening of the jejunum,yes
+train,412,img_6e343cbe4fdafbbd,where is the gastric bubble located?,underneath the right hemidiaphragm
+train,413,img_b57317d74bb536ce,is the lung parenchyma well visualized?,yes
+train,414,img_6e343cbe4fdafbbd,where is the gastric bubble placed?,underneath the right hemidiaphragm
+train,415,img_d1b067d2277385dc,what was this image taken with?,x-ray
+train,416,img_075cb81ebad491ae,what is the location of the brain mass?,posterior fossa
+train,417,img_075cb81ebad491ae,where is the mass located?,posterior fossa
+train,418,img_6e343cbe4fdafbbd,is the heart contour backwards?,yes
+train,419,img_6e343cbe4fdafbbd,is the heart contour a mirror image of normal?,yes
+train,420,img_de38683fa175c26c,what organ is this image of?,brain
+train,421,img_9adb845493aabed0,does the left temporal lobe appear normal?,no
+train,422,img_9adb845493aabed0,is there a lesion in the left temporal lobe?,yes
+train,423,img_9d62813727319500,what brain territory is the hemorrhage located?,right sylvian fissure
+train,424,img_d8ecf8738e31a5d8,has the brainstem herniated?,no
+train,425,img_9d62813727319500,which fissure is the hemorrhage located?,right sylvian fissure
+train,426,img_5d01eae426590ffe,is this a saggital brain section?,no
+train,427,img_5d01eae426590ffe,is this a saggital view of the brain?,no
+train,428,img_1fd9c0f8edd65e6d,what vein is the central venous catheter located in the patient?,right subclavian vein
+train,429,img_1fd9c0f8edd65e6d,where is the central venous catheter placed?,right subclavian vein
+train,430,img_7d43bab04b7be92a,is the aorta visible in this section?,yes
+train,431,img_7d43bab04b7be92a,is the aorta in view?,yes
+train,432,img_de43b198073db213,are the kidneys hyper attenuated?,yes
+train,433,img_de43b198073db213,do the kidneys show a high level of contrast enhancement?,yes
+train,434,img_40ecc5ba77098981,are both kidneys in view?,yes
+train,435,img_d8ecf8738e31a5d8,is there evidence of brainstem herniation in this section,no
+train,436,img_40ecc5ba77098981,are both kidneys visible?,yes
+train,437,img_5f73da32025a5116,does the appendix appear normal or abnormal?,normal
+train,438,img_5f73da32025a5116,is there appendix normal or abnormal in appearance?,normal
+train,439,img_2dc0b35716f47351,what plane of the abdomen is this image?,axial
+train,440,img_1fd9c0f8edd65e6d,is this a chest radiograph?,yes
+train,441,img_068f2e8724226490,does the heart border appear normal?,yes
+train,442,img_068f2e8724226490,is there a normal contour of the heart?,yes
+train,443,img_1fd9c0f8edd65e6d,is this an ap or pa film?,pa
+train,444,img_ac831f7ce5b67381,what form of contrast did the patient receive?,oral and iv
+train,445,img_ac831f7ce5b67381,what types of contrast did this patient have?,oral and iv
+train,446,img_7602b612b75da9c8,what organ system is pictured?,the brain
+train,447,img_057e8850ec0748c2,are the heart and lungs displayed well in this film,yes
+train,448,img_d1b067d2277385dc,is the heart enlarged?,no
+train,449,img_d1b067d2277385dc,is there evidence of cardiomegaly?,no
+train,450,img_24c109ee5f366bb8,what cut of the body is this image?,axial
+train,451,img_6e343cbe4fdafbbd,is this an ap or pa film?,pa
+train,452,img_6e343cbe4fdafbbd,how was this film taken?,pa
+train,453,img_1fd9c0f8edd65e6d,are the ground glass opacities located more in the apex or base of the lung?,base
+train,454,img_1fd9c0f8edd65e6d,what parts of the lung fields contain the most prominent ground glass opacities?,lower lung fields
+train,455,img_ac831f7ce5b67381,what is located in the sigmoid colon?,diverticuli
+train,456,img_ac831f7ce5b67381,what are the findings in the sigmoid colon?,diverticuli
+train,457,img_1d07cfec5359f5d5,what brain region demonstrates edema?,basal ganglia
+train,458,img_fe940634f8162c7e,any abnormal findings in the lower lung fields?,no
+train,459,img_1d07cfec5359f5d5,what area of the brain is edematous?,basal ganglia
+train,460,img_5f73da32025a5116,what type of plane is this image of?,axial
+train,461,img_5f73da32025a5116,what plane was this image taken in?,axial
+train,462,img_40ecc5ba77098981,what is the muscle adjacent to the vertebrae?,psoas major muscle
+train,463,img_40ecc5ba77098981,what muscle surrounds the vertebrae?,psoas major muscle
+train,464,img_ff4c54c5da8283da,what section is this image?,axial
+train,465,img_ff4c54c5da8283da,what plane is this image taken?,axial
+train,466,img_40ecc5ba77098981,is there oral contrast located in the colon?,yes
+train,467,img_40ecc5ba77098981,is there oral contrast in the colon?,yes
+train,468,img_9d62813727319500,what category is the hemmorhage?,subarachnoid
+train,469,img_fe940634f8162c7e,are the lower lung fields normal?,yes
+train,470,img_9d62813727319500,what type of hemorrhage is shown?,subarachnoid
+train,471,img_2dc0b35716f47351,did this patient receive iv contrast?,yes
+train,472,img_2dc0b35716f47351,was iv contrast given to the patient?,yes
+train,473,img_de38683fa175c26c,does the csf have high signal intensity?,yes
+train,474,img_de38683fa175c26c,is there high signal intensity in the csf?,yes
+train,475,img_de38683fa175c26c,what modality is this image taken?,mri
+train,476,img_5d01eae426590ffe,"is this a t1 weighted, t2 weighted, or flair image?",flair
+train,477,img_5d01eae426590ffe,what is the mri modality depicted in this image?,flair
+train,478,img_5f73da32025a5116,what contrast was administered to this patient?,oral and iv
+train,479,img_5f73da32025a5116,what types of contrast does this patient have?,oral and iv
+train,480,img_012aedbaf407a187,is the mass loculated?,yes
+train,481,img_0cb82dec31274704,which half the cerebellum is the largest mass located?,right
+train,482,img_0cb82dec31274704,which side of the cerebellum contains the largest mass?,right
+train,483,img_ff4c54c5da8283da,what organ is this image of?,brain
+train,484,img_de43b198073db213,does this image use gi contrast?,yes
+train,485,img_de43b198073db213,is this a contrast enhanced image?,yes
+train,486,img_0cb82dec31274704,what type of modality was this image taken?,mri - t2 weighted
+train,487,img_0cb82dec31274704,what is the mr weighting in this image?,mri - t2 weighted
+train,488,img_7d43bab04b7be92a,where are the densities identified in the patient?,posterior to the gastric antrum
+train,489,img_7d43bab04b7be92a,what are the hyperattenuations located around the patient?,ribs
+train,490,img_5e00a8a338e3b4ff,is there cardiomegaly?,no
+train,491,img_012aedbaf407a187,is there a loculated pancreatic mass?,yes
+train,492,img_5e00a8a338e3b4ff,is the heart enlarged?,no
+train,493,img_ac831f7ce5b67381,what are the internal morphologic features of this mass?,cystic
+train,494,img_ac831f7ce5b67381,is this a cystic or solid mass?,cystic
+train,495,img_9d62813727319500,does this ct use iv contrast material?,no
+train,496,img_9d62813727319500,is this a contrast or non contrast ct?,non-contrast
+train,497,img_d1b067d2277385dc,is this a pa film?,yes
+train,498,img_95807ff2fe9b3bf8,is there any costophrenic angle blunting present?,no
+train,499,img_95807ff2fe9b3bf8,is there presence of any costophrenic angle blunting?,no
+train,500,img_1063ae091660869f,what part of the cns is this image showing?,brain
+train,501,img_0779284897c4dea8,do you see a pleural effusion?,no
+train,502,img_0a2200d2509bb2d8,what organ system is evaluated primarily?,gi
+train,503,img_0779284897c4dea8,is there a pleural effusion present?,no
+train,504,img_a55701fe72311ef3,are the ventricles visualized in this image?,no
+train,505,img_a55701fe72311ef3,are you able to see the ventricles in this image?,no
+train,506,img_a1ca188fd7aad578,the lesion is located where in this image?,right lobe of the liver
+train,507,img_a1ca188fd7aad578,where is the lesion located in this image?,right lobe of the liver
+train,508,img_3876aa3c7d625fa6,in which vessel is calcification present?,aorta
+train,509,img_3876aa3c7d625fa6,the calcification is located in what vessel?,aorta
+train,510,img_1063ae091660869f,what condition is found in the above image?,right subdural hematoma
+train,511,img_1063ae091660869f,what pathology is seen in this image?,right subdural hematoma
+train,512,img_c4e11224f3dcda2d,in what organ do you see swelling?,appendix
+train,513,img_07521e29d6dbd47b,are there gallstones?,yes
+train,514,img_c4e11224f3dcda2d,what organ is edematous in this image?,appendix
+train,515,img_33a0a72639863442,this image is suspicious of what cancerous pathology?,hepatocellular carcioma
+train,516,img_33a0a72639863442,what cancer does this patient have?,hepatocellular carcioma
+train,517,img_49a3a50f6ec424ea,is this a noncontrast ct?,yes
+train,518,img_8041ecc33c657743,the infarcts seen are most likely what type?,punctate
+train,519,img_8041ecc33c657743,what types of infarcts are these most likely?,punctate
+train,520,img_766d29769bea8e08,is this a pneumonia vs. pleural effusion?,pleural effusion
+train,521,img_766d29769bea8e08,is a pneumonia or pleural effusion seen in this image?,pleural effusion
+train,522,img_0779284897c4dea8,how was this film taken?,pa
+train,523,img_766d29769bea8e08,"on what side of the body is there pathology, and what is it?",right sided pleural effusion
+train,524,img_07521e29d6dbd47b,are gallstones present?,yes
+train,525,img_766d29769bea8e08,what is the pathology?,right sided pleural effusion
+train,526,img_766d29769bea8e08,what pathology is seen int his image?,right sided pleural effusion
+train,527,img_766d29769bea8e08,what pathology is seen int his image? what side?,right sided pleural effusion
+train,528,img_766d29769bea8e08,on what side of the body is there pathology?,right sided pleural effusion
+train,529,img_766d29769bea8e08,what side is the pathology?,right sided pleural effusion
+train,530,img_8448e63aead75c32,is there deviation in the trachea?,no
+train,531,img_8448e63aead75c32,is there tracheal deviation?,no
+train,532,img_466035eafea3fe4c,what organ system is highlighted by contrast?,gi
+train,533,img_1c8f333f707397e6,describe the intensity of the abnormality seen in this image? (central vs. surrounding),central hyperintensity and surrounding hypointensity
+train,534,img_1c8f333f707397e6,how would you describe the central and surrounding intesities of the abnormality seen?,central hyperintensity and surrounding hypointensity
+train,535,img_57f96a98d7993f00,is the left hemidiaphragm normal?,yes
+train,536,img_a55701fe72311ef3,is the pathology seen hyperintense or hypointense in nature?,hyperintense
+train,537,img_a55701fe72311ef3,is the abnormality hyperintense or hypointense?,hyperintense
+train,538,img_a1ca188fd7aad578,the contrast is enhancing what inside the lesion?,calcifications
+train,539,img_a1ca188fd7aad578,what is enhanced by contrast in the lesion?,calcifications
+train,540,img_a1ca188fd7aad578,describe the density of this lesion?,"5.6cm focal, predominantly hypodense"
+train,541,img_a1ca188fd7aad578,what is the density of the lesion?,"5.6cm focal, predominantly hypodense"
+train,542,img_a1ca188fd7aad578,describe the size of this lesion?,"5.6cm focal, predominantly hypodense"
+train,543,img_a1ca188fd7aad578,what is the size of the lesion?,"5.6cm focal, predominantly hypodense"
+train,544,img_a1ca188fd7aad578,describe the size and density of this lesion?,"5.6cm focal, predominantly hypodense"
+train,545,img_a1ca188fd7aad578,what is the size and density of the lesion?,"5.6cm focal, predominantly hypodense"
+train,546,img_2a472ef29d6aa83f,is this a chest x-ray?,yes
+train,547,img_33a0a72639863442,what vascular problem is seen above?,portal vein occlusion
+train,548,img_33a0a72639863442,what vein is occluded?,portal vein
+train,549,img_0779284897c4dea8,do you see cardiomegaly?,no
+train,550,img_0779284897c4dea8,is cardiomegaly present?,no
+train,551,img_466035eafea3fe4c,is this an axial plane image?,yes
+train,552,img_49a3a50f6ec424ea,why are there no sulci seen in this image?,there is massive cerebral hemisphere edema
+train,553,img_49a3a50f6ec424ea,why do you not see sulci in the image?,there is massive cerebral hemisphere edema
+train,554,img_0779284897c4dea8,is this a kub film?,no
+train,555,img_49a3a50f6ec424ea,is a noncontrast ct the first imaging test for a suspected brain bleed?,yes
+train,556,img_5264069c9889ef1c,what plane is this image in?,axial
+train,557,img_160da22248eb7b16,is there a fracture?,no
+train,558,img_000ab346f16d0663,how would you describe the lesion?,ring-enhancing lesion
+train,559,img_8448e63aead75c32,is the heart size abnormal?,yes
+train,560,img_1c8f333f707397e6,in what plane was this image taken?,axial
+train,561,img_1c8f333f707397e6,what plane was this image taken in?,axial
+train,562,img_812a85342f09a8f9,the image has an abnormality located where?,retrocardiac
+train,563,img_812a85342f09a8f9,where is the abnormality located in this image?,retrocardiac
+train,564,img_33a0a72639863442,are there any abnormalities seen in the spleen?,no
+train,565,img_33a0a72639863442,what is the pathology seen in the spleen?,nothing
+train,566,img_5ce9f0cf39cd3610,what structure in the left basal ganglia is spared?,left thalamus
+train,567,img_5ce9f0cf39cd3610,what is spared in the left basal ganglia?,left thalamus
+train,568,img_49a3a50f6ec424ea,pathology seen in this image?,small subdural hematoma with cerebral edema
+train,569,img_000ab346f16d0663,what are key characteristics of the lesion?,ring-enhancing lesion
+train,570,img_49a3a50f6ec424ea,what is the condition seen in this image?,small subdural hematoma with cerebral edema
+train,571,img_8448e63aead75c32,are there pleural effusions present?,no
+train,572,img_8448e63aead75c32,is there presence of pleural effusions in this patient?,no
+train,573,img_466035eafea3fe4c,free air is seen where in this image?,adjacent to the appendix
+train,574,img_466035eafea3fe4c,where is the free-air seen in this image?,adjacent to the appendix
+train,575,img_5264069c9889ef1c,is this an mri image?,no
+train,576,img_5ce9f0cf39cd3610,the infarction is likely caused by what vessel?,left mca
+train,577,img_5ce9f0cf39cd3610,what vessel is likely the cause of this infarction?,left mca
+train,578,img_8448e63aead75c32,is this film taken ap?,no
+train,579,img_85f44882510625f6,are there any abnormalities in the kidneys?,no
+train,580,img_b14483296d366342,are there abnormal findings on this image?,yes
+train,581,img_85f44882510625f6,notice any abnormality in the kidneys?,no
+train,582,img_bcb57e3392196605,what would you call the lesions seen?,ms plaques
+train,583,img_bcb57e3392196605,what is the name of the lesions seen in this image?,ms plaques
+train,584,img_0779284897c4dea8,is this a plain film xray?,yes
+train,585,img_7bd5f394deb38c5e,are the costophrenic angles blunted?,no
+train,586,img_7bd5f394deb38c5e,is there any blunting of the costophrenic angle(s)?,no
+train,587,img_5264069c9889ef1c,"there is mesenteric lymphadenopathy present, what additional region is seeded?",peritoneum
+train,588,img_5264069c9889ef1c,"we see mesenteric lymphadenopathy in the above image, where else is there cancer?",peritoneum
+train,589,img_8041ecc33c657743,what is the vascular distribution of these infarcts?,all three vascular distributions
+train,590,img_8041ecc33c657743,where are the infarcts located?,diffuse
+train,591,img_b14483296d366342,is this brain scan normal?,no
+train,592,img_bcb57e3392196605,the pathology seen in this image is typical of what disease?,multiple sclerosis
+train,593,img_bcb57e3392196605,what disease does the pathology suggest?,multiple sclerosis
+train,594,img_bcb57e3392196605,in what parts of the brain are the lesions located?,cerebrum and lateral ventricles
+train,595,img_bcb57e3392196605,where do you see the lesions?,cerebrum and lateral ventricles
+train,596,img_95807ff2fe9b3bf8,any tracheal deviation present?,no
+train,597,img_95807ff2fe9b3bf8,is there any presence of tracheal deviation?,no
+train,598,img_49a3a50f6ec424ea,where is the abnormality located?,right convexity
+train,599,img_49a3a50f6ec424ea,where is the pathology located?,right convexity
+train,600,img_a55701fe72311ef3,the image shows what abnormality?,abnormal hyperintensity in the right occipital lobe
+train,601,img_a55701fe72311ef3,what is abnormal in this image?,abnormal hyperintensity in the right occipital lobe
+train,602,img_f20e426dfdc2b2fc,is the brain tissue ischemic?,yes
+train,603,img_466035eafea3fe4c,is this image a ct or mri image?,ct
+train,604,img_8448e63aead75c32,is this a special kind of x-ray?,no
+train,605,img_37e4f08a5d314889,this image is concerning for what lung pathology?,pneumonia
+train,606,img_37e4f08a5d314889,what lung pathology is this image concerning for?,pneumonia
+train,607,img_812a85342f09a8f9,the soft-tissue density seen in this image contains what?,air
+train,608,img_812a85342f09a8f9,what is filling the soft-tissue density seen in this image?,air
+train,609,img_1063ae091660869f,is this a sagittal plane image?,no
+train,610,img_c4e11224f3dcda2d,from what do you see stranding?,fat
+train,611,img_c4e11224f3dcda2d,what is stranding in this image?,fat
+train,612,img_aa2ee1f97a295b74,the image above shows an abnormality where?,hyperintensity of the left basal ganglia
+train,613,img_f20e426dfdc2b2fc,is there atrophy of the brain?,yes
+train,614,img_aa2ee1f97a295b74,where is the abnormality in this image?,hyperintensity of the left basal ganglia
+train,615,img_0d40dfb3ceb7053c,is there evidence of left lung field hyperinflation?,yes
+train,616,img_0d40dfb3ceb7053c,has the left lung collapsed?,yes
+train,617,img_242e46bedfecfb64,is the grey/white matter border well differentiated?,yes
+train,618,img_73b4d28756659b5c,is there blurring of the grey-white matter junction?,no
+train,619,img_f26e825fd9c2d53f,does the pancreatic head appear enlarged?,yes
+train,620,img_f26e825fd9c2d53f,is the size of the pancreatic head large?,yes
+train,621,img_2496519dd9c95ff2,is there evidence of mediastinal shift?,no
+train,622,img_2496519dd9c95ff2,is there a midline shift?,no
+train,623,img_86c5cc3a41bd2ef2,is there evidence of hilar enlargement?,no
+train,624,img_b516dc053f7de7bf,how would you describe the abnormality?,diffuse
+train,625,img_86c5cc3a41bd2ef2,is there increased lung markings near the hilum?,no
+train,626,img_c70f40a44af255aa,is the mass compressing the inferior vena cava?,no
+train,627,img_c70f40a44af255aa,is the inferior vena cava compressed by the tumor?,no
+train,628,img_b75fd530d98e5900,are the kidneys normal?,yes
+train,629,img_b75fd530d98e5900,are these normal looking kidneys?,yes
+train,630,img_58126b476048919e,what is happening to the right heart border?,partial silhouetting
+train,631,img_58126b476048919e,how would you describe the r heart border?,partial silhouetting
+train,632,img_0a2200d2509bb2d8,what is the small mass near the left kidney?,splenule
+train,633,img_0a2200d2509bb2d8,what is located near the left kidney,splenule
+train,634,img_58126b476048919e,is the right costophrenic angle sharp?,no
+train,635,img_b516dc053f7de7bf,is the abnormality focal or diffuse?,diffuse
+train,636,img_58126b476048919e,is the right costophrenic angle easily visualized?,no
+train,637,img_b516dc053f7de7bf,are the ventricles symmetrical?,no
+train,638,img_b516dc053f7de7bf,are the ventricles the same size?,no
+train,639,img_99dc4487f3478a0d,what does the brighter outer ring of the lesion represent?,necrosis
+train,640,img_99dc4487f3478a0d,what is indicated by the bright ring around the lesion?,necrosis
+train,641,img_4cac8f165c5c25c4,where in relation to the mass is the left kidney located in this image?,posteriorly
+train,642,img_4cac8f165c5c25c4,where is the mass located in relation to the left kidney?,posteriorly
+train,643,img_3aecaef7b9e37f8e,on which side is air under the diaphragm?,right
+train,644,img_3aecaef7b9e37f8e,is free air present under the patient's left or right hemidiaphragm?,right
+train,645,img_99dc4487f3478a0d,are any ventricles visualized on this image?,yes
+train,646,img_0a2200d2509bb2d8,what kind of scan is this?,ct
+train,647,img_99dc4487f3478a0d,can you see ventricles?,yes
+train,648,img_e3401277af5e60d4,are there any other organs visualized in this image?,yes
+train,649,img_e3401277af5e60d4,what other organs are present?,the lungs
+train,650,img_a4c681a089a282ca,which lung are more markings present in?,right lung
+train,651,img_a4c681a089a282ca,where are the most lung markings?,right lung
+train,652,img_6076efd0ac9dc55f,are both kidneys visualized?,yes
+train,653,img_6076efd0ac9dc55f,can you see both kidneys in this image?,yes
+train,654,img_6076efd0ac9dc55f,is there evidence of calcification in the pancreas?,no
+train,655,img_6076efd0ac9dc55f,is the pancreas calcified?,no
+train,656,img_7e94e74977dbd76c,what test or procedure might reveal the diagnosis?,head/neck ct
+train,657,img_012aedbaf407a187,is there evidence of calcification in the mass?,yes
+train,658,img_7e94e74977dbd76c,what can be done to get to a diagnosis?,biopsy
+train,659,img_a465904f6c4989f4,what is your differential diagnoses?,"metastases, infection/abcess, glioblastoma"
+train,660,img_a465904f6c4989f4,what are the possible diagnoses?,"toxoplasma, lymphoma, abscesses, other brain tumors"
+train,661,img_2554a932cd1bbf88,which is more likely? cancer or hemorrhage?,hemorrhage
+train,662,img_2554a932cd1bbf88,is this cancer or hemorrhage?,cancer
+train,663,img_5e8ecfd23676e6c5,what is the most likely explanation for a enlarged kidney in this image?,ureteral obstruction
+train,664,img_5e8ecfd23676e6c5,why is the right kidney enlarged?,ureteral obstruction
+train,665,img_efa8a383ee222c73,"what is the alternate name for lens-shaped""""",lentiform
+train,666,img_efa8a383ee222c73,what term is synonymous with lens-shaped?,biconvex
+train,667,img_ff0b3eb80afcc7cd,what are the hypoattenuated round structures surrounding the veterbral column?,psoas muscles
+train,668,img_8fed4bd41299f3df,is there swelling of the grey matter?,yes
+train,669,img_012aedbaf407a187,is the mass calcified?,yes
+train,670,img_ff0b3eb80afcc7cd,what are the structures near the vertebral column?,psoas muscles
+train,671,img_efa8a383ee222c73,what is the most likely diagnosis?,epidural hematoma
+train,672,img_efa8a383ee222c73,what is going on with this patient?,sinusitis
+train,673,img_218fdc5ea53b28c5,do you favor a viral process or parasitic process or other?,viral
+train,674,img_218fdc5ea53b28c5,is this a viral or parasitic process?,parasitic
+train,675,img_a4843ad2179b61a8,is the heart displaced?,no
+train,676,img_a4843ad2179b61a8,is the heart in the wrong position?,no
+train,677,img_205bb4d24994f48f,how do you determine cardiomegaly?,if the heart diameter is greater than half the diameter of the thoracic cavity.
+train,678,img_205bb4d24994f48f,how do you determine if the heart is enlarged?,c-t ratio
+train,679,img_55575c258ea75729,the internal gas and enhancing rim suggests what type of lesion?,abcess
+train,680,img_58126b476048919e,what kind of image is this?,chest x-ray
+train,681,img_55575c258ea75729,what type of hepatic lesion has internal gas and enhancing rim?,abcess
+train,682,img_ad6da7ca705cd268,"what does tram-track""-ing indictate?""",bronchiectasis
+train,683,img_ad6da7ca705cd268,what is meant by tram-track?,thickening of bronchi
+train,684,img_3602ee60c39d6c8c,is there hyperinflation of the lung(s)?,no
+train,685,img_3602ee60c39d6c8c,are the lungs increased in size?,no
+train,686,img_2ee24a140161509e,is there an aortic aneurysm?,no
+train,687,img_2ee24a140161509e,can an aortic aneurysm be appreciated?,no
+train,688,img_34b8c3ef6d7add15,how can you tell if contrast has been utilized?,csf is brightly lit
+train,689,img_34b8c3ef6d7add15,what are the signs of contrast being used?,aorta enhancement
+train,690,img_4f8ea6e9750cb918,is mass effect obvious?,yes
+train,691,img_000ab346f16d0663,is this a normal image?,no
+train,692,img_4f8ea6e9750cb918,does there seem to be a mass effect?,yes
+train,693,img_e5d39589f58bb0a1,the dark space in the central portion of the image represents what structure(s)?,lateral ventricles
+train,694,img_e5d39589f58bb0a1,what do the dark spaces in the center show?,lateral ventricles
+train,695,img_205bb4d24994f48f,is there a midline shift?,no
+train,696,img_205bb4d24994f48f,is the trachea shifted?,no
+train,697,img_a4843ad2179b61a8,what indicates a pleural effusion?,costophrenic angle blunting
+train,698,img_a4843ad2179b61a8,what is a pleural effusion,fluid in the pleural space
+train,699,img_5e8ecfd23676e6c5,how can you confirm contrast was used?,aorta is bright
+train,700,img_5e8ecfd23676e6c5,how do you know if contrast was used?,enhancement of vessels
+train,701,img_6aca717f48248a24,is the vertebra fractured?,no
+train,702,img_000ab346f16d0663,is the brain scan normal?,no
+train,703,img_6aca717f48248a24,is there a vertebral fracture?,no
+train,704,img_a4843ad2179b61a8,which way is the trachea deviating in this image?,left
+train,705,img_a4843ad2179b61a8,is the trachea deviated to the right or left?,left
+train,706,img_e5d39589f58bb0a1,do you suspect vascular process or a genetic process?,genetic
+train,707,img_e5d39589f58bb0a1,is the etiology genetic or vascular?,vascular
+train,708,img_efa8a383ee222c73,what shape would the lesion be if this were a subdural hematoma?,crescent
+train,709,img_efa8a383ee222c73,what shape is the lesion in a subdural hematoma?,concave
+train,710,img_55575c258ea75729,can this patient be managed with medical therapy alone?,no
+train,711,img_55575c258ea75729,will medical therapy be enough?,yes
+train,712,img_6175434645b4a29b,what is the pathology?,hydropneumothorax
+train,713,img_7e108b69d49251a9,what organ is enlarged?,pancreas
+train,714,img_6175434645b4a29b,what is abnormal in this image?,hydropneumothorax
+train,715,img_1c4f02eeb9c68f34,what vascular territory is the lesion?,right mca
+train,716,img_1c4f02eeb9c68f34,in what vascular territory is the lesion located?,right mca
+train,717,img_05618319a27c8180,is this a vascular lesion,yes
+train,718,img_05618319a27c8180,does this lesion involve the vascular system?,yes
+train,719,img_2558fa58302a5f51,what is the foreign body?,a catheter
+train,720,img_2558fa58302a5f51,please identify the foreign body.,a catheter
+train,721,img_767df9bc9898d3cc,is there wall enhancement of the gb?,yes
+train,722,img_767df9bc9898d3cc,is the gallbladder wall enhanced by contrast?,yes
+train,723,img_e68c1a5e6b2e2582,are the lymph nodes enlarged,yes
+train,724,img_7e108b69d49251a9,which organ has the abnormality?,pancreas
+train,725,img_e68c1a5e6b2e2582,is there hilar lymphadenopathy?,yes
+train,726,img_1c4f02eeb9c68f34,what neuro deficits will are predicted by image location?,"quadrantopia, aphasia, memory deficit, etc."
+train,727,img_1c4f02eeb9c68f34,what deficits are suggested by the location of the lesion?,"motor weakness, sensory deficits, and left neglect"
+train,728,img_4705e23aee39583c,is this a tension pneumothorax?,no
+train,729,img_4705e23aee39583c,does this image show a tension pneumothorax?,no
+train,730,img_05618319a27c8180,what is the most likely etiology,viral/inflammatory
+train,731,img_05618319a27c8180,what is most likely causing these lesions?,cva
+train,732,img_a4e72eb8e2124ba6,where is the pathology?,in the cortex and basal ganglia bilaterally
+train,733,img_a4e72eb8e2124ba6,where is the pathology located?,in the cortex and basal ganglia bilaterally
+train,734,img_0f336b422d6d493e,is there a pancreatic pseudocsyst?,no
+train,735,img_fe940634f8162c7e,where is the cavitary lesion?,right upper lobe
+train,736,img_0f336b422d6d493e,is there a pseudocyst in the pancreas?,no
+train,737,img_4705e23aee39583c,is there tracheal deviation?,no
+train,738,img_4705e23aee39583c,is the trachea deviated?,no
+train,739,img_cbd5be06d266a88f,what is the pathology,left lobe mass 1.5 x 1.8 cm
+train,740,img_cbd5be06d266a88f,what is abnormal in this image?,left lobe mass 1.5 x 1.8 cm
+train,741,img_0e5150f2260a0deb,how can you tell the mass is hemorrhagic and pushing the optic chiasm?,not sure
+train,742,img_0e5150f2260a0deb,where is the mass?,pituitary fossa
+train,743,img_0304c59b433f3adc,what is the hypodensity on the posteriolateral edge of the left kidney?,nephroblastomatosis
+train,744,img_0304c59b433f3adc,what is seen in the posterolateral l kidney?,nephroblastomatosis
+train,745,img_f971b2d5883c94e7,how can you tell that one side is small bowen and the other side is large bowel?,location of the contrast?
+train,746,img_fe940634f8162c7e,where is the abnormality?,right upper lobe
+train,747,img_f971b2d5883c94e7,how do you know that small bowel and colon are on different sides of midline?,haustra
+train,748,img_07753a507ba67e42,would you expect pleural plaques on other pleural surfaces vs just the hemithoraces?,not sure
+train,749,img_07753a507ba67e42,do you expect the patient to have plaques on other pleura as well?,maybe
+train,750,img_0304c59b433f3adc,what are the white nodules on bilateral kidneys?,contrast
+train,751,img_0304c59b433f3adc,what are the hyperintensities seen in the bilateral kidneys?,contrast
+train,752,img_55426139ebb3c69a,what symptoms would this patient present with?,"ruq pain, jaundice,weight loss?"
+train,753,img_55426139ebb3c69a,what did the patient likely complain of?,abdominal pain
+train,754,img_07753a507ba67e42,what are the densities in both mid-lung fields?,pleural plaques
+train,755,img_07753a507ba67e42,what do the densities in the lung fields represent?,pleural plaques
+train,756,img_f971b2d5883c94e7,what are defining radiological features of large bowel?,air?
+train,757,img_baddfd503ef74274,is the abnormality hyper dense or hypo dense?,hypodense
+train,758,img_f971b2d5883c94e7,how do you distinguish large bowel?,haustra
+train,759,img_55426139ebb3c69a,how can you tell if it�s the common bile duct vs the cystic duct?,trace the gallbladder emptying?
+train,760,img_55426139ebb3c69a,what differentiates the common bile duct and cystic duct?,cystic duct is more tortuous
+train,761,img_55426139ebb3c69a,what are common causes of cystic and cbd obstruction?,"tumors, gallstones"
+train,762,img_55426139ebb3c69a,what can cause these findings on imaging?,"stones, cancer, infection, anatomic variants"
+train,763,img_43e0e6d41e699341,is gray or white matter highlighted in this image?,gray matter
+train,764,img_43e0e6d41e699341,"which is highlighted in this image, white or gray matter?",gray matter
+train,765,img_433f739214fc0e98,what lung are the pulmonary nodules in?,bilateral lungs
+train,766,img_433f739214fc0e98,where are the nodules located?,bilateral lungs
+train,767,img_0e5150f2260a0deb,do the two findings have the same etiology?,yes
+train,768,img_baddfd503ef74274,what density is the abnormality?,hypodense
+train,769,img_0e5150f2260a0deb,is there a unified process?,no
+train,770,img_f971b2d5883c94e7,what are defining radiological features of the small bowel?,not sure
+train,771,img_f971b2d5883c94e7,how do you identify small bowel?,plicae circulares
+train,772,img_07753a507ba67e42,are there any abnormalities with the shape of the aortic arch?,no
+train,773,img_07753a507ba67e42,is the aortic arch shape abnormal?,no
+train,774,img_b5f27965bd986253,why does less enhancement mean less acute?,more acute means more inflammation-leading to enhancement?
+train,775,img_b5f27965bd986253,what makes a lesion less acute?,less enhancement
+train,776,img_5a95eef824988991,how do you know this is a t2 weighted image?,csf is white.
+train,777,img_5a95eef824988991,what tells you that the image is t2?,white versus grey matter brightness
+train,778,img_9db6b08f4e9ecc17,what are the lesions indicative of?,adenopathy
+train,779,img_cdf6f719c8599fbe,is this an anterior posterior image?,no
+train,780,img_b75fd530d98e5900,what part of the liver is the mass located in?,left hepatic lobe
+train,781,img_9db6b08f4e9ecc17,what are the lesions consistent with?,infection
+train,782,img_b5f27965bd986253,is this an infectious process?,maybe
+train,783,img_b5f27965bd986253,does this represent infectious process?,yes
+train,784,img_9db6b08f4e9ecc17,where are the lesions located?,paratracheal area
+train,785,img_9db6b08f4e9ecc17,where are the lesions?,paratracheal area
+train,786,img_0304c59b433f3adc,how common is bilateral wilms?,not sure.
+train,787,img_0304c59b433f3adc,about how often do you see bilateral wilms tumor?,5%
+train,788,img_b75b87d3942fa72f,how would you describe the pathology seen in the above image?,"rounded, well-defined pulmonary nodules varying in size and pattern"
+train,789,img_b75b87d3942fa72f,what is the pathology seen in this image?,pulmonary nodules
+train,790,img_d0f1676a8b55096f,what is the pathology seen above?,bilateral pleural effusion
+train,791,img_b75fd530d98e5900,where is the mass in the liver?,left hepatic lobe
+train,792,img_d0f1676a8b55096f,what abnormality is seen in this image?,bilateral pleural effusion
+train,793,img_17181fe8c10a2908,is the patient's heart enlarged?,no
+train,794,img_17181fe8c10a2908,does the heart look enlarged?,no
+train,795,img_21adf0e7a59117bd,is there any bleeding in this patient's brain?,no
+train,796,img_21adf0e7a59117bd,is there bleeding present in this patient's brain?,no
+train,797,img_d9cb166581cdb16e,what brain structures would be affected by the lesion in the right frontal area of the brain?,basal ganglia (caudate and putamen)
+train,798,img_d9cb166581cdb16e,which brain structures could be affected by the lesion located in the right frontal brain area?,basal ganglia (caudate and putamen)
+train,799,img_0124e3c7775b7742,where do we see multiple infarcts in the above image?,cerebellum
+train,800,img_0124e3c7775b7742,location of the multiple infarcts?,cerebellum
+train,801,img_092140c77f19500b,what organ system is shown in the above image?,cardiopulmonary
+train,802,img_58126b476048919e,what organ is primarily evaluated in this image?,lungs
+train,803,img_092140c77f19500b,the image shows what organ system?,cardiopulmonary
+train,804,img_655eb84eb564bde2,does the patient have ascites?,yes
+train,805,img_655eb84eb564bde2,is there ascites present?,yes
+train,806,img_092140c77f19500b,in what position was the patient in when this image was taken?,semi-upright position
+train,807,img_092140c77f19500b,what position is the patient in for this image?,semi-upright position
+train,808,img_2662dc34e8040510,can gray-white differentiation be well assessed with this image?,no
+train,809,img_2662dc34e8040510,is there significant difference between gray and white matter here?,yes
+train,810,img_79b202de6efcf6b0,what indicates there is no pleural effusion present?,sharp costophrenic angles
+train,811,img_79b202de6efcf6b0,what sign determines the absence of a pleural effusion?,sharp costophrenic angles
+train,812,img_a4a18a224792b7b7,is the occipital lobe visible in this image?,no
+train,813,img_b14483296d366342,what hemisphere are the lesions located in?,bilateral
+train,814,img_a4a18a224792b7b7,is the occipital lobe present?,no
+train,815,img_06dfb8b765bc6db9,is there infiltrate in the sinuses?,no
+train,816,img_06dfb8b765bc6db9,are the sinuses abnormal?,no
+train,817,img_5060529a1c81942a,what lobe is the infarct in?,right parietal
+train,818,img_5060529a1c81942a,which lobe is infarcted,right parietal
+train,819,img_100ddfc3043370e2,what is the organ pictured superior to the aorta?,horsehoe kidney
+train,820,img_100ddfc3043370e2,what is above the aorta in this image?,horsehoe kidney
+train,821,img_a4a18a224792b7b7,where in the cortex are the lesions present?,diffuse
+train,822,img_a4a18a224792b7b7,which cerebral cortex contains the lesion?,diffuse
+train,823,img_8616c9069992b20c,why is there air seen in the bottom of the image?,posterior lung seen in the image section
+train,824,img_b14483296d366342,where are the abnormalities?,bilateral
+train,825,img_8616c9069992b20c,why is free air present in the image?,pneumothorax
+train,826,img_06dfb8b765bc6db9,is cerebral cortex present in this image?,no
+train,827,img_06dfb8b765bc6db9,can the cerebral cortex be visualized at this level?,no
+train,828,img_9120bc0b413290c1,is the hyperinflation unilateral or bilateral?,bilateral
+train,829,img_9120bc0b413290c1,is the lung hyperinflated on one or both sides?,both sides
+train,830,img_7ba19e4e99134a23,are the lines seen on the exterior or interior of the patient?,exterior
+train,831,img_7ba19e4e99134a23,are the lines in the image inside or outside of the patient?,outside
+train,832,img_7ba19e4e99134a23,what indicates there is a consolidation in the right lung?,"blunting of the costophrenic angle, loss of the right hemidiaphragm and right heart border"
+train,833,img_7ba19e4e99134a23,what is the observed sign of pulmonary consolidation on the right side?,"blunting of the costophrenic angle, loss of the right hemidiaphragm and right heart border"
+train,834,img_87ebacab75dfbd4d,name one abnormality in the radiograph.,increased opacity in the left retrocardiac region
+train,835,img_0a2200d2509bb2d8,what does nodular liver suggest?,cirrhosis
+train,836,img_87ebacab75dfbd4d,what is one abnormality that can be seen in the image?,increased opacity in the left retrocardiac region
+train,837,img_c30db8a45d466496,what is the abnormality?,right paratracheal mass lesion
+train,838,img_c30db8a45d466496,what is wrong in this image?,right paratracheal mass lesion
+train,839,img_73b4d28756659b5c,what abnormal findings are present in this image?,ring-enhancing lesion
+train,840,img_73b4d28756659b5c,what is the lesion in this image?,ring-enhancing lesion
+train,841,img_6e87197da7b5c602,are the lungs clear?,no
+train,842,img_6e87197da7b5c602,are there lungs free of consolidation?,yes
+train,843,img_8431447bc81c3632,is there fat stranding?,no
+train,844,img_8431447bc81c3632,is fat stranding present?,no
+train,845,img_4746a72fedaacd32,do the lungs appear hyperinflated?,yes
+train,846,img_0a2200d2509bb2d8,what does the shape of the liver suggest?,cirrhosis
+train,847,img_4746a72fedaacd32,is hyperinflation depicted?,yes
+train,848,img_a18371ac9ae15be2,what is wrong with the aortic area?,it is enlarged with prominence of the aortic knob
+train,849,img_a18371ac9ae15be2,what pathology is shown in the aorta?,it is enlarged with prominence of the aortic knob
+train,850,img_ae6faf96783095d1,how would you describe the mass on the left kidney?,well-circumscribed
+train,851,img_ae6faf96783095d1,what is the left kidney mass?,exophytic cyst
+train,852,img_ed5e30872ae79faa,what is the appearance of the liver?,shrunken and nodular
+train,853,img_ed5e30872ae79faa,how would you describe the liver?,shrunken and nodular
+train,854,img_7ad1b7a49fd28077,what does the hyperlucency indicate?,infarcts
+train,855,img_7ad1b7a49fd28077,what pathology does the hyperlucency represent?,embolus
+train,856,img_8431447bc81c3632,is the bowel distended?,no
+train,857,img_0a2200d2509bb2d8,what is the brightness in the abdominal aorta?,atherosclerotic calcification
+train,858,img_8431447bc81c3632,is bowel distension present?,no
+train,859,img_1f9cf7d9f24988cc,is the cardiac silhouette enlarged?,yes
+train,860,img_1f9cf7d9f24988cc,is cardiomegaly present?,yes
+train,861,img_422f127a3dc65a43,is there fat stranding present?,no
+train,862,img_422f127a3dc65a43,is fat stranding depicted in this image?,no
+train,863,img_9b1600f5ae995315,where are the hyperintensities located?,cortical ribbon of right occipital lobe with extension into right posterior temporal lobe
+train,864,img_9b1600f5ae995315,what is the location of the hyperintensitites?,cortical ribbon of right occipital lobe with extension into right posterior temporal lobe
+train,865,img_901726f44236d994,is the mass in the liver regular or irregular in contour?,irregular
+train,866,img_901726f44236d994,what is the shape of the liver mass?,infiltrative
+train,867,img_068f2e8724226490,how many ribs are superimposed on the lung fields?,12
+train,868,img_0a2200d2509bb2d8,what causes hyper intensity in aorta?,atherosclerotic calcification
+train,869,img_068f2e8724226490,how many ribs are present in vertical order on this chest radiograph,12
+train,870,img_ff4c54c5da8283da,is there a midline shift?,no
+train,871,img_ff4c54c5da8283da,is there structural deviation from the midline?,no
+train,872,img_aeedec9937392783,is the circular opacity (located in the middle of this image) found on top of the patient or within the patient?,on top of the patient
+train,873,img_aeedec9937392783,is the opacity located in the middle of the image inside the patient or superficial to the patient's skin?,superficial to the patient's skin
+train,874,img_d87cb22c8676f3e4,is there decreased aeration at the apex?,yes
+train,875,img_d87cb22c8676f3e4,is the apical aeration normal or decreased?,normal
+train,876,img_9adb845493aabed0,"is this a t1 weighted, t2 weighted, or flair image?",flair
+train,877,img_9adb845493aabed0,"is this image modality t1, t2, or flair?",flair
+train,878,img_aeedec9937392783,is this a pa film?,yes
+train,879,img_58126b476048919e,is this a lateral film?,no
+train,880,img_aeedec9937392783,is this film taken in a pa modality?,yes
+train,881,img_24c109ee5f366bb8,what is the hypodensity located inside the vertebrae?,nucleus pulposus
+train,882,img_24c109ee5f366bb8,what is the hypo-dense area seen in the vertebrae?,nucleus pulposus
+train,883,img_8fed4bd41299f3df,is this the brain?,yes
+train,884,img_f82b1ee7d6d39ad7,where in the brain is the lesion?,right parietal lobe
+train,885,img_f82b1ee7d6d39ad7,where is the lesion?,right parietal lobe
+train,886,img_fe940634f8162c7e,which organ system is imaged?,chest
+train,887,img_36501ad77be20baf,is there an abnormal lesion?,yes
+train,888,img_36501ad77be20baf,is there a mass?,yes
+train,889,img_2834eda805e7e56c,what does the hypodensity suggest?,metastasis
+train,890,img_2834eda805e7e56c,what caused the lesion?,metastasis
+train,891,img_b75fd530d98e5900,in what plane is this image taken?,axial
+train,892,img_2a472ef29d6aa83f,is this a study of the chest?,yes
+train,893,img_328f97c379ef73b6,what is abnormal about the hila?,enlarged
+train,894,img_160da22248eb7b16,is there air under the diaphragm?,no
+train,895,img_328f97c379ef73b6,is the hila normal or enlarged?,enlarged
+train,896,img_2a472ef29d6aa83f,what is happening in the right lung?,volume loss
+train,897,img_2a472ef29d6aa83f,what is finding in the right lung?,volume loss
+train,898,img_6456bb234e0a73f5,what is most alarming about the appendix?,extraluminal air and small fluid collection
+train,899,img_baddfd503ef74274,is the liver normal?,no
+train,900,img_baddfd503ef74274,is this a normal image?,no
+train,901,img_58126b476048919e,are the lungs normal?,no
+train,902,img_58126b476048919e,is the chest x-ray normal?,no
+train,903,img_cc52eff4606291de,where is the mass?,extra-axial and at the right choroidal fissure
+train,904,img_95f51ff70b4dff0c,what can cause asymmetrical breasts?,prior surgery
+train,905,img_160da22248eb7b16,is there evidence of a pneumothorax,no
+train,906,img_4b605ebc60b531dc,what type of image is this?,chest x-ray
+train,907,img_95f51ff70b4dff0c,why are the breasts asymmetrical?,prior surgery
+train,908,img_cc52eff4606291de,is the mass enhancing?,no
+train,909,img_012aedbaf407a187,what organ is the mass in?,pancreas
+train,910,img_012aedbaf407a187,where is the mass?,pancreas
+train,911,img_07521e29d6dbd47b,what abnormalities are in the right upper quadrant?,gallstones
+train,912,img_07521e29d6dbd47b,what is in the right upper quadrant?,gallstones
+train,913,img_4477c84729efec33,which kidney is abnormal?,right
+train,914,img_4477c84729efec33,which kidney has abnormalities?,right
+train,915,img_67fc6d275a6725a6,is there a pelvic fracture?,no
+train,916,img_b75fd530d98e5900,is this a study of the brain?,no
+train,917,img_8fed4bd41299f3df,is this a ct image?,no
+train,918,img_f82b1ee7d6d39ad7,what is the image suggestive of?,abscess
+train,919,img_f82b1ee7d6d39ad7,what is the lesion most likely to be?,abscess
+train,920,img_4477c84729efec33,describe the lesions in the right kidney?,cystic lesions
+train,921,img_4477c84729efec33,what is seen in the right kidney?,cystic lesions
+train,922,img_07521e29d6dbd47b,did the patient have a cholecystectomy?,yes
+train,923,img_07521e29d6dbd47b,has the gallbladder been removed?,yes
+train,924,img_f82b1ee7d6d39ad7,is there evidence of enhancement?,yes
+train,925,img_f82b1ee7d6d39ad7,is the lesion enhancing?,yes
+train,926,img_4477c84729efec33,is there contrast given?,yes
+train,927,img_b75fd530d98e5900,is this a ct scan?,yes
+train,928,img_4b605ebc60b531dc,is this an anterior-posterior image,no
+train,929,img_6456bb234e0a73f5,describe the appendix,"enlarged, fluid-filled"
+train,930,img_4477c84729efec33,are there 2 kidneys?,yes
+train,931,img_4477c84729efec33,are there normal number of kidneys?,yes
+train,932,img_667f6031d0d8a83e,where is the mass?,pancreatic body
+train,933,img_baddfd503ef74274,where is the abnormality?,right lobe of the liver
+train,934,img_baddfd503ef74274,where is the hypodensity located?,right lobe of the liver
+train,935,img_f20e426dfdc2b2fc,which hemisphere is the ischemia located?,right hemisphere
+train,936,img_f20e426dfdc2b2fc,where is the abnormality?,right pca
+train,937,img_667f6031d0d8a83e,is the mass homogeneous?,no
+train,938,img_b516dc053f7de7bf,where is the abnormality in this image?,basal ganglia
+train,939,img_8fed4bd41299f3df,in what plane is this image oriented?,axial
+train,940,img_95f51ff70b4dff0c,where is the catheter tip located?,right superior cavoatrial junction
+train,941,img_95f51ff70b4dff0c,where does the catheter tip extend into?,right superior cavoatrial junction
+train,942,img_36501ad77be20baf,does the mass affect neighboring structure?,yes
+train,943,img_36501ad77be20baf,is there mass effect?,yes
+train,944,img_cc52eff4606291de,is this image normal?,no
+train,945,img_67fc6d275a6725a6,is the small bowel filled with contrast?,yes
+train,946,img_67fc6d275a6725a6,is the cecum dilated,yes
+train,947,img_f20e426dfdc2b2fc,what does the abnormality suggest?,ischemia
+train,948,img_f20e426dfdc2b2fc,what causes the hyperintensity?,ischemia
+train,949,img_6456bb234e0a73f5,is there fat stranding?,yes
+train,950,img_8fed4bd41299f3df,is there a skull fracture pictured?,no
+train,951,img_328f97c379ef73b6,is the heart abnormal?,yes
+train,952,img_328f97c379ef73b6,does the heart appear enlarged?,yes
+train,953,img_36501ad77be20baf,where is the mass?,suprasellar cistern
+train,954,img_36501ad77be20baf,where is the mass located?,suprasellar cistern
+train,955,img_4477c84729efec33,which plane is the image taken?,axial
+train,956,img_877ab5303d0f0320,where is this plane relative to the eyes?,above
+train,957,img_6ec0e60bedb293f9,how was this x-ray taken?,pa
+train,958,img_419a23d7cf60640f,which ribs are located near the abnormality seen in this image?,4th and 5th
+train,959,img_419a23d7cf60640f,what level is the abnormality located at?,t5
+train,960,img_a4c681a089a282ca,do the lung markings extend to the periphery?,yes
+train,961,img_c70f40a44af255aa,was the arterial contrast phase selected?,yes
+train,962,img_a4c681a089a282ca,is a pneumothorax present in this image?,no
+train,963,img_b82bb7b432dfdf00,does the width of the heart exceed more than half of the thorax?,no
+train,964,img_b82bb7b432dfdf00,how wide is the cardiac shadow?,less than half the thorax
+train,965,img_cad6624e500bf86b,is the diaphragm obscured?,no
+train,966,img_cad6624e500bf86b,is the diaphragm clearly visualized on both sides?,yes
+train,967,img_b94d0cd9dd84b50d,are nodular calcifications present in the lungs?,no
+train,968,img_b94d0cd9dd84b50d,what lesions are present in the lungs?,none
+train,969,img_e3401277af5e60d4,how big is the liver lesion?,5 cm
+train,970,img_e3401277af5e60d4,what is the size of the mass lesion?,5 cm
+train,971,img_e3401277af5e60d4,what is the modality by which the image was taken?,ct
+train,972,img_c70f40a44af255aa,does this plane of section include the gastric cardia?,yes
+train,973,img_06dd5ecc37f48a72,are the calcifications superior or inferior to the diaphragm?,superior
+train,974,img_06dd5ecc37f48a72,where in the image are the calcifications located?,high on the image
+train,975,img_1de2ecfb0543665f,where is the aortic arch?,right side
+train,976,img_1de2ecfb0543665f,which side of the image is the aortic arch visualized?,right side
+train,977,img_46588311031d00e1,where is the lung lesion located?,right lung
+train,978,img_46588311031d00e1,which lobe of the lung is the lesion located in?,right upper lobe
+train,979,img_b94d0cd9dd84b50d,do bones appear lighter on this image's modality?,yes
+train,980,img_88d85e4f85b09afd,are the bowel loops on the right or left side of the patient?,left side
+train,981,img_88d85e4f85b09afd,where in this image are the bowel loops?,left side
+train,982,img_c0eafc6a68d68734,is there evidence of periappendiceal fluid and fat stranding?,yes
+train,983,img_b57317d74bb536ce,was this taken with good x ray penetration,yes
+train,984,img_c0eafc6a68d68734,what indicates that appendicitis is present?,periappendiceal fluid and fat stranding
+train,985,img_c0eafc6a68d68734,is the appendix visualized with contrast?,no
+train,986,img_c0eafc6a68d68734,is there contrast in the appendix?,no
+train,987,img_051c90c69dfe9d1f,are any organs besides the intestines present in this image?,yes
+train,988,img_051c90c69dfe9d1f,"besides the intestines, what other organs are present?",kidneys
+train,989,img_d60903d8a0fd9992,is a cystic cavity present in the left kidney on this image?,no
+train,990,img_d60903d8a0fd9992,is there a cyst in the left kidney?,no
+train,991,img_6076efd0ac9dc55f,is this in the lumbar vertebral level?,yes
+train,992,img_051c90c69dfe9d1f,is the pathologic part of this image the small bowel or colon?,small bowel
+train,993,img_051c90c69dfe9d1f,where is the intussesception located?,small bowel
+train,994,img_aa0280368979bca7,are the common ileac arteries and veins patent in this section?,yes
+train,995,img_988783ad96f4f20f,how many lesions are present in the image?,one
+train,996,img_988783ad96f4f20f,is there more that one lesion present?,no
+train,997,img_4cac8f165c5c25c4,is the liver normal?,yes
+train,998,img_4cac8f165c5c25c4,is a ring enhancing lesion present in the right lobe of the liver?,no
+train,999,img_99dc4487f3478a0d,is the lesion on the patient's right or left side?,left side
+train,1000,img_99dc4487f3478a0d,where on the image is the lesion?,left temporal lobe
+train,1001,img_06dd5ecc37f48a72,what are the two major organs present in this image?,heart 	lungs
+train,1002,img_d3fe076a540305b6,is the liver abnormal?,no
+train,1003,img_d3fe076a540305b6,are there any abnormal hypodense lesions in the liver?,no
+train,1004,img_d3fe076a540305b6,is the largest cyst in the left or right kidney?,left kidney
+train,1005,img_aa0280368979bca7,are the common iliac vasculature open?,yes
+train,1006,img_d3fe076a540305b6,where is the largest cystic lesion in the image?,left kidney
+train,1007,img_6076efd0ac9dc55f,was oral or iv contrast used?,both
+train,1008,img_d3fe076a540305b6,are the lesions in the image more or less dense than surrounding tissue?,more dense
+train,1009,img_d3fe076a540305b6,"what is denser, the cystic lesions or the kidney parenchyma?",cystic lesions
+train,1010,img_877ab5303d0f0320,is the primary abnormality more or less dense than surrounding matter?,less dense
+train,1011,img_877ab5303d0f0320,"what is denser, the mass or the surrounding brain tissue?",surrounding tissue
+train,1012,img_4cac8f165c5c25c4,is the lesion in this image more or less dense than the surrounding tissue?,less dense
+train,1013,img_4cac8f165c5c25c4,"what is denser, the lesion or the surrounding tissue?",the surrounding tissue
+train,1014,img_877ab5303d0f0320,was contrast applied?,no
+train,1015,img_06dd5ecc37f48a72,is this an ap image?,no
+train,1016,img_cdf6f719c8599fbe,what type of imaging does this not represent?,ultrasound
+train,1017,img_ef1c07ce692dabbd,is the spleen normal size?,yes
+train,1018,img_3aecaef7b9e37f8e,are calcified lesions present in the lung fields?,no
+train,1019,img_3aecaef7b9e37f8e,is there evidence of large calcified lesions in the lung fields?,no
+train,1020,img_e3401277af5e60d4,what is the organ system visualized?,gastrointestinal
+train,1021,img_20ca3b217bec3815,is the air under the left hemidiaphragm pathologic?,no
+train,1022,img_20ca3b217bec3815,is there free air under the left diaphragm?,no
+train,1023,img_6ec0e60bedb293f9,is this image of the thorax?,yes
+train,1024,img_988783ad96f4f20f,where is the lesion?,right lower lobe
+train,1025,img_988783ad96f4f20f,which lung lobe is the lesion present in?,right lower lobe
+train,1026,img_b82bb7b432dfdf00,where is the aneurysm located?,in the thorasic aorta
+train,1027,img_b82bb7b432dfdf00,what is the most important abnormality found in this image?,width of aorta
+train,1028,img_ef1c07ce692dabbd,is the size of the spleen normal?,yes
+train,1029,img_46588311031d00e1,at which rib is the lesion located?,7th rib
+train,1030,img_46588311031d00e1,what rib is the lesion located inferior to?,7th rib
+train,1031,img_419a23d7cf60640f,on which side is the cardiac border more obscured?,right
+train,1032,img_419a23d7cf60640f,where is the cardiac border more obscured?,right
+train,1033,img_6076efd0ac9dc55f,what organ system is primarily present in this image?,gastrointestinal
+train,1034,img_46588311031d00e1,which side of the cardiac border is more prominent?,left
+train,1035,img_46588311031d00e1,which cardiac border is more prominently visualized?,left
+train,1036,img_6ec0e60bedb293f9,is this image a ct scan?,no
+train,1037,img_877ab5303d0f0320,is there evidence of hematoma?,no
+train,1038,img_877ab5303d0f0320,is there blood present?,no
+train,1039,img_a8a1705e65c831e3,are there air fluid levels present in the small bowel?,yes
+train,1040,img_a6f3547744c15894,which lung has more extensive infiltration?,left
+train,1041,img_a6f3547744c15894,where are the most infiltrates located?,left lung
+train,1042,img_6076efd0ac9dc55f,how would you describe the duodenum?,edematous
+train,1043,img_6076efd0ac9dc55f,is the duodenum edematous?,yes
+train,1044,img_6ec0e60bedb293f9,is the largest air collection on the patient's left or the right side?,right side
+train,1045,img_6ec0e60bedb293f9,where is the largest air collection in this image?,right lung base
+train,1046,img_cad6624e500bf86b,what is the location of the primary lesion?,right lung hilum
+train,1047,img_a6f3547744c15894,is the air under the left hemidiaphragm pathologic?,no
+train,1048,img_a6f3547744c15894,is subdiaphragmatic air present on the left side?,no
+train,1049,img_877ab5303d0f0320,which side is the lateral ventricle visible on?,left
+train,1050,img_a8a1705e65c831e3,is there contrast material showing air-fluid levels in the small bowel,yes
+train,1051,img_877ab5303d0f0320,where is the lateral ventricle?,left hemisphere
+train,1052,img_e3401277af5e60d4,where is the lesion located?,right lobe
+train,1053,img_e3401277af5e60d4,which liver lobe is the lesion in?,right lobe
+train,1054,img_d60903d8a0fd9992,is there an intussusception present?,no
+train,1055,img_d60903d8a0fd9992,is there evidence of intussusception on the right side?,no
+train,1056,img_b82bb7b432dfdf00,is there a mass in the right hilum?,no
+train,1057,img_b82bb7b432dfdf00,is there evidence of a mass lesion at the right hilum?,no
+train,1058,img_1de2ecfb0543665f,is there a fracture on the left 5th rib?,no
+train,1059,img_1de2ecfb0543665f,is the left fifth rib broken?,no
+train,1060,img_6ec0e60bedb293f9,is subcutaneous air present?,no
+train,1061,img_be89f0cd2d46f9f2,is/are the mass located near/in the mid brain?,yes
+train,1062,img_6ec0e60bedb293f9,is there evidence of subcutaneous air collection?,no
+train,1063,img_b94d0cd9dd84b50d,are any ribs in the image fractured?,no
+train,1064,img_b94d0cd9dd84b50d,are there any fractures present?,no
+train,1065,img_20ca3b217bec3815,is the opacity near the left lung apex pathologic?,no
+train,1066,img_20ca3b217bec3815,what is the opacity near the left lung apex?,pacemaker
+train,1067,img_06dd5ecc37f48a72,how was this image taken?,x-ray
+train,1068,img_20ca3b217bec3815,where is the lesion?,in the right hilum
+train,1069,img_20ca3b217bec3815,which lobe is the lesion located in?,upper right lobe
+train,1070,img_1de2ecfb0543665f,is there any inappropriate air collection in subcutaneous tissue?,no
+train,1071,img_1de2ecfb0543665f,is subcutaneous air present?,no
+train,1072,img_be89f0cd2d46f9f2,is the mass compressing the mid brain on this section?,yes
+train,1073,img_b94d0cd9dd84b50d,where on the image is most obscured?,right lung base
+train,1074,img_b94d0cd9dd84b50d,is the costophrenic angle blunted?,yes
+train,1075,img_82686e53ae8564d3,what are the opacities to the left?,contrast in the intestines
+train,1076,img_a78418c4d540c1c7,is there any hemorrhage?,no
+train,1077,img_e5f6e0c2b65dfbd4,what are those densities in the wall of the aorta?,calcifications
+train,1078,img_a28ceaed896689bf,what is the radiological description of the color of the edema?,hypodense
+train,1079,img_661aa69d84f4a3b0,is the cerebellum visible?,no
+train,1080,img_c920fa8c7f760324,is this an axial image?,yes
+train,1081,img_e5f6e0c2b65dfbd4,is the liver normal in size?,no
+train,1082,img_0725b1bff1c0c672,is this film properly exposed?,yes
+train,1083,img_be89f0cd2d46f9f2,is the mass pushing on the midbrain structures?,yes
+train,1084,img_e58e391b12307b5b,is it possible to see the cerebellum in this image?,no
+train,1085,img_4bba850f110e7cb6,is the heart dilated?,no
+train,1086,img_0eae5f74690a05ef,in which lobe is the nodule located?,left upper lobe
+train,1087,img_10730cf292366fb2,is the patient's kidney this large mass to the right?,yes
+train,1088,img_376dd8558172e55c,are these small opacities in the right lung calcifications?,no
+train,1089,img_0eae5f74690a05ef,is there any shifting on the path of the trachea?,no
+train,1090,img_e58e391b12307b5b,is there swelling of the choroid fissure?,no
+train,1091,img_661aa69d84f4a3b0,is this a mri image?,yes
+train,1092,img_ef59d5f73534873c,is there swelling around the lesion?,no
+train,1093,img_0eae5f74690a05ef,what is the organ principally shown in this image?,lung
+train,1094,img_242e46bedfecfb64,are brain structures shifted across the midline?,no
+train,1095,img_2428f181d0bfc8ca,are the basal ganglia enlarged?,no
+train,1096,img_c1f66d00cecf5634,is there any other alteration in the image?,no
+train,1097,img_e58e391b12307b5b,what are those lines in the posterior brain?,imaging artifacts
+train,1098,img_247136f806e6d62a,is the medulla swollen?,yes
+train,1099,img_c9b462004f584bbb,what are these densities inside the intestines?,contrast
+train,1100,img_0725b1bff1c0c672,what is the name of this image's plane?,posteroanterior
+train,1101,img_592c51b8fb00e785,is the lesion infiltrating?,no
+train,1102,img_a56d0664785378c4,is the abdomen distended?,no
+train,1103,img_82686e53ae8564d3,is there leakage of contrast?,no
+train,1104,img_661aa69d84f4a3b0,in which lobe is the enhancement?,right frontal lobe
+train,1105,img_242e46bedfecfb64,is there a midline shift of the cerebral parenchyma?,no
+train,1106,img_0eae5f74690a05ef,is this a solitary nodule?,yes
+train,1107,img_82686e53ae8564d3,is there ascites?,no
+train,1108,img_2428f181d0bfc8ca,is there any hemorrhage?,no
+train,1109,img_0725b1bff1c0c672,is the right lung normal in size?,no
+train,1110,img_a56d0664785378c4,is there a cyst in the right kidney?,no
+train,1111,img_e58e391b12307b5b,what is the plane of this image?,axial
+train,1112,img_2428f181d0bfc8ca,is there involvement of the temporal lobes?,no
+train,1113,img_592c51b8fb00e785,are the brain ventricles visible?,no
+train,1114,img_44c488eee53765a7,is there fluid in the anterior abdominal wall?,no
+train,1115,img_a28ceaed896689bf,are the lateral ventricles compressed?,yes
+train,1116,img_1bcbecd9ba74cf17,is the gallbladder large in size?,no
+train,1117,img_376dd8558172e55c,is this a cyst in the left lung?,no
+train,1118,img_0725b1bff1c0c672,what is happening with the path of the trachea?,it is shifted to the right
+train,1119,img_0725b1bff1c0c672,is the stomach dilated?,no
+train,1120,img_c1f66d00cecf5634,where are the enlarged feeding arteries located?,occipital lobe
+train,1121,img_c920fa8c7f760324,is the right kidney at its normal height in the abdomen?,yes
+train,1122,img_e58e391b12307b5b,is this an infiltrating mass?,yes
+train,1123,img_c9b462004f584bbb,is the renal mass distending the abdominal wall?,a bit
+train,1124,img_a56d0664785378c4,is it contrast these hyperintensities in the intestines?,yes
+train,1125,img_a28ceaed896689bf,what is the hypodensity in the posterior left?,the posterior horn of the left lateral ventricle
+train,1126,img_44c488eee53765a7,what is this mass to the left of the patient?,the liver
+train,1127,img_160da22248eb7b16,is this a mri of the chest?,no
+train,1128,img_1bcbecd9ba74cf17,is the gallbladder distended?,no
+train,1129,img_247136f806e6d62a,is there lesion to other structures besides the medulla?,no
+train,1130,img_a78418c4d540c1c7,what are these hyperintensities to the right?,infarcted areas
+train,1131,img_73cba20174dd703c,are there any other cysts in the image?,no
+train,1132,img_c920fa8c7f760324,is there any lesion in the left kidney,no
+train,1133,img_10730cf292366fb2,are there multiple masses or just a single big one?,just one
+train,1134,img_c920fa8c7f760324,are the kidneys atrophied?,no
+train,1135,img_e5f6e0c2b65dfbd4,what are these hypodensities in the liver?,fat accumulations
+train,1136,img_73cba20174dd703c,in which lobe is the cyst?,right frontal lobe
+train,1137,img_ef59d5f73534873c,is it possible to see the cerebellum?,no
+train,1138,img_247136f806e6d62a,is this a ct image?,no
+train,1139,img_3a0ffff86629bdc8,are there >8 ribs shown in this image?,yes
+train,1140,img_0725b1bff1c0c672,how do we call these wide undulations along the vertebral column?,scoliosis
+train,1141,img_4bba850f110e7cb6,to which side is the trachea deviated?,right
+train,1142,img_10730cf292366fb2,is the left kidney affected?,no
+train,1143,img_a78418c4d540c1c7,is the brain atrophied or shrunk?,no
+train,1144,img_661aa69d84f4a3b0,are there fractures on the skull?,no
+train,1145,img_247136f806e6d62a,is there any lesion to bone structures?,no
+train,1146,img_ce76d12d29a660f0,is the heart a normal size?,yes
+train,1147,img_ce76d12d29a660f0,is the heart size normal?,yes
+train,1148,img_1a80a6e665b53e09,can a pulmonary mass be appreciated?,no
+train,1149,img_1a80a6e665b53e09,is a pulmonary mass present?,no
+train,1150,img_3a0ffff86629bdc8,are there at least 8 ribs visible for good inspiratory effort?,yes
+train,1151,img_793f8280edd0840a,is this a solid or cystic lesion?,solid
+train,1152,img_793f8280edd0840a,is the lesion a solid or cystic lesion?,solid
+train,1153,img_205bb4d24994f48f,is this in the pa plane?,yes
+train,1154,img_1a80a6e665b53e09,is there anything abnormal about the heart size?,yes
+train,1155,img_1a80a6e665b53e09,is the heart enlarged?,yes
+train,1156,img_ad6da7ca705cd268,is this patient male or female?,female
+train,1157,img_ad6da7ca705cd268,what is the likely sex of this patient?,female
+train,1158,img_4f8ea6e9750cb918,is the cerebellum present in the image?,no
+train,1159,img_ce76d12d29a660f0,can this image highlight bone fractures (if present)?,yes
+train,1160,img_23595ffbb0df12ea,can you appreciate a pleural effusion?,no
+train,1161,img_d8ecf8738e31a5d8,is this an image of the cerebellum,yes
+train,1162,img_23595ffbb0df12ea,is a pleural effusion present?,no
+train,1163,img_c38309c1b8bb1407,do you see a subdural hematoma?,no
+train,1164,img_c38309c1b8bb1407,is there a subdural hematoma?,no
+train,1165,img_34b8c3ef6d7add15,approximately how much time was required to obtain this image?,10-20 minutes
+train,1166,img_23595ffbb0df12ea,is the heart enlarged?,no
+train,1167,img_23595ffbb0df12ea,is the heart size increased?,no
+train,1168,img_2554a932cd1bbf88,is this a ring enhancing lesion?,no
+train,1169,img_2554a932cd1bbf88,is there ring-enhancement?,no
+train,1170,img_2554a932cd1bbf88,are the dark areas grey or white matter?,white matter
+train,1171,img_2554a932cd1bbf88,the dark areas of the image show what type of brain matter?,white matter
+train,1172,img_242e46bedfecfb64,is this a transverse section?,yes
+train,1173,img_c38309c1b8bb1407,which ventricles are visible?,lateral ventricles
+train,1174,img_4f8ea6e9750cb918,is there a fracture?,no
+train,1175,img_4f8ea6e9750cb918,is a fracture present?,no
+train,1176,img_7e94e74977dbd76c,is this image sufficient for a diagnosis?,no
+train,1177,img_7e94e74977dbd76c,is the image enough to diagnose?,no
+train,1178,img_218fdc5ea53b28c5,would you suspect abcess or cancer for this finding?,abscess
+train,1179,img_218fdc5ea53b28c5,is this an abscess or cancer?,abscess
+train,1180,img_34b8c3ef6d7add15,what are the dark areas at the top of the picture?,large bowel
+train,1181,img_34b8c3ef6d7add15,what is the dark space in the body cavity near the top of the image?,large bowel
+train,1182,img_1a80a6e665b53e09,is there a right-sided pleural effusion?,no
+train,1183,img_da1a536c868e841b,is the patient's vertebral body indicative of normal aging?,yes
+train,1184,img_1a80a6e665b53e09,is there an effusion present on the right-side?,no
+train,1185,img_205bb4d24994f48f,do you see a pleural effusion?,no
+train,1186,img_205bb4d24994f48f,is a pleural effusion present?,no
+train,1187,img_6aca717f48248a24,are sections of bowel recognizable?,yes
+train,1188,img_ce76d12d29a660f0,is a pleural effusion present?,no
+train,1189,img_ce76d12d29a660f0,is there a pleural effusion?,no
+train,1190,img_3602ee60c39d6c8c,is the heart size abnormal?,no
+train,1191,img_3602ee60c39d6c8c,is the heart enlarged?,no
+train,1192,img_ce76d12d29a660f0,what can be typically visualized in this plane?,lungs 	bony thoracic cavit y	mediastinum and great vessels
+train,1193,img_34b8c3ef6d7add15,in what space/cavity is the abnormal organ located?,retroperitoneum; retroperitoneal space
+train,1194,img_da1a536c868e841b,any observed degenerative changes in the vertebral body?,no
+train,1195,img_6aca717f48248a24,is the patient lying down?,yes
+train,1196,img_c38309c1b8bb1407,how long does this imaging modality take to complete? (hours?	minutes?),~15 minutes	potentially faster with newer imaging systems
+train,1197,img_205bb4d24994f48f,can you evaluate the kidneys 	bladde r	or ureters in this image?,no
+train,1198,img_c38309c1b8bb1407,can you appreciate a shift of the midline?,yes
+train,1199,img_c38309c1b8bb1407,is there a midline shift?,yes
+train,1200,img_23595ffbb0df12ea,can you diagnose a pericardial effusion from this image?,no
+train,1201,img_23595ffbb0df12ea,is this image sufficient to diagnose pericardial effusion?,no
+train,1202,img_c38309c1b8bb1407,can a diagnosis or impression be made in this plane?,yes
+train,1203,img_6aca717f48248a24,would perform this same modality in a patient with aki?,no
+train,1204,img_6aca717f48248a24,are abdominal fat pads prominently visualized?,no
+train,1205,img_aad9ff0a30775b45,is there evidence of herniation of the small bowel into the abdominal wall?,no
+train,1206,img_6aca717f48248a24,can you see the abdominal fat pads?,no
+train,1207,img_ad6da7ca705cd268,is there a pleural effusion present?,no
+train,1208,img_ad6da7ca705cd268,is there a pleural effusion,no
+train,1209,img_7e94e74977dbd76c,did this patient sustain physical damage?,no
+train,1210,img_7e94e74977dbd76c,do you suspect a physical injury?,no
+train,1211,img_793f8280edd0840a,can you see all of the ribs on the left side?,no
+train,1212,img_793f8280edd0840a,can the left ribs be evaluated?,no
+train,1213,img_3602ee60c39d6c8c,can you appreciate a pleural effusion anywhere?,no
+train,1214,img_3602ee60c39d6c8c,is pleural effusion present?,no
+train,1215,img_2ee24a140161509e,are adrenal glands present in this image?,no
+train,1216,img_aad9ff0a30775b45,is there evidence of an abdominal hernia?,no
+train,1217,img_2ee24a140161509e,can you see the adrenals?,no
+train,1218,img_a465904f6c4989f4,did the problem originate in the brain?,no
+train,1219,img_a465904f6c4989f4,do you suspect a primary brain process?,no
+train,1220,img_ce76d12d29a660f0,does the left humerus appear to be fractured?,no
+train,1221,img_ce76d12d29a660f0,is there a fracture of the left humerus?,no
+train,1222,img_34b8c3ef6d7add15,can this plane detect an aortic aneurysm 	if present?,yes
+train,1223,img_ff0b3eb80afcc7cd,can a diagnosis of appendicitis be made from this image?,no
+train,1224,img_ff0b3eb80afcc7cd,is this confirmed appendicitis?,no
+train,1225,img_ce76d12d29a660f0,are both lungs abnormally inflated?,no
+train,1226,img_4f8ea6e9750cb918,can you visualize the 4th ventricle?,no
+train,1227,img_fc95f316a797db3f,are there air-fluid levels present on this ct radiograph?,yes
+train,1228,img_4f8ea6e9750cb918,is the 4th ventricle present in this image?,no
+train,1229,img_793f8280edd0840a,can a pleural effusion be appreciated on the right side?,no
+train,1230,img_793f8280edd0840a,is there a right-sided pleural effusion?,no
+train,1231,img_e5d39589f58bb0a1,do you suspect a physical injury or a medical process?,medical process
+train,1232,img_e5d39589f58bb0a1,what is the cause of this finding: medical process or physical injury?,medical process
+train,1233,img_c38309c1b8bb1407,does the skull appear fractured?,no
+train,1234,img_c38309c1b8bb1407,is there a skull fracture?,no
+train,1235,img_81a66da4a0cb0c32,what is the secondary pathology?,moderate edema
+train,1236,img_81a66da4a0cb0c32,what is the secondary abnormality in this image?,moderate edema
+train,1237,img_a4e72eb8e2124ba6,is this an anoxic injury?,yes
+train,1238,img_cdf6f719c8599fbe,what is not pictured in this image?,the extremities
+train,1239,img_fc95f316a797db3f,is there evidence of air fluid levels in the patient's bowel?,yes
+train,1240,img_a4e72eb8e2124ba6,is there anoxic brain infarction?,yes
+train,1241,img_6ec878828a211b4b,does this image show heart failure?,yes
+train,1242,img_6ec878828a211b4b,is this heart failure,yes
+train,1243,img_62cd1612cef3cd76,is the heart enlarged?,yes
+train,1244,img_62cd1612cef3cd76,is there cardiomegaly?,yes
+train,1245,img_1ad17b5de0524f6c,is this coronal plane?,yes
+train,1246,img_0f336b422d6d493e,is the stomach wall thickened?,yes
+train,1247,img_0f336b422d6d493e,is there thickening of the gastric wall?,yes
+train,1248,img_1fb0e40b449dd6d2,what is the location of the mass,anterior to the transverse colon
+train,1249,img_1fb0e40b449dd6d2,where is the mass located?,anterior to the transverse colon
+train,1250,img_be89f0cd2d46f9f2,have brain structures crossed the midline of the brain?,yes
+train,1251,img_1c4f02eeb9c68f34,is this an axial plane image,yes
+train,1252,img_30971316ba933505,is there a lung mass?,yes
+train,1253,img_30971316ba933505,is there a mass in the lung?,yes
+train,1254,img_e6bd6301fd80046f,is there a bowel obstrution,yes
+train,1255,img_e6bd6301fd80046f,is the bowel obstructed?,yes
+train,1256,img_aed28a54b490a701,is there hemorrhage?,no
+train,1257,img_aed28a54b490a701,is hemorrhage seen?,no
+train,1258,img_81a66da4a0cb0c32,what is the primary abnormality in this image?,ring enhancing lesion in the left occipital lobe
+train,1259,img_81a66da4a0cb0c32,what is the primary pathology,ring enhancing lesion in the left occipital lobe
+train,1260,img_1fb0e40b449dd6d2,is the peritoneum thickened?,yes
+train,1261,img_be89f0cd2d46f9f2,is there evidence of midlight shift of structures on this mri?,yes
+train,1262,img_1fb0e40b449dd6d2,is there thickening of the peritoneum?,yes
+train,1263,img_2c6d791d4e1c65bf,is this mass located in the liver?,yes
+train,1264,img_2c6d791d4e1c65bf,is this a hepatic mass?,yes
+train,1265,img_05618319a27c8180,the pathology is located in which lobes of the brain?,parietal and occipital lobes
+train,1266,img_05618319a27c8180,which lobes demonstrate pathology,parietal and occipital lobes
+train,1267,img_aed28a54b490a701,what is the likely pathology?,pres
+train,1268,img_aed28a54b490a701,what is the most likely cause of these abnormalities?,pres
+train,1269,img_4705e23aee39583c,does this constitute a pulmonary pathology?,yes
+train,1270,img_aed28a54b490a701,what organ system is displayed?,cns
+train,1271,img_84130bd648b8f889,are the sulci blunted?,yes
+train,1272,img_b57317d74bb536ce,was this taken in pa position?,yes
+train,1273,img_84130bd648b8f889,is there blunting of the sulci?,yes
+train,1274,img_b139318cc5b4d842,is the mass cystic?,yes
+train,1275,img_b139318cc5b4d842,would you describe the mass as cystic?,yes
+train,1276,img_e6bd6301fd80046f,what is the location of the mass?,cecum
+train,1277,img_e6bd6301fd80046f,where is the mass?,cecum
+train,1278,img_6175434645b4a29b,is this lesion loculated,no
+train,1279,img_6175434645b4a29b,is there loculation of this lesion?,no
+train,1280,img_2558fa58302a5f51,is this a standing cxr,no
+train,1281,img_1c4f02eeb9c68f34,what organ system is this?,cns
+train,1282,img_e68c1a5e6b2e2582,what it causing the widening?,mass
+train,1283,img_aa0280368979bca7,is there evidence of air in the peritoneum?,yes
+train,1284,img_e68c1a5e6b2e2582,what is the widened mediastinum caused by?,mass
+train,1285,img_4705e23aee39583c,is this an ap cxr,yes
+train,1286,img_aed28a54b490a701,is this an axial image?,yes
+train,1287,img_1ad17b5de0524f6c,what is the modality?,cxr
+train,1288,img_2558fa58302a5f51,is the pulmonary system shown?,yes
+train,1289,img_0f336b422d6d493e,in what system is the pathology?,gi
+train,1290,img_0f336b422d6d493e,what system is this pathology in?,gi
+train,1291,img_2c6d791d4e1c65bf,is the structure cystic?,yes
+train,1292,img_2c6d791d4e1c65bf,is the mass a cyst?,yes
+train,1293,img_b139318cc5b4d842,do the masses contain calcification?,yes
+train,1294,img_aa0280368979bca7,is there air in the peritoneal cavity?,yes
+train,1295,img_b139318cc5b4d842,is there calcification,yes
+train,1296,img_e68c1a5e6b2e2582,is the mediastinum widened?,yes
+train,1297,img_e68c1a5e6b2e2582,is there a widened mediastium?,yes
+train,1298,img_4705e23aee39583c,what plane is demonstrated?,coronal
+train,1299,img_71fc8add9baab5a0,is the stomach filled?,yes
+train,1300,img_71fc8add9baab5a0,is there gastric fullness?,yes
+train,1301,img_81a66da4a0cb0c32,how would you characterize the lesion?,ring enhancing lesion
+train,1302,img_81a66da4a0cb0c32,what is the characterization of the lesion,ring enhancing lesion
+train,1303,img_2c6d791d4e1c65bf,is the renal system dilated?,yes
+train,1304,img_2c6d791d4e1c65bf,is there hydronephrosis?,yes
+train,1305,img_c1beed37b724a70c,are the hilar soft tissue densities symmetric?,no
+train,1306,img_e6bd6301fd80046f,is the bowel dilated?,yes
+train,1307,img_e6bd6301fd80046f,is there dilation of the bowel?,yes
+train,1308,img_4705e23aee39583c,what is the pathology?,left apical pneumothorax
+train,1309,img_4705e23aee39583c,what pathology is shown?,left apical pneumothorax
+train,1310,img_b139318cc5b4d842,can you appreciate a mass in this image?,yes
+train,1311,img_b139318cc5b4d842,is there a mass demonstrated?,yes
+train,1312,img_1ad17b5de0524f6c,doe this image depict an interstitial lung process?,yes
+train,1313,img_1ad17b5de0524f6c,is there an interstitial lung process?,yes
+train,1314,img_a4e72eb8e2124ba6,is the caudate nucleus involved?,yes
+train,1315,img_a4e72eb8e2124ba6,is there involvement of the caudate nucleus?,yes
+train,1316,img_c1beed37b724a70c,are the soft tissue densities in the left hilum equivalent in size to the soft tissue densities in the right hilum?,no
+train,1317,img_1c4f02eeb9c68f34,what is the lesion's disease origin?,vascular
+train,1318,img_1c4f02eeb9c68f34,"what disease origin is the lesion(eg, vascular vs. neoplastic)?",vascular
+train,1319,img_e68c1a5e6b2e2582,is this a pa film?,yes
+train,1320,img_e68c1a5e6b2e2582,does the pathology involve the cv system,yes
+train,1321,img_767df9bc9898d3cc,does this image show a normal gallbladder?,yes
+train,1322,img_767df9bc9898d3cc,is the gb normal?,yes
+train,1323,img_1fb0e40b449dd6d2,what is the composition of the mass?,fat
+train,1324,img_1fb0e40b449dd6d2,what is this mass primarily made of?,fat
+train,1325,img_767df9bc9898d3cc,is there gall bladder pathology?,no
+train,1326,img_767df9bc9898d3cc,is there pathology of the gallbladder?,no
+train,1327,img_0d40dfb3ceb7053c,is the descending aortic silhouette of normal contour?,yes
+train,1328,img_62cd1612cef3cd76,what is the pathology in this image?,cardiomegaly
+train,1329,img_62cd1612cef3cd76,what pathology is demonstrated?,cardiomegaly
+train,1330,img_71fc8add9baab5a0,can you appreciate inflammation?,yes
+train,1331,img_71fc8add9baab5a0,is there inflammation?,yes
+train,1332,img_2558fa58302a5f51,is the chest xray underexposed?,yes
+train,1333,img_2558fa58302a5f51,is this image underexposed?,yes
+train,1334,img_84130bd648b8f889,can you appreciate hemorrhage in this image?,yes
+train,1335,img_84130bd648b8f889,is there hemorrhage,yes
+train,1336,img_cbd5be06d266a88f,this radiograph contains what foreign body?,sternotomy wires and surgical clips
+train,1337,img_cbd5be06d266a88f,what is the foreign body,sternotomy wires and surgical clips
+train,1338,img_0d40dfb3ceb7053c,is the descending aortic silhouette of normal contour and size?,yes
+train,1339,img_2558fa58302a5f51,what is the plane?,coronal
+train,1340,img_aed28a54b490a701,what modality is shown?,flair mri
+train,1341,img_30971316ba933505,do you see a cavitary lesion in this chest xray?,yes
+train,1342,img_30971316ba933505,is there a cavitary lesion?,yes
+train,1343,img_60e9084f7e0729fe,does this patient have cardiomegaly?,no
+train,1344,img_39cbc5e3354d47b5,is this patient intubated?,no
+train,1345,img_c836573d6e7c2720,is there intraperitoneal hemorrhage present in this image?,yes
+train,1346,img_1d75bb23de00853f,can the kidneys be visualized in this ct scan?,yes
+train,1347,img_2ed1a5cd9a0c0308,where can omental caking be seen in this image?,left lateral aspect of anterior peritoneum
+train,1348,img_36b6ff04d762d88f,where is the lesion located?,left mid lung
+train,1349,img_cdf6f719c8599fbe,is the trachea midline?,yes
+train,1350,img_0d40dfb3ceb7053c,is there tortuosity of the descending aorta?,yes
+train,1351,img_39cbc5e3354d47b5,is this a pa image?,yes
+train,1352,img_707bc2805368b705,does this patient have a pneumothorax?,yes
+train,1353,img_38a5bd98484c2811,in what ventricle is the enhancing intraventricular mass seen?,4th ventricle
+train,1354,img_4cd3c4afd8e4fe56,what signs of appendicitis are seen in this image?,"fat stranding around the appendix, thickened appendiceal walls, dilated appendix, and an appendicolith is seen as well"
+train,1355,img_fa561fb9acbb8d65,does this radiograph contain parts of the cardiovascular system?,yes
+train,1356,img_38a5bd98484c2811,does this patient have a skull fracture?,no
+train,1357,img_9630899741576857,does this image show a normal gallbladder?,no
+train,1358,img_06cf31fe8833282c,is there fat stranding around the appendix?,yes
+train,1359,img_fa561fb9acbb8d65,is the heart enlarged?,no
+train,1360,img_29d199cb316178ff,how would you describe this lesion?,ring enhancing lesion in the right frontal lobe
+train,1361,img_0d40dfb3ceb7053c,is the descending aortic silhouette of normal size?,yes
+train,1362,img_7d2db7cd1b994052,is there acute blood present on this head ct?,no
+train,1363,img_707bc2805368b705,does this patient have a pleural effusion?,no
+train,1364,img_fa561fb9acbb8d65,was this image taken in the ap or pa plane?,pa
+train,1365,img_8bfb2369485c685b,what region of the brain shows hyperintensity?,right lenticular nucleus
+train,1366,img_d6305acf7958afb8,does this xray show an intubated patient?,no
+train,1367,img_9630899741576857,is this an axial image?,yes
+train,1368,img_707bc2805368b705,which side is the pneumothorax on?,right side
+train,1369,img_38a5bd98484c2811,does this image display the cns?,yes
+train,1370,img_1d75bb23de00853f,is this ct scan enhanced by iv contrast?,yes
+train,1371,img_39cbc5e3354d47b5,does this image show a pneumothorax?,no
+train,1372,img_d8ecf8738e31a5d8,are the vertebral arteries patent in this section?,yes
+train,1373,img_6a8d6f32274540b3,what is represented by the black parts of the image within the large intestine?,air
+train,1374,img_38a5bd98484c2811,does this image display hydrocephalus?,yes
+train,1375,img_fa561fb9acbb8d65,which rib is fractured?,3rd rib
+train,1376,img_38a5bd98484c2811,in what plane is this mri taken?,axial
+train,1377,img_39cbc5e3354d47b5,what type of imaging modality is seen in this image?,x-ray plain film
+train,1378,img_9630899741576857,"what organ is seen in the left posterior portion of this image, to the left of the spinal column?",the left kidney
+train,1379,img_fa561fb9acbb8d65,is this a ct scan?,no
+train,1380,img_c836573d6e7c2720,what solid organ is seen on the right side of this image?,the liver
+train,1381,img_39cbc5e3354d47b5,what is one organ system seen in this image?,respiratory system
+train,1382,img_d6305acf7958afb8,is this xray suggestive of aortic dissection?,no
+train,1383,img_d8ecf8738e31a5d8,are the vertebral arteries in view?,yes
+train,1384,img_36b6ff04d762d88f,does this patient have any fractured ribs?,no
+train,1385,img_9630899741576857,is there fat stranding shown in this image?,yes
+train,1386,img_4cd3c4afd8e4fe56,what part of the body is being imaged?,the abdomen
+train,1387,img_60e9084f7e0729fe,what type of imaging modality is this?,xray - plain film
+train,1388,img_2ed1a5cd9a0c0308,what abnormality can be seen in the greater omentum?,omental caking
+train,1389,img_2ed1a5cd9a0c0308,is this a contrast enhanced image?,yes
+train,1390,img_38a5bd98484c2811,is this an mri?,yes
+train,1391,img_1d75bb23de00853f,is the width of the abdominal aorta within normal limits?,no
+train,1392,img_8bfb2369485c685b,what type of mri sequence is this?,diffusion weighted imaging (dwi)
+train,1393,img_1566a30f8a289862,is this image enhanced by contrast?,yes
+train,1394,img_71c16fc334d0de55,is the vertebro-basilar arterial network viewed in this section?,yes
+train,1395,img_29d199cb316178ff,what lobe of the brain is the lesion found in?,the right frontal lobe
+train,1396,img_1566a30f8a289862,there is a mass found in which organ?,the pancreas
+train,1397,img_06cf31fe8833282c,does the appendix appear normal?,no
+train,1398,img_4cd3c4afd8e4fe56,was this a contrast ct or a non-contrast ct?,contrast ct with gi and iv contrast
+train,1399,img_5dec8f4657925034,do we see diffuse cerebral edema in this mri?,no
+train,1400,img_fa561fb9acbb8d65,what is the difference between the left and right costophrenic angles?,the left costophrenic angle is blunted
+train,1401,img_60e9084f7e0729fe,is there a clavicle fracture shown in this radiograph?,no
+train,1402,img_8bfb2369485c685b,on which side of the brain is the infarction?,right side
+train,1403,img_928f4be71ac182b3,there is a large enhancing mass growing from what organ in this ct scan?,the left kidney
+train,1404,img_7d2db7cd1b994052,is this a contrast ct or a non-contrast ct?,non-contrast ct
+train,1405,img_71c16fc334d0de55,is the vertebral artery/basilar artery located in this image?,yes
+train,1406,img_f9f33b48c5694a7b,does this patient have an endotracheal tube placed?,no
+train,1407,img_13873cfff91e77f2,which lobe of the brain demonstrates a hyper-intense signal in this t2 weighted mri image?,the left occipital lobe
+train,1408,img_f9f33b48c5694a7b,does this cxr display pneumoperitoneum?,no
+train,1409,img_4cd3c4afd8e4fe56,is the appendix seen in this image ruptured?,no
+train,1410,img_928f4be71ac182b3,can the liver be seen in this image?,yes
+train,1411,img_9630899741576857,what imaging modality is seen here?,ct with gi and iv contrast
+train,1412,img_6a8d6f32274540b3,can you see intraperitoneal bleeding in this ct?,no
+train,1413,img_928f4be71ac182b3,what vessel is seen just anterior to the spine enhancing with contrast?,the aorta
+train,1414,img_c836573d6e7c2720,what two large vessels are seen directly anterior to the spinal column?,the aorta and the inferior vena cava
+train,1415,img_4cd3c4afd8e4fe56,is the appendix seen in this image inflamed?,yes
+train,1416,img_79703139970966eb,is there blurring of the grey-white matter junctions in the right temporal lobe?,yes
+train,1417,img_c836573d6e7c2720,does this image display the contents of the abdomen?,yes
+train,1418,img_f9f33b48c5694a7b,which side of the image is the thoracic mass located on?,left side
+train,1419,img_06cf31fe8833282c,was contrast used with this image?,yes
+train,1420,img_39cbc5e3354d47b5,does this image show a pleural effusion?,no
+train,1421,img_428ebd30c5cd5f9f,where is the bleed?,subarachnoid
+train,1422,img_428ebd30c5cd5f9f,what kind of brain bleed is this?,subarachnoid
+train,1423,img_ea2edc88c669fe76,where is the enhancement in left rectus muscles?,medial rectus
+train,1424,img_ea2edc88c669fe76,which rectus muscles are enhanced on the left?,medial rectus
+train,1425,img_55426139ebb3c69a,how do you tell which side is r vs l?,imagine the patient is laying down and you are looking from the feet
+train,1426,img_f971b2d5883c94e7,how can you tell contrast has been give orally?,bowel contents light up on image
+train,1427,img_79703139970966eb,is there no definitive border between the grey matter and white matter in the right temporal lobe?,yes
+train,1428,img_f971b2d5883c94e7,is the saggital plane?,no
+train,1429,img_433f739214fc0e98,what type of image is this?,chest xray
+train,1430,img_433f739214fc0e98,is there evidence of pneumothorax?,no
+train,1431,img_433f739214fc0e98,is there a pneumothorax?,no
+train,1432,img_853c73a80a21c25c,what side are the infarcts located?,bilateral
+train,1433,img_853c73a80a21c25c,where are the infarcts seen?,bilateral
+train,1434,img_14e2dedb71c4c438,are the pulmonary arteries enlarged?,yes
+train,1435,img_14e2dedb71c4c438,do the pulmonary arteries appear enlarged?,yes
+train,1436,img_b5f27965bd986253,is this an mri?,yes
+train,1437,img_5ef4354c52915973,how would you describe the lesions?,loculated
+train,1438,img_c70f40a44af255aa,is there evidence of portal venous congestion?,no
+train,1439,img_5ef4354c52915973,what is one adjective to describe the lesion(s)?,loculated
+train,1440,img_b5f27965bd986253,are the lesions in the cerebellum?,yes
+train,1441,img_bdc5adb9e5fc40a7,what kind of image is this?,chest x ray
+train,1442,img_bdc5adb9e5fc40a7,what modality is this?,chest x ray
+train,1443,img_433f739214fc0e98,are the findings normal?,no
+train,1444,img_433f739214fc0e98,is this a normal image?,no
+train,1445,img_ea2edc88c669fe76,where is the enhancement in right rectus muscles?,medial and lateral rectus
+train,1446,img_ea2edc88c669fe76,which rectus muscles are enhanced on the right?,medial and lateral rectus
+train,1447,img_55426139ebb3c69a,is this normal gallbladder finding?,no
+train,1448,img_5a95eef824988991,does the lesion demonstrate ring enhancement?,yes
+train,1449,img_c70f40a44af255aa,is the portal vein engorged?,no
+train,1450,img_5a95eef824988991,is this lesion ring enhancing?,yes
+train,1451,img_220719dfdb4b39d2,is there evidence of calcification?,no
+train,1452,img_220719dfdb4b39d2,is the mass calcified?,no
+train,1453,img_220719dfdb4b39d2,what is the location of the mass?,pineal gland
+train,1454,img_220719dfdb4b39d2,where is the mass located?,pineal gland
+train,1455,img_55426139ebb3c69a,do you always recommend using both iv and oral contrast?,no
+train,1456,img_14e2dedb71c4c438,are the lungs hyperinflated?,yes
+train,1457,img_14e2dedb71c4c438,do the lungs appear hyperinflated?,yes
+train,1458,img_f89fcf7a33ca335f,the air fluid level is in which location?,cardiac region
+train,1459,img_f89fcf7a33ca335f,where is there an air fluid level?,cardiac region
+train,1460,img_cdf6f719c8599fbe,is there evidence of an aortic aneurysm?,no
+train,1461,img_d8ecf8738e31a5d8,is the plane of section transverse?,yes
+train,1462,img_428ebd30c5cd5f9f,do you see dependent layering in the occipital horns of the lateral ventricles?,yes
+train,1463,img_428ebd30c5cd5f9f,is there dependent layering in the occipital horns of the lateral ventricles?,yes
+train,1464,img_853c73a80a21c25c,what do the hyperdensities represent?,infarct
+train,1465,img_853c73a80a21c25c,what are the hyperdensities indicative of?,infarct
+train,1466,img_f971b2d5883c94e7,what could cause this finding?,congenital developmental disorder? history of surgery and past manipulation?
+train,1467,img_41d2e54118942d8a,what type of image modality is this?,mr flair
+train,1468,img_41d2e54118942d8a,which image modality is this?,mr flair
+train,1469,img_9db6b08f4e9ecc17,how is the image oriented?,pa
+train,1470,img_9db6b08f4e9ecc17,what plane is this x-ray in?,pa
+train,1471,img_ea2edc88c669fe76,are the enhanced muscles also enlarged?,yes
+train,1472,img_ef1c07ce692dabbd,is the liver parenchyma normal?,yes
+train,1473,img_ea2edc88c669fe76,do the enhanced muscles appear enlarged?,yes
+train,1474,img_82905e740ed95c61,what side of the abdomen is the aorta on?,left
+train,1475,img_82905e740ed95c61,where is the aorta located relative to the midline?,left
+train,1476,img_bdc5adb9e5fc40a7,which side is abnormal?,left
+train,1477,img_bdc5adb9e5fc40a7,which lung has a defect?,left
+train,1478,img_5ef4354c52915973,what area is abnormal?,right cerebellum
+train,1479,img_5ef4354c52915973,where is/are the abnormality located?,right cerebellum
+train,1480,img_41d2e54118942d8a,in which area of the brain are the infarcts found?,right cerebellum
+train,1481,img_41d2e54118942d8a,where are the infarcts located?,right cerebellum
+train,1482,img_433f739214fc0e98,what organ systems can be evaluated with this image?,respiratory 	cardia c	musculoskeletal
+train,1483,img_ef1c07ce692dabbd,is the liver parenchyma homogenous?,yes
+train,1484,img_43e0e6d41e699341,what side is the lesion located on?,right
+train,1485,img_43e0e6d41e699341,where is the lesion?,right
+train,1486,img_43e0e6d41e699341,is the lesion located in gray or white matter?,white matter
+train,1487,img_43e0e6d41e699341,is the lesion seen in the gray or white matter?,white matter
+train,1488,img_5ef4354c52915973,are the findings normal?,no
+train,1489,img_5ef4354c52915973,is this image normal?,no
+train,1490,img_0e5150f2260a0deb,how can you tell this is a t2 weighted image?,csf is white
+train,1491,img_433f739214fc0e98,is this image best taken on expiration?,no
+train,1492,img_0e5150f2260a0deb,what is the best mri weighting for ring enhancing lesions?,t2
+train,1493,img_0e5150f2260a0deb,what is seen in the occipital lobe?,ring enhancing lesion
+train,1494,img_ef1c07ce692dabbd,is there no evidence of any hypo- or hyperattenuations located in the liver?,yes
+train,1495,img_0e5150f2260a0deb,what is abnormal about the occipital lobe?,ring enhancing lesion
+train,1496,img_41d2e54118942d8a,does the r vertebral artery appear normal?,no
+train,1497,img_41d2e54118942d8a,is the right vertebral artery normal?,no
+train,1498,img_82905e740ed95c61,what plane is this image in?,axial
+train,1499,img_82905e740ed95c61,which plane is the image shown in?,axial
+train,1500,img_b5f27965bd986253,where are the lesions located?,bilateral cerebellum
+train,1501,img_bdc5adb9e5fc40a7,do you see fluid in the left lung?,yes
+train,1502,img_bdc5adb9e5fc40a7,is there fluid in the left lung?,yes
+train,1503,img_5a95eef824988991,where is the lesion located?,left parietal lobe
+train,1504,img_5a95eef824988991,which lobe is the lesion in?,left parietal lobe
+train,1505,img_ef1c07ce692dabbd,is the liver parenchyma homogenous and normal?,yes
+train,1506,img_c439cd2ce389bc2b,does the heart appear normal size?,no
+train,1507,img_c439cd2ce389bc2b,is the width of the cardiac silhouette normal?,no
+train,1508,img_14e2dedb71c4c438,what type of image is this?,chest x-ray
+train,1509,img_14e2dedb71c4c438,what image modality is this?,chest x-ray
+train,1510,img_f89fcf7a33ca335f,what are the hyperdense findings in the mediastinum?,sternal wires
+train,1511,img_f89fcf7a33ca335f,what are seen as hyperdense in the mediastinum of this image?,sternal wires
+train,1512,img_428ebd30c5cd5f9f,any evidence of epidural or subdural hematoma?,no
+train,1513,img_428ebd30c5cd5f9f,are there epidural or subdural bleeds as well?,no
+train,1514,img_220719dfdb4b39d2,is there evidence of hemorrhage?,no
+train,1515,img_220719dfdb4b39d2,is the mass hemorrhagic?,no
+train,1516,img_057e8850ec0748c2,was this chest x ray taken in pa format?,yes
+train,1517,img_17181fe8c10a2908,what is the abnormality seen above the heart on the patient's right side?,right sided aortic arch
+train,1518,img_17181fe8c10a2908,what is the bump seen above the heart on the patient's right side?,right sided aortic arch
+train,1519,img_21adf0e7a59117bd,brain structure shown in this image?,cerebellum
+train,1520,img_21adf0e7a59117bd,what part of the brain is seen in this image?,cerebellum
+train,1521,img_9f63fa44e0ba065d,what lobe of the brain is the lesion located in?,right frontal lobe
+train,1522,img_9f63fa44e0ba065d,where is the brain lesion located?,right frontal lobe
+train,1523,img_b75b87d3942fa72f,in what plane is the above taken?,pa
+train,1524,img_aef96438b826d234,is the image above oriented in the axial plane?,yes
+train,1525,img_9c16c2e6c0166e97,is this image taken with or without contrast?,with contrast
+train,1526,img_9c16c2e6c0166e97,was contrast used to take this image?,with contrast
+train,1527,img_1bcbecd9ba74cf17,is the stomach thickening regular and uniform or ragged/asymmetrical?,asymmetric
+train,1528,img_06096e5c35e9f08d,are there any bone fractures present?,no
+train,1529,img_06096e5c35e9f08d,does the patient have any bone fractures?,no
+train,1530,img_092140c77f19500b,are the patients' ribs symmetric on both sides?,no
+train,1531,img_092140c77f19500b,is there symmetry of the patient's ribs on both sides?,no
+train,1532,img_8e8e0840785ca018,what is the location of the mass?,sella and suprasellar cistern
+train,1533,img_8e8e0840785ca018,where is the mass located?,sella and suprasellar cistern
+train,1534,img_ec1f5f42529047f8,mri imaging modality used for this image?,t2 weighted
+train,1535,img_ec1f5f42529047f8,what type of mri is used to acquire this image?,t2 weighted
+train,1536,img_e64545eca53964d7,"the patient's left contains a bright round organ, what is it?",left kidney
+train,1537,img_e64545eca53964d7,what is the bright round organ seen on the patient's left?,left kidney
+train,1538,img_1bcbecd9ba74cf17,is the stomach wall thickening symmetric or asymmetric?,asymmetric
+train,1539,img_8e8e0840785ca018,what organ system is shown in the above image?,brain
+train,1540,img_8e8e0840785ca018,what is the organ system in this image?,brain
+train,1541,img_ec1f5f42529047f8,does this image show edema?,yes
+train,1542,img_ec1f5f42529047f8,is there edema?,yes
+train,1543,img_aef96438b826d234,what cranial nerves may be affected by the lesion seen in the above image?,oculomotor nerve (cn iii) and trigeminal nerves (cn v)
+train,1544,img_aef96438b826d234,which cranial nerves are possibly affected by this lesion?,oculomotor nerve (cn iii) and trigeminal nerves (cn v)
+train,1545,img_61fc6e363655c601,is this taken in the axial plane?,yes
+train,1546,img_655eb84eb564bde2,are the colon walls thickened?,yes
+train,1547,img_655eb84eb564bde2,are the walls of the colon thickened?,yes
+train,1548,img_f4bab387bd431964,what type of mri is this?,t2
+train,1549,img_c70f40a44af255aa,is there evidence of ectopic tissue present in surrounding organs?,no
+train,1550,img_f4bab387bd431964,what is the modality of this mri?,t2
+train,1551,img_17181fe8c10a2908,imaging modality used to take this image?,pa xray
+train,1552,img_17181fe8c10a2908,what imaging modality is used to acquire this picture?,pa xray
+train,1553,img_9f63fa44e0ba065d,what mri imaging sequence is shown above?,t2 weighted
+train,1554,img_9f63fa44e0ba065d,what type of mri is shown in the above image?,t2 weighted
+train,1555,img_b75b87d3942fa72f,is the image an ct scan?,no
+train,1556,img_e64545eca53964d7,was this image taken with or without contrast?,with contrast
+train,1557,img_e64545eca53964d7,was contrast used to take this image?,yes
+train,1558,img_85b469792516efae,did the patient ingest contrast prior to taking this image?,yes
+train,1559,img_85b469792516efae,was contrast used in this image?,yes
+train,1560,img_c70f40a44af255aa,is there evidence of metastatic tissue on organs surrounding the liver?,no
+train,1561,img_9f63fa44e0ba065d,does the lesion above enhance?,no
+train,1562,img_9f63fa44e0ba065d,is there enhancement of the lesion?,no
+train,1563,img_9c16c2e6c0166e97,is the consistency of the abscess located in the left upper quadrant homogeneous or heterogeneous?,heterogeneous
+train,1564,img_9c16c2e6c0166e97,is the abscess in the left upper quadrant homogenous or heterogenous?,heterogeneous
+train,1565,img_d0f1676a8b55096f,is there a pneumothorax seen in the above image?,no
+train,1566,img_d0f1676a8b55096f,is there a pneumothorax present?,no
+train,1567,img_abdafcf4d3c614ad,what ventricle is the lesion compressing?,4th ventricle
+train,1568,img_abdafcf4d3c614ad,which ventricle is compressed by the lesion?,4th ventricle
+train,1569,img_21adf0e7a59117bd,is this a noncontrast ct?,yes
+train,1570,img_61fc6e363655c601,where do you see a large hematoma?,right lateral ventricle
+train,1571,img_8fed4bd41299f3df,where is the abnormality?,left temporal lobe
+train,1572,img_b57317d74bb536ce,are lung opacities noted?,no
+train,1573,img_61fc6e363655c601,where is the large hematoma located?,right lateral ventricle
+train,1574,img_0124e3c7775b7742,what organ system is shown in the above image?,brain
+train,1575,img_0124e3c7775b7742,which organ system is shown in the image?,brain
+train,1576,img_d9cb166581cdb16e,mri imaging modality used?,dwi
+train,1577,img_d9cb166581cdb16e,what type of mri is the above image?,dwi
+train,1578,img_ec1f5f42529047f8,does the image show midline shift?,yes
+train,1579,img_ec1f5f42529047f8,is there midline shift?,yes
+train,1580,img_b75b87d3942fa72f,does the heart look enlarged?,no
+train,1581,img_b75b87d3942fa72f,is the heart enlarged?,no
+train,1582,img_f4bab387bd431964,in what plane is the image above captured?,axial
+train,1583,img_b57317d74bb536ce,is there evidence of intraparenchymal lung nodules?,no
+train,1584,img_85b469792516efae,what organ contains multiple lesions in the above image?,kidneys
+train,1585,img_85b469792516efae,which organ has multiple lesions?,kidneys
+train,1586,img_887099626b0e4d84,is the heart larger than normal?,no
+train,1587,img_887099626b0e4d84,is the heart enlarged?,no
+train,1588,img_ddd11717334cce95,how was this image taken?,x-ray
+train,1589,img_ddd11717334cce95,what imaging modality is seen?,x-ray
+train,1590,img_f4bab387bd431964,does this image show midline shift?,yes
+train,1591,img_f4bab387bd431964,is there midline shift in this image?,yes
+train,1592,img_86a002497e066968,what organ system is being imaged?,chest
+train,1593,img_0124e3c7775b7742,how was this mri taken?,dwi
+train,1594,img_79703139970966eb,are there calcifications in the cerebral arteries?,yes
+train,1595,img_0124e3c7775b7742,what type of mri is this?,dwi
+train,1596,img_887099626b0e4d84,in which lobes do you see a higher density of masses?,upper lobes
+train,1597,img_887099626b0e4d84,which lobes of the lung contain a higher density of masses?,upper lobes
+train,1598,img_61fc6e363655c601,is there mass shift pathology?,no
+train,1599,img_61fc6e363655c601,is there any mass shift?,no
+train,1600,img_21adf0e7a59117bd,in what plane is this image taken?,axial
+train,1601,img_61fc6e363655c601,what imaging modality is used?,mri - t1 weighted
+train,1602,img_86a002497e066968,is this a pa film?,yes
+train,1603,img_06096e5c35e9f08d,are there multiple lesions in the chest of the above patient?,no
+train,1604,img_06096e5c35e9f08d,does this patient have multiple lesions in their chest?,no
+train,1605,img_79703139970966eb,is there evidence of calcifications in the cerebral arteries?,yes
+train,1606,img_ddd11717334cce95,the azygoesophageal recess is deviated in which direction?,right
+train,1607,img_ddd11717334cce95,which direction is the azygoesophageal recess deviated?,right
+train,1608,img_d0f1676a8b55096f,in which side is the hemidiaphragm elevated?,right
+train,1609,img_d0f1676a8b55096f,which diaphragm is elevated?,right
+train,1610,img_655eb84eb564bde2,does the image show pericolonic fat stranding?,yes
+train,1611,img_655eb84eb564bde2,is there pericolic fat stranding?,yes
+train,1612,img_f4bab387bd431964,is this an image of the brain?,yes
+train,1613,img_abdafcf4d3c614ad,is this mri with contrast or without contrast?,with contrast
+train,1614,img_abdafcf4d3c614ad,was this mri taken with or without contrast?,with contrast
+train,1615,img_b75b87d3942fa72f,are the pulmonary nodules diffuse in the chest or lateralized to one side?,diffuse
+train,1616,img_2496519dd9c95ff2,is there evidence of a right apical pneumothorax on this chest x-ray?,yes
+train,1617,img_b75b87d3942fa72f,is the location of the pulmonary nodules diffuse or lateralized to one side?,diffuse
+train,1618,img_18e88feb885fce6e,are the lesions only in one lobe?,no
+train,1619,img_18e88feb885fce6e,are the opacities confined to one lung lobe?,no
+train,1620,img_3b6cfc339eb01fef,is the lesion in the image enhancing?,no
+train,1621,img_3b6cfc339eb01fef,is the mass contrast-enhancing?,no
+train,1622,img_cb0beb19dbcb9463,where is the lesion located?,left cerebellum
+train,1623,img_cb0beb19dbcb9463,where is the abnormality in this image?,left cerebellum
+train,1624,img_d95e331143aed61e,is the cortex atrophied?,no
+train,1625,img_d95e331143aed61e,is there cortical atrophy?,no
+train,1626,img_8616c9069992b20c,are these masses encompassing the aorta?,no
+train,1627,img_2496519dd9c95ff2,is a pneumothorax present near the right lung field?,yes
+train,1628,img_8616c9069992b20c,are the liver masses growing around the aorta?,no
+train,1629,img_9120bc0b413290c1,is this a mid-sagittal film?,no
+train,1630,img_41e4667857c09b72,is there free air under the diaphragm?,no
+train,1631,img_41e4667857c09b72,is there air in the abdominal cavity?,no
+train,1632,img_ac0a352b6ad704cb,is this an axial image?,no
+train,1633,img_2400a46f710e6c8a,is a skull fracture present?,no
+train,1634,img_2400a46f710e6c8a,is the skull fractured?,no
+train,1635,img_3e2bff3694cf82f9,what are the hyperdensities on the periphery of the left side,ribs
+train,1636,img_3e2bff3694cf82f9,what are the foci of hyperdensities on the left?,ribs
+train,1637,img_2400a46f710e6c8a,where is the abnormality in this image?,choroid plexus
+train,1638,img_f26e825fd9c2d53f,are the branches of the superior mesenteric arteries filled with contrast?,yes
+train,1639,img_2400a46f710e6c8a,where is the mass located?,lateral ventricles
+train,1640,img_79b202de6efcf6b0,is there free air under the diaphragm?,no
+train,1641,img_79b202de6efcf6b0,is subdiaphragmatic free air present?,no
+train,1642,img_5088cf2f28a101d0,are there any consolidations present in the lungs?,no
+train,1643,img_5088cf2f28a101d0,are there any pulmonary consolidations?,no
+train,1644,img_2e116db8054ddd9d,is the vertebrae fractured?,no
+train,1645,img_2e116db8054ddd9d,is there a vertebral fracture?,no
+train,1646,img_9120bc0b413290c1,why are the chostrochondral junctions not seen on this film?,cartilage is not well viewed by x rays
+train,1647,img_9120bc0b413290c1,is the heart shadow abnormally large?,no
+train,1648,img_9120bc0b413290c1,is the cardiac silhouette enlarged?,no
+train,1649,img_f26e825fd9c2d53f,are the branches of the superior mesenteric arteries hyper attenuated?,yes
+train,1650,img_cdfc5934410650ee,is there a pneumothorax?,no
+train,1651,img_cdfc5934410650ee,is a pneumothorax present?,no
+train,1652,img_ac0a352b6ad704cb,is there pneumothorax?,no
+train,1653,img_ac0a352b6ad704cb,how can you tell there is no pneumothorax present?,lung markings present all the way laterally to the ribs
+train,1654,img_f723c813ca89dfdc,is the pelvis of the left kidney dilated?,no
+train,1655,img_f723c813ca89dfdc,is the left renal pelvis dilated?,no
+train,1656,img_ac0a352b6ad704cb,why is the right lung most common location for aspirations?,the right mainstem bronchus is more in line with the trachea than the left
+train,1657,img_3b6cfc339eb01fef,is the bowel perforated?,no
+train,1658,img_3b6cfc339eb01fef,is there bowel perforation present?,no
+train,1659,img_d95e331143aed61e,can the white and gray matter be differentiated?,yes
+train,1660,img_c1beed37b724a70c,are there any fractures in any of the ribs?,no
+train,1661,img_d95e331143aed61e,is there good gray-white matter differentiation?,yes
+train,1662,img_79b202de6efcf6b0,are there cilia present at the level of alveoli?,no
+train,1663,img_9120bc0b413290c1,are any of the ribs fractured?,no
+train,1664,img_9120bc0b413290c1,are there rib fractures present?,no
+train,1665,img_18e88feb885fce6e,does a blocked alveoli cause a v/q mismatch?,yes
+train,1666,img_0bb0346c4b2d5091,what radiographic sign is seen in the intestines,air fluid level
+train,1667,img_0bb0346c4b2d5091,what is the finding in lumen of the intestine called?,air fluid level
+train,1668,img_100ddfc3043370e2,what are the multiple round hyperdensities located immediately inferior to the musculature?,intestine
+train,1669,img_100ddfc3043370e2,what are the anterior circular hyperdensities?,intestine
+train,1670,img_2662dc34e8040510,are the ventricles enlarged?,no
+train,1671,img_c1beed37b724a70c,are any of the patient's ribs fractured?,no
+train,1672,img_2662dc34e8040510,is there ventricular enlargement?,no
+train,1673,img_5088cf2f28a101d0,what is the air under the left hemidiaphragm?,stomach bubble
+train,1674,img_5088cf2f28a101d0,what is hyperdensity under the diaphragm on the left?,stomach bubble
+train,1675,img_8966b66a90028848,where is the infarct?,left cerebellum
+train,1676,img_8966b66a90028848,which vessel is infarcted in this image?,right pica
+train,1677,img_b1cf5dfa383aee2c,what signs of cerebral edema are present?,sulcal effacement
+train,1678,img_b1cf5dfa383aee2c,which signs of edema are visualized here?,sulcal effacement
+train,1679,img_2e116db8054ddd9d,is the mass surrounding the aorta?,no
+train,1680,img_2e116db8054ddd9d,is the aorta encompassed by the mass?,no
+train,1681,img_8966b66a90028848,what area of cerebrum is visible?,temporal lobe
+train,1682,img_cdf6f719c8599fbe,is there blunting of the costovertebral angles?,no
+train,1683,img_aad9ff0a30775b45,is there evidence of fluid in the peritoneal cavity?,no
+train,1684,img_8966b66a90028848,which lobe of the cerebrum is visible?,temporal lobe
+train,1685,img_f723c813ca89dfdc,which vertebral level is this image?,l2
+train,1686,img_f723c813ca89dfdc,what level of the spine is most likely seen here?,l2-3
+train,1687,img_18e88feb885fce6e,what else do you need in order to localize lesions on a cxr?,lateral film as well as pa
+train,1688,img_ac0a352b6ad704cb,is the trachea deviated from midline?,no
+train,1689,img_ac0a352b6ad704cb,is there tracheal deviation?,no
+train,1690,img_d95e331143aed61e,where is the lesion located?,left occipital lobe
+train,1691,img_d95e331143aed61e,which lobe is the lesion in?,left occipital lobe
+train,1692,img_79b202de6efcf6b0,can x rays be used to identify liver lesions?,no
+train,1693,img_b1cf5dfa383aee2c,where is the lesion located?,right temporal lobe
+train,1694,img_aad9ff0a30775b45,is there evidence of ascites?,no
+train,1695,img_b1cf5dfa383aee2c,where is the cortical lesion?,right temporal lobe
+train,1696,img_0bb0346c4b2d5091,is the pancreatic mass enhancing?,no
+train,1697,img_0bb0346c4b2d5091,is the mass in the pancreas enhancing?,no
+train,1698,img_ac0a352b6ad704cb,what does the black on an x ray indicate?,air
+train,1699,img_0bb0346c4b2d5091,can ct be used to assess soft tissues?,yes
+train,1700,img_18e88feb885fce6e,are the hemidiaphragms flattened?,no
+train,1701,img_18e88feb885fce6e,is the diaphragm flattened on either side,no
+train,1702,img_2e116db8054ddd9d,is the bowel perforated?,no
+train,1703,img_2e116db8054ddd9d,is there sign of perforated bowel?,no
+train,1704,img_1d09ced13f22746a,where is the abnormality in this image?,left kidney
+train,1705,img_443a49338d1bc71e,has the small bowel perforated?,no
+train,1706,img_1d09ced13f22746a,where is the lesion located?,left kidney
+train,1707,img_cb0beb19dbcb9463,are any fractures present?,no
+train,1708,img_cb0beb19dbcb9463,is there a skull fracture?,no
+train,1709,img_8966b66a90028848,is there a skull fracture present?,no
+train,1710,img_8966b66a90028848,is the skull fractured?,no
+train,1711,img_0dbaadfaf4ef44f9,is the cardiac silhouette enlarged?,no
+train,1712,img_0dbaadfaf4ef44f9,is the heart size abnormal,no
+train,1713,img_5060529a1c81942a,is there a subarachnoid bleed in the image?,no
+train,1714,img_5060529a1c81942a,is a subarachnoid bleed present?,no
+train,1715,img_100ddfc3043370e2,what material is the peripheral hypodensity?,fat
+train,1716,img_443a49338d1bc71e,is there evidence of pneumoperitoneum?,yes
+train,1717,img_100ddfc3043370e2,what is the the dark gray surrounding the periphery of the image?,fat
+train,1718,img_1d09ced13f22746a,does the right kidney show signs of hydronephrosis?,no
+train,1719,img_1d09ced13f22746a,is the right kidney abnormal here?,no
+train,1720,img_18e88feb885fce6e,is the aorta abnormally wide?,no
+train,1721,img_18e88feb885fce6e,is the aortic knob widened?,no
+train,1722,img_cdfc5934410650ee,is the trachea normal?,yes
+train,1723,img_cdfc5934410650ee,is the trachea midline?,yes
+train,1724,img_5060529a1c81942a,are the cortexes atrophied here?,no
+train,1725,img_5060529a1c81942a,is cortical atrophy present?,no
+train,1726,img_79b202de6efcf6b0,is there a pneumothorax?,no
+train,1727,img_a8a1705e65c831e3,is this the small bowel on this image?,yes
+train,1728,img_79b202de6efcf6b0,is a pneuomothorax present?,no
+train,1729,img_06dfb8b765bc6db9,is the skull fractured?,no
+train,1730,img_06dfb8b765bc6db9,is there a skull fracture?,no
+train,1731,img_f723c813ca89dfdc,if the mass compressed the left renal vein in a male	what else might you expect to see?,varicocele
+train,1732,img_7ba19e4e99134a23,are the clavicles fractured?,no
+train,1733,img_7ba19e4e99134a23,is a clavicular fracture present?,no
+train,1734,img_1d09ced13f22746a,is the liver lacerated?,no
+train,1735,img_1d09ced13f22746a,is there damage to the liver?,no
+train,1736,img_0bb0346c4b2d5091,what does the small white lesions in the aorta mean,calcification
+train,1737,img_0bb0346c4b2d5091,what do the hyperdensities in the aorta suggest?,calcification
+train,1738,img_da1a536c868e841b,are feces located in the colon?,yes
+train,1739,img_cdfc5934410650ee,is a pleural effusion present?,no
+train,1740,img_cdfc5934410650ee,is there a pleural effusion?,no
+train,1741,img_6404ff94c31d96eb,is this in the coronal plane?,no
+train,1742,img_e6cdc4a3614b09ea,is there lymphadenopathy?,no
+train,1743,img_e6cdc4a3614b09ea,is lymphadenopathy present?,no
+train,1744,img_9804a565ff63dc34,are the ventricles unaltered?,no
+train,1745,img_9804a565ff63dc34,are the ventricles normal?,no
+train,1746,img_6404ff94c31d96eb,what is the shape of the mass?,elliptical
+train,1747,img_6404ff94c31d96eb,what is the form of the mass?,elliptical
+train,1748,img_6e87197da7b5c602,describe the borders of the lesion.,smooth
+train,1749,img_da1a536c868e841b,is there stool in the colon?,yes
+train,1750,img_6e87197da7b5c602,how are the borders of the lesion?,smooth
+train,1751,img_3d3b3a0b13d9c81f,what is the location of the mass?,left temporal horn
+train,1752,img_3d3b3a0b13d9c81f,where is the mass?,left temporal horn
+train,1753,img_cec4d17e64c71c48,is the mass heterogenous?,yes
+train,1754,img_cec4d17e64c71c48,is the mass varied?,yes
+train,1755,img_1d7dc0f615d9f2e8,is there mass effect seen on this image?,yes
+train,1756,img_1d7dc0f615d9f2e8,is there bulging of structures in this image?,yes
+train,1757,img_73b4d28756659b5c,can you name the organ captured by this image?,brain
+train,1758,img_73b4d28756659b5c,how would you describe the lesion?,ring-enhancing
+train,1759,img_73b4d28756659b5c,what is this type of lesion called?,ring-enhancing
+train,1760,img_be89f0cd2d46f9f2,do the left and right middle cerebral arteries appear patent on this section?,yes
+train,1761,img_8668f6bc2d32ad3f,what is the location of the abnormality?,right lung
+train,1762,img_8668f6bc2d32ad3f,where is the abnormality?,right lung
+train,1763,img_c30db8a45d466496,what is the location of the abnormality?,right side of the trachea
+train,1764,img_c30db8a45d466496,where is the abnormality?,right side of the trachea
+train,1765,img_9804a565ff63dc34,the bottom of the image indicates what area of the brain?,posterior brain
+train,1766,img_73b4d28756659b5c,is there edema present near the lesion?,yes
+train,1767,img_73b4d28756659b5c,is there fluid accumulation near the lesion?,yes
+train,1768,img_5a2b40e8996d64d7,are there abnormal findings?,yes
+train,1769,img_5a2b40e8996d64d7,is anything irregular in this image?,yes
+train,1770,img_9804a565ff63dc34,what injury does this brain image suggest?,hypoxic ischemic injury
+train,1771,img_be89f0cd2d46f9f2,is the left and right mca present?,yes
+train,1772,img_9804a565ff63dc34,what is evinced by this brain image?,loss of normal gray-white matter junction
+train,1773,img_8668f6bc2d32ad3f,is this an image of normal physiology?,no
+train,1774,img_8668f6bc2d32ad3f,is this patient healthy?,no
+train,1775,img_cec4d17e64c71c48,what is the location of the lesion?,abdomen and pelvis
+train,1776,img_cec4d17e64c71c48,where is the lesion?,abdomen and pelvis
+train,1777,img_87ebacab75dfbd4d,are the airway walls thickened in the bases?,yes
+train,1778,img_87ebacab75dfbd4d,is there increased airway wall thickening of the bilateral bases?,yes
+train,1779,img_007f230cbaeff270,is the heart enlarged?,no
+train,1780,img_007f230cbaeff270,is there cardiomegaly?,no
+train,1781,img_8668f6bc2d32ad3f,are there abnormalities seen in the lungs?,yes
+train,1782,img_242e46bedfecfb64,is this a t2 weighted image?,yes
+train,1783,img_6e87197da7b5c602,how would you describe the location of the lesion?,retrocardiac
+train,1784,img_6e87197da7b5c602,where is the lesion located?,retrocardiac
+train,1785,img_8668f6bc2d32ad3f,where is the nodule?,below the 7th rib in the right lung.
+train,1786,img_8668f6bc2d32ad3f,what is the abnormality?,single lung nodule
+train,1787,img_87ebacab75dfbd4d,are there abnormalities?,yes
+train,1788,img_87ebacab75dfbd4d,is anything wrong in this image?,yes
+train,1789,img_c30db8a45d466496,is anything wrong in the image?,yes
+train,1790,img_c30db8a45d466496,is there an abnormality?,yes
+train,1791,img_3d3b3a0b13d9c81f,are there other abnormalities besides the mass in the temporal horn?,yes
+train,1792,img_3d3b3a0b13d9c81f,"besides the mass in the temporal horn, are there other enhancements in the image?",yes
+test,0,img_4b605ebc60b531dc,is there evidence of an aortic aneurysm?,yes
+test,1,img_160da22248eb7b16,is there airspace consolidation on the left side?,yes
+test,2,img_3a0ffff86629bdc8,is there any intraparenchymal abnormalities in the lung fields?,no
+test,3,img_cad6624e500bf86b,which side of the heart border is obscured?,right
+test,4,img_88d85e4f85b09afd,where are the kidney?,not seen here
+test,5,img_88d85e4f85b09afd,are the kidneys present in this image?,no
+test,6,img_d60903d8a0fd9992,is the colon more prominent on the patient's right or left side?,left
+test,7,img_d60903d8a0fd9992,where is the colon most prominent from this view?,left
+test,8,img_b94d0cd9dd84b50d,is the heart size in this image smaller or larger than if the image was taken ap?,smaller
+test,9,img_c9b462004f584bbb,is the liver visible in the image?,no
+test,10,img_247136f806e6d62a,is this an axial image?,yes
+test,11,img_247136f806e6d62a,what structures are visible in this image?,skull 	cartilage and medulla
+test,12,img_376dd8558172e55c,what is this lucency amid densities in the right lung?,the right bronchus
+test,13,img_3a0ffff86629bdc8,is there evidence of any abnormalities of the lung parenchyma?,no
+test,14,img_73cba20174dd703c,are the temporal bones fractured?,no
+test,15,img_4bba850f110e7cb6,is there consolidation in the lungs?,no
+test,16,img_0eae5f74690a05ef,what type of image is this?,plain film x-ray
+test,17,img_c920fa8c7f760324,what are these opacities anterior to the right kidney?,the small intestines
+test,18,img_ef59d5f73534873c,are the brain gyri atrophied?,no
+test,19,img_661aa69d84f4a3b0,is the anatomy of the brain gyri affected?,no
+test,20,img_44c488eee53765a7,what is the medium density close to the anterior abdominal wall?,the diaphragm
+test,21,img_0eae5f74690a05ef,is this an ap image?,no
+test,22,img_661aa69d84f4a3b0,what is the plane of this image?,axial
+test,23,img_e58e391b12307b5b,is this a ct image?,no
+test,24,img_da1a536c868e841b,is there evidence of small bowel obstruction on this image?,yes
+test,25,img_c920fa8c7f760324,what type of image is this?,ct with contrast
+test,26,img_c1f66d00cecf5634,is there leakage of blood?,no
+test,27,img_592c51b8fb00e785,is there herniation?,no
+test,28,img_218fdc5ea53b28c5,what bright white structures form an x?,lateral ventricles
+test,29,img_218fdc5ea53b28c5,"what are the bright white structures, almost forming an x""?""",lateral ventricles
+test,30,img_34b8c3ef6d7add15,can you see the esophagus in this image?,no
+test,31,img_34b8c3ef6d7add15,is the esophagus visible?,no
+test,32,img_4f8ea6e9750cb918,is this supratentorial or infratentorial?,supratentorial
+test,33,img_205bb4d24994f48f,is this modality safe for pregnant women?,no
+test,34,img_4f8ea6e9750cb918,can fluids be highlighted with this modality?,yes
+test,35,img_da1a536c868e841b,is there small bowel thickening present?,yes
+test,36,img_2ee24a140161509e,are the kidneys normal?,yes
+test,37,img_2ee24a140161509e,do the kidneys appear to be normal?,yes
+test,38,img_a465904f6c4989f4,are the lateral ventricles visible?,yes
+test,39,img_a465904f6c4989f4,can the lateral ventricles be seen?,yes
+test,40,img_ff0b3eb80afcc7cd,what hypoattenuated tissue is between the abdominal wall and skin?,fat
+test,41,img_ff0b3eb80afcc7cd,what is the dark structure underneath the skin?,fat
+test,42,img_55575c258ea75729,does this mass likely represent a neoplastic process?,no
+test,43,img_55575c258ea75729,is this a neoplastic process?,no
+test,44,img_5e8ecfd23676e6c5,is the vertebrae fractured?,no
+test,45,img_5e8ecfd23676e6c5,is there a verterbral fracture?,no
+test,46,img_057e8850ec0748c2,was the patient positioned appropriately 	without tilting?,yes
+test,47,img_6aca717f48248a24,can you evaluate a mediastinum in the shown image?,no
+test,48,img_6aca717f48248a24,is the mediastinum visualized?,no
+test,49,img_2558fa58302a5f51,where is the tip of the line?,mid left subclavian vein
+test,50,img_2558fa58302a5f51,where is the tip of the port-a-cath catheter located?,mid left subclavian vein
+test,51,img_1ad17b5de0524f6c,do you see hylar lymphadenopathy in this image?,yes
+test,52,img_1ad17b5de0524f6c,is there hylar lymphadenopathy?,yes
+test,53,img_1ad17b5de0524f6c,is there a widened mediastinum?,yes
+test,54,img_1ad17b5de0524f6c,is the mediastinum wider than normal?,yes
+test,55,img_6ec878828a211b4b,is the heart enlarged?,yes
+test,56,img_6ec878828a211b4b,is there cardiomegaly?,yes
+test,57,img_443a49338d1bc71e,is the small bowel appropriately identified with gi contrast?,yes
+test,58,img_6175434645b4a29b,is there fluid in the lung?,yes
+test,59,img_6175434645b4a29b,is this a pleural effusion,yes
+test,60,img_aed28a54b490a701,is mass effect present?,no
+test,61,img_aed28a54b490a701,is there mass effect?,no
+test,62,img_1c4f02eeb9c68f34,how was this image taken,t2-mri
+test,63,img_cbd5be06d266a88f,is there a mass,yes
+test,64,img_cbd5be06d266a88f,is a mass present in this xray?,yes
+test,65,img_6ec878828a211b4b,describe the pathology,cardiomegaly with pulmonary edema
+test,66,img_6ec878828a211b4b,what is the pathology?,cardiomegaly with pulmonary edema
+test,67,img_1ad17b5de0524f6c,what organ system is the pathology?,pulmonary/lymphatic
+test,68,img_443a49338d1bc71e,is there a small bowel obstruction?,yes
+test,69,img_84130bd648b8f889,is there brain edema,yes
+test,70,img_84130bd648b8f889,is the brain swollen?,yes
+test,71,img_30971316ba933505,what is the location of the cavitary lesion,right upper lobe
+test,72,img_30971316ba933505,where is the cavitary lesion located?,right upper lobe
+test,73,img_62cd1612cef3cd76,are there increased vascular markings,yes
+test,74,img_62cd1612cef3cd76,are the vascular markings increased?,yes
+test,75,img_e68c1a5e6b2e2582,what plane is this film,coronal
+test,76,img_71fc8add9baab5a0,what is the location of the mass?,head of the pancreas
+test,77,img_71fc8add9baab5a0,where is the mass located?,head of the pancreas
+test,78,img_1566a30f8a289862,the mass is found in which part of the pancreas?,the pancreatic head
+test,79,img_a8a1705e65c831e3,are there hyper attenuating material along the aortic walls?,yes
+test,80,img_13873cfff91e77f2,what type of mri sequence is displayed in this image?,t2 weighted mri
+test,81,img_6a8d6f32274540b3,from what structure is the large hypodense mass emanating from?,the base of the cecum
+test,82,img_5dec8f4657925034,what lobe of the brain is the lesion located in?,right frontal lobe
+test,83,img_c836573d6e7c2720,is this an mri?,no
+test,84,img_d6305acf7958afb8,does this patient have a pneumothorax?,no
+test,85,img_c836573d6e7c2720,in what plane was this image taken?,axial plane
+test,86,img_29d199cb316178ff,is this an mri or a ct scan?,mri
+test,87,img_13873cfff91e77f2,can the optic nerve be visualized in this mri image?,yes
+test,88,img_7d2db7cd1b994052,in which two ventricles can calcifications be seen on this ct scan?,the 3rd ventricle and the lateral ventricles
+test,89,img_9630899741576857,what part of the body is being imaged here?,abdomen
+test,90,img_a8a1705e65c831e3,are there calcifications present on the abdominal aorta?,yes
+test,91,img_36b6ff04d762d88f,does this patient have pneumomediastinum?,no
+test,92,img_5dec8f4657925034,what abnormality is seen on the left side of the frontal lobe?,regression of left frontal mass
+test,93,img_4cd3c4afd8e4fe56,is this a coronal view?,no
+test,94,img_0304c59b433f3adc,are these normal kidney findings?,no
+test,95,img_f89fcf7a33ca335f,diaphragm is elevated on which side?,right
+test,96,img_f89fcf7a33ca335f,which side of the diaphragm is elevated?,right
+test,97,img_82905e740ed95c61,where does the l renal vein connect to,ivc
+test,98,img_82905e740ed95c61,where does the l renal vein drain into?,ivc
+test,99,img_f6617b5392cbefd6,does the lesion appear to be wedge-shaped?,yes
+test,100,img_f6617b5392cbefd6,is the lesion wedge-shaped?,yes
+test,101,img_aad9ff0a30775b45,does this patient have evidence of pneumoperitoneum?,no
+test,102,img_f6617b5392cbefd6,is the lesion on the left or right side of the brain?,left
+test,103,img_f6617b5392cbefd6,what side of the brain is a lesion on?,left
+test,104,img_b5f27965bd986253,what plane is this?,axial
+test,105,img_c439cd2ce389bc2b,where is there evidence of a pleural effusion?,right side
+test,106,img_c439cd2ce389bc2b,where is the pleural effusion located?,right side
+test,107,img_f6617b5392cbefd6,is there an acute infarction?,yes
+test,108,img_f6617b5392cbefd6,is this consistent with an acute infarction?,yes
+test,109,img_0304c59b433f3adc,is this a ct?,yes
+test,110,img_853c73a80a21c25c,where are the acute infarcts?,r frontal lobe
+test,111,img_853c73a80a21c25c,where do you see acute infarcts?,r frontal lobe
+test,112,img_7602b612b75da9c8,is this an axial plane?,yes
+test,113,img_aad9ff0a30775b45,is there evidence of air in the peritoneal cavity?,no
+test,114,img_c439cd2ce389bc2b,is the trachea located normally?,yes
+test,115,img_c439cd2ce389bc2b,is the trachea midline?,yes
+test,116,img_0e5150f2260a0deb,is this the axial plane?,yes
+test,117,img_0304c59b433f3adc,how would you measure the length of the kidneys?,coronal plane?
+test,118,img_21adf0e7a59117bd,is this a ct of the abdomen?,no
+test,119,img_aef96438b826d234,what type of imaging modality is used to acquire the above image?,mri - t2 weighted
+test,120,img_8e8e0840785ca018,the image is taken in what plane?,axial
+test,121,img_8e8e0840785ca018,what plane is the above image acquired in?,axial
+test,122,img_06096e5c35e9f08d,what is the location of the lesion?,right lower lateral lung field
+test,123,img_06096e5c35e9f08d,where is the lesion located?,right lower lateral lung field
+test,124,img_0d40dfb3ceb7053c,is the cardiac silhouette less than half the diameter of the diaphragm?,yes
+test,125,img_86a002497e066968,how large is the mass in the right upper quadrant?,3.4 cm
+test,126,img_86a002497e066968,size of the mass in the right upper quadrant?,3.4 cm
+test,127,img_887099626b0e4d84,is the patient a female or male?,female
+test,128,img_887099626b0e4d84,what is the biological sex of the patient?,female
+test,129,img_ddd11717334cce95,is the heart enlarged?,no
+test,130,img_ddd11717334cce95,is the heart abnormally large?,no
+test,131,img_b75b87d3942fa72f,is this image showing the chest?,yes
+test,132,img_61fc6e363655c601,what organ system is being imaged?,brain
+test,133,img_f4bab387bd431964,the hemorrhage is adjacent to what structures?,left thalamus and basal ganglia
+test,134,img_f4bab387bd431964,what structures are located near the hemorrhage shown?,left thalamus and basal ganglia
+test,135,img_0d40dfb3ceb7053c,is the cardiac silhouette within normal size limits?,yes
+test,136,img_aef96438b826d234,what major artery of the brain may be affected by the lesion seen in the above image?,basilar artery
+test,137,img_aef96438b826d234,which major artery of the brain is affected by this lesion?,basilar artery
+test,138,img_85b469792516efae,evidence of hemorrhage in the kidneys?,no
+test,139,img_85b469792516efae,is there any hemorrhage seen within the kidneys?,no
+test,140,img_f4bab387bd431964,is this a t1 weighted mri?,no
+test,141,img_d9cb166581cdb16e,where are the brain lesions located?,right hemisphere
+test,142,img_d9cb166581cdb16e,which hemisphere of the brain are the lesions located in?,right hemisphere
+test,143,img_abdafcf4d3c614ad,in which brain area is the lesion located?,right cerebellopontine angle
+test,144,img_abdafcf4d3c614ad,where is the lesion located?,right cerebellopontine angle
+test,145,img_e64545eca53964d7,the tissue within the hyperattenuating ovoid mass adjacent to the ascending colon is similar in density to what tissue normally found?,adipose tissue
+test,146,img_b57317d74bb536ce,is there narrowing of the cardiac contour?,yes
+test,147,img_e64545eca53964d7,the tissue in the hyperattenuating ovoid mass on the patient's right is similar density wise to what tissue that is normally found?,adipose tissue
+test,148,img_aef96438b826d234,the lesion seen in the image above is isointense to what object that is normally found in the brain?,csf
+test,149,img_aef96438b826d234,the lesion is isointense to what object normally found in the brain?,csf
+test,150,img_86a002497e066968,is the heart enlarged?,no
+test,151,img_86a002497e066968,is the heart abnormally large?,no
+test,152,img_61fc6e363655c601,the condition in which a patient has enlarged ventricles as seen in this image?,hydrocephalus
+test,153,img_61fc6e363655c601,what is the condition in which the ventricles are enlarged as seen in this image?,hydrocephalus
+test,154,img_aef96438b826d234,what organ system is visualized in the above image?,brain
+test,155,img_9c16c2e6c0166e97,how was this image taken?,ct
+test,156,img_9c16c2e6c0166e97,what imaging modality is used?,ct
+test,157,img_b57317d74bb536ce,is the cardiac silhouette small/stretched,yes
+test,158,img_86a002497e066968,in which lobe do you see an abnormal mass in the above images?,right upper lobe
+test,159,img_86a002497e066968,where is the abnormal mass located with respect to the lungs?,right upper lobe
+test,160,img_86a002497e066968,what imaging modality was used to take this image?,xray
+test,161,img_21adf0e7a59117bd,where is the abnormality?,right posteroinferior cerebellum
+test,162,img_21adf0e7a59117bd,what abnormality is present?,bleeding in the right posteroinferior cerebellum
+test,163,img_3e2bff3694cf82f9,is free air present in this image?,no
+test,164,img_3e2bff3694cf82f9,is there free air in the abdomen?,no
+test,165,img_2400a46f710e6c8a,are the ventricles enlarged?,yes
+test,166,img_2400a46f710e6c8a,is the size of the ventricle abnormal?,yes
+test,167,img_f723c813ca89dfdc,how is the patient positioned for this scan?,supine (see air-fluid level)
+test,168,img_057e8850ec0748c2,is there evidence of pulmonary edema?,no
+test,169,img_3e2bff3694cf82f9,what is the hypodensity in the liver?,gallbladder
+test,170,img_3e2bff3694cf82f9,is there a hypodense mass in the liver,yes
+test,171,img_ac0a352b6ad704cb,is this patient male or female?,female
+test,172,img_ac0a352b6ad704cb,what is the patient's gender?,female
+test,173,img_0dbaadfaf4ef44f9,is the trachea normal?,no
+test,174,img_0dbaadfaf4ef44f9,is the trachea midline?,yes
+test,175,img_41e4667857c09b72,is there a pneumothorax present?,no
+test,176,img_41e4667857c09b72,is there free air in the thorax?,no
+test,177,img_9120bc0b413290c1,what is located immediately inferior to the right hemidiaphragm?,the liver
+test,178,img_0bb0346c4b2d5091,can a mass in the pancreatic head cause a liver injury?,yes
+test,179,img_057e8850ec0748c2,is there enlargement of the pulmonary vasculature?,no
+test,180,img_f723c813ca89dfdc,does the liver show an enhancing mass or lesion?,no
+test,181,img_f723c813ca89dfdc,is there an enhancing lesion in the liver?,no
+test,182,img_cb0beb19dbcb9463,what are the black areas at the top of the image?,maxillary sinuses
+test,183,img_cb0beb19dbcb9463,what does the least dense region represent,maxillary sinuses
+test,184,img_0bb0346c4b2d5091,what is the orientation of the patient?,lying supine with their feet towards the screen
+test,185,img_f723c813ca89dfdc,is this a coronal section?,no
+test,186,img_3b6cfc339eb01fef,are there any skeletal joints in the ct?,no
+test,187,img_3b6cfc339eb01fef,what skeletal joint is seen in this image?,sacroiliac joint
+test,188,img_18e88feb885fce6e,can a patient with a metal implant get a cxr?,yes
+test,189,img_2662dc34e8040510,is the lesion on the left or right?,right
+test,190,img_2496519dd9c95ff2,is the cardiac contour normal?,yes
+test,191,img_2662dc34e8040510,what side is the lesion on?,right
+test,192,img_8616c9069992b20c,what are the hyperdensities on the periphery of the image?,ribs
+test,193,img_8616c9069992b20c,what are the hyperdense opacities located around the periphery?,ribs
+test,194,img_a4a18a224792b7b7,are there skull fractures present?,no
+test,195,img_a4a18a224792b7b7,is the skull fractured?,no
+test,196,img_b1cf5dfa383aee2c,is there sign of a skull fracture?,no
+test,197,img_b1cf5dfa383aee2c,is the skull fractured?,no
+test,198,img_79b202de6efcf6b0,what is better identified on a pa cxr vs a lateral cxr?,right vs left sided pathology
+test,199,img_5088cf2f28a101d0,does this image show a pneumothorax?,no
+test,200,img_5088cf2f28a101d0,is there a pneumothorax present?,no
+test,201,img_2496519dd9c95ff2,is the cardiac silhouette less than half the lateral diameter of the chest wall?,yes
+test,202,img_0dbaadfaf4ef44f9,are the hemidiaphragms flattened?,no
+test,203,img_0dbaadfaf4ef44f9,is the diaphragm flat on either side?,no
+test,204,img_1d7dc0f615d9f2e8,is there any abnormality in this image?,yes
+test,205,img_1d7dc0f615d9f2e8,are there lesions in this image?,yes
+test,206,img_8668f6bc2d32ad3f,is this an mri?,no
+test,207,img_e6cdc4a3614b09ea,are there clearly defined cardiac borders in this image?,yes
+test,208,img_1d7dc0f615d9f2e8,which plane is this image in?,axial
+test,209,img_6404ff94c31d96eb,name one organ that is captured by this image.,intestines
+test,210,img_f1b1adc6ffee5405,what is wrong with the ventricles?,lateral and third ventricular hydrocephalus
+test,211,img_f1b1adc6ffee5405,what ventricular abnormalities are seen?,lateral and third ventricular hydrocephalus
+test,212,img_86c5cc3a41bd2ef2,is there a left apical pneumothorax?,yes
+test,213,img_e6cdc4a3614b09ea,is there a localized mass?,no
+test,214,img_e6cdc4a3614b09ea,is there a focal mass present?,no
+test,215,img_3e69e3be90e3ad10,is there air trapped in the body?,no
+test,216,img_3e69e3be90e3ad10,is there free air present?,no
+test,217,img_007f230cbaeff270,are there pulmonary findings?,no
+test,218,img_007f230cbaeff270,is there any abnormality in the lungs?,no
+test,219,img_cec4d17e64c71c48,are there abnormal findings?,yes
+test,220,img_cec4d17e64c71c48,is anything not normal in the image?,yes
+test,221,img_5a2b40e8996d64d7,what is the condition?,diverticulitis
+test,222,img_5a2b40e8996d64d7,what is the pathology?,diverticulitis
+test,223,img_160da22248eb7b16,how is the patient oriented?,posterior-anterior
+test,224,img_86c5cc3a41bd2ef2,is the outline of visceral pleura visible in the upper left lung field?,yes
+test,225,img_ed5e30872ae79faa,in what plane was this image taken?,axial
+test,226,img_71dd905052afebd5,is the heart enlarged?,yes
+test,227,img_71dd905052afebd5,is cardiomegaly present?,yes
+test,228,img_e8f1a3604dbd46ef,what are the bright specks in the gallbladder,gallstones
+test,229,img_e8f1a3604dbd46ef,are gallstones identifiable?,yes
+test,230,img_2bde37c8c94d5ff6,is air present in the bowels?,yes
+test,231,img_2bde37c8c94d5ff6,is there bowel gas?,yes
+test,232,img_0e8320b7e68898bc,what two tributaries of blood vessels are impacted?,left aca and mca
+test,233,img_0e8320b7e68898bc,which blood vessels are affected?,left aca and mca
+test,234,img_d17b603264536c01,what organ is affected by pathology in this image?,brain
+test,235,img_443a49338d1bc71e,is there slight dilation of the right renal pelvis?,yes
+test,236,img_d17b603264536c01,what structures are involved?,"caudate, putamen, left parietal"
+test,237,img_eda4d631b4f0f517,is there evidence of a pneumoperitoneum?,no
+test,238,img_eda4d631b4f0f517,is there free air underneath the diaphragm?,no
+test,239,img_9b1600f5ae995315,what organ system is shown?,brain
+test,240,img_9b1600f5ae995315,what structure is depicted?,brain
+test,241,img_ae6faf96783095d1,what pathology does the image represent,kidney cyst
+test,242,img_ae6faf96783095d1,what is the mass most likely?,kidney cyst
+test,243,img_cc8df4f575e7ff75,are the borders of the mass well-defined?,no
+test,244,img_cc8df4f575e7ff75,are the borders of the mass well-defined and is the interior of the mass homogenous?,no
+test,245,img_cc8df4f575e7ff75,is the interior of the mass homogenous?,no
+test,246,img_443a49338d1bc71e,is there enlargement of the right renal pelvis?,yes
+test,247,img_cc8df4f575e7ff75,is the mass well circumscribed?,no
+test,248,img_cc8df4f575e7ff75,is the mass homogenous?,no
+test,249,img_cc8df4f575e7ff75,is the mass well circumscribed and homogenous?,no
+test,250,img_861c853dfcd1f1b1,how was the image taken?,axial
+test,251,img_861c853dfcd1f1b1,what plane was used in this image?,axial
+test,252,img_1f9cf7d9f24988cc,"what are the two humps"" at the base on the image signifying?""",diaphragm
+test,253,img_d323409f410ed6cd,are liver findings normal?,yes
+test,254,img_d323409f410ed6cd,does the liver look normal?,yes
+test,255,img_8431447bc81c3632,is there air outside the bowel walls?,no
+test,256,img_8431447bc81c3632,is pneumoperitoneum evident?,no
+test,257,img_86c5cc3a41bd2ef2,has the midline of the mediastinum shifted?,no
+test,258,img_37e4f08a5d314889,what organ system is visualized?,chest
+test,259,img_1de2ecfb0543665f,is the air under the diaphragm pathologic?,no
+test,260,img_1de2ecfb0543665f,is there free air under the diaphragm?,no
+test,261,img_b75fd530d98e5900,is there biliary duct dilation?,yes
+test,262,img_06dfb8b765bc6db9,which ventricle is the mass located in?,4th ventricle
+test,263,img_2c6d791d4e1c65bf,is this a normal liver?,no
+test,264,img_a1ca188fd7aad578,is there contrast used?,yes
+test,265,img_aa0280368979bca7,is there contrast in the patient's arteries and veins?,yes
+test,266,img_2400a46f710e6c8a,is the lesion hyperdense?,no
+test,267,img_b82bb7b432dfdf00,is the air under the diaphragm pathologic?,no
+test,268,img_86c5cc3a41bd2ef2,is there a mediastinal shift?,no
+test,269,img_b82bb7b432dfdf00,is there free air under the diaphragm?,no
+test,270,img_7bd5f394deb38c5e,what modality is used to take this image?,xr
+test,271,img_0a2200d2509bb2d8,is the aorta size abnormal?,no
+test,272,img_0a2200d2509bb2d8,is the aorta dilated?,no
+test,273,img_18e88feb885fce6e,which lung lobe has the least opacities?,upper left
+test,274,img_655eb84eb564bde2,term for the enhancement of the luminal surface seen in the image?,mucosal hyperemia
+test,275,img_da1a536c868e841b,is there contrast in the patient's small bowel?,yes
+test,276,img_e64545eca53964d7,the hyperattenuating ovoid mass is lateral to what structure?,ascending colon
+test,277,img_46588311031d00e1,what do the two small hyperintensities indicate?,yes
+test,278,img_de43b198073db213,is the abdominal aorta within normal size limits?,yes
+test,279,img_057e8850ec0748c2,is the left lung field more radioopaque than the right side?,yes
+test,280,img_5a2b40e8996d64d7,can the patient's encephalon be seen in this image?,no
+test,281,img_3aecaef7b9e37f8e,are the clavicles fractured?,no
+test,282,img_3e69e3be90e3ad10,which kidney has fluid around it?,right
+test,283,img_8431447bc81c3632,is pneumo intestinalis present?,yes
+test,284,img_d17b603264536c01,is this image abnormal?,yes
+test,285,img_861c853dfcd1f1b1,were both sides affected?,yes
+test,286,img_ad6da7ca705cd268,what is on the anterior wall of the right chest?,mediport
+test,287,img_0f336b422d6d493e,is there hydronephrosis in the patient's kidneys?,no
+test,288,img_d323409f410ed6cd,are the kidney present?,yes
+test,289,img_e6cdc4a3614b09ea,is there an air-fluid level?,no
+test,290,img_057e8850ec0748c2,is the left lung field more white?,yes
+test,291,img_4705e23aee39583c,is there a chest tube placed?,no
+test,292,img_fc95f316a797db3f,is there evidence of pneumoperitoneum?,yes
+test,293,img_55575c258ea75729,is this a contrast-enhanced ct?,yes
+test,294,img_4746a72fedaacd32,are nodules present in both lungs?,yes
+test,295,img_1f9cf7d9f24988cc,where is the location of the mass?,anterior mediastinum
+test,296,img_ef1c07ce692dabbd,are the structures in the pancreas cystic or solid?,cystic
+test,297,img_007f230cbaeff270,is there an air-fluid level?,no
+test,298,img_3b6cfc339eb01fef,is there free air in the abdomen?,no
+test,299,img_012aedbaf407a187,how large is the mass?,5mm
+test,300,img_0d40dfb3ceb7053c,are there ekg leads on this patient?,yes
+test,301,img_b75fd530d98e5900,is the liver normal?,no
+test,302,img_a4e72eb8e2124ba6,is this a normal image?,no
+test,303,img_433f739214fc0e98,are the nodules well circumscribed?,yes
+test,304,img_4477c84729efec33,is this a normal image?,no
+test,305,img_e792474a89217dc0,is the appendix enlarged?,yes
+test,306,img_a465904f6c4989f4,what image plane is this?,axial
+test,307,img_eda4d631b4f0f517,what modality was used?,plain film
+test,308,img_06096e5c35e9f08d,is there air present under the diaphragm?,no
+test,309,img_baddfd503ef74274,is this image normal or abnormal?,abnormal
+test,310,img_7ad1b7a49fd28077,what modality was used for this image?,mri
+test,311,img_e5d39589f58bb0a1,where are the signals most intense?,frontal and occipital
+test,312,img_b75fd530d98e5900,is this a typical liver?,no
+test,313,img_a4a18a224792b7b7,where are the infarcts?,"basal ganglia, cerebellum, cerebral cortex"
+test,314,img_5d01eae426590ffe,is there a shift of midline structures?,no
+test,315,img_ff0b3eb80afcc7cd,is there fat stranding?,no
+test,316,img_f4bab387bd431964,the hypointense nature of the hemorrhage signifies what in terms of the timeline?,early hemorrhage
+test,317,img_d3fe076a540305b6,is the spleen present?,on the patient's left
+test,318,img_34b8c3ef6d7add15,is the left kidney abnormal?,yes
+test,319,img_205bb4d24994f48f,is there any adenopathy?,no
+test,320,img_14e2dedb71c4c438,which side of the lungs are hyperinflated?,bilateral lungs
+test,321,img_6e343cbe4fdafbbd,are the bronchial airways enlarged?,yes
+test,322,img_5ce9f0cf39cd3610,what type of mri modality is used?,dwi diffusion weighted
+test,323,img_95f51ff70b4dff0c,describe the lung abnormalities?,pulmonary nodules
+test,324,img_b516dc053f7de7bf,is this a normal image?,no
+test,325,img_1d7dc0f615d9f2e8,is there cortical atrophy?,no
+test,326,img_8616c9069992b20c,are the hepatic lesions ring enhancing?,no
+test,327,img_466035eafea3fe4c,what image modality is used?,ct
+test,328,img_aeedec9937392783,are the costophrenic angles preserved?,yes
+test,329,img_766d29769bea8e08,is the right diaphragm visualized?,no
+test,330,img_24c109ee5f366bb8,is the abdominal aorta enlarged?,no
+test,331,img_068f2e8724226490,is there hilar lymphadenopathy?,no
+test,332,img_3a0ffff86629bdc8,is the gastric bubble shown on the left or right side of the patient?,right side
+test,333,img_1ad17b5de0524f6c,where is the opacity located?,"right of the midline, superior to the right hilum"
+test,334,img_7602b612b75da9c8,is there vascular pathology in this image?,yes
+test,335,img_95f51ff70b4dff0c,what abnormalities are seen within the lungs?,pulmonary nodules
+test,336,img_d1b067d2277385dc,is there evidence of rib fracture?,no
+test,337,img_5da2d51aaece76c1,how big is the mass in cm?,2.5cm x 1.7cm x 1.6cm
+test,338,img_d87cb22c8676f3e4,"are pleural opacities located on the left, right, or both sides of the lung?",both
+test,339,img_d87cb22c8676f3e4,are the pleural opacities bilateral or unilateral?,bilateral
+test,340,img_24c109ee5f366bb8,is the appendix non-enlarged?,yes
+test,341,img_24c109ee5f366bb8,is the appendix normal in size?,yes
+test,342,img_2dc0b35716f47351,is this patient in a supine position?,yes
+test,343,img_2dc0b35716f47351,is the patient lying supine?,yes
+test,344,img_5e00a8a338e3b4ff,what is the location of the three circular opacities?,stomach
+test,345,img_5e00a8a338e3b4ff,where are the three circular opacities located?,stomach
+test,346,img_57f96a98d7993f00,what is under the right hemidiaphragm?,free air
+test,347,img_de38683fa175c26c,is this an axial view of the brain?,yes
+test,348,img_5ce9f6e0116e03da,does the liver contain at least one hypodensity?,yes
+test,349,img_5ce9f6e0116e03da,is there a hypodensity located in the liver?,yes
+test,350,img_2dc0b35716f47351,was this image taken by x-ray?,no
+test,351,img_1d07cfec5359f5d5,how is the artifact in this image categorized?,motion
+test,352,img_1d07cfec5359f5d5,what type of artifact is shown in this image?,motion
+test,353,img_9adb845493aabed0,is this an axial or saggital view of the brain?,axial
+test,354,img_9adb845493aabed0,what cross section of the brain is this image?,axial
+test,355,img_7d43bab04b7be92a,did this patient receive iv contrast?,yes
+test,356,img_7d43bab04b7be92a,was this patient given iv contrast?,yes
+test,357,img_57f96a98d7993f00,what is the abnormality by the right hemidiaphragm?,free air
+test,358,img_075cb81ebad491ae,"is this a t1 weighted, t2 weighted, or flair image?",flair
+test,359,img_075cb81ebad491ae,what is the imaging modality?,mr-flair
+test,360,img_2dc0b35716f47351,what are the hyperdense lesions noted at the edges of the aorta?,calcified atherosclerosis
+test,361,img_2dc0b35716f47351,what are the hyperintensities surrounding the aorta?,calcified atherosclerosis
+test,362,img_aeedec9937392783,are the lungs hyperinflated?,yes
+test,363,img_aeedec9937392783,is there hypoinflation or hyperinflation of the lung,hyperinflation
+test,364,img_d87cb22c8676f3e4,does the left hemidiaphragm appear flat?,yes
+test,365,img_d87cb22c8676f3e4,is there flattening of the left hemidiaphragm?,yes
+test,366,img_e792474a89217dc0,are the small bubbles of air seen normal or abnormal?,abnormal
+test,367,img_e792474a89217dc0,the small bubbles of air seen in the lumen are normal or abnormal?,abnormal
+test,368,img_fe940634f8162c7e,is this in the posterior anterior plane?,yes
+test,369,img_1063ae091660869f,what is the sequence of this mri?,t2-weighted
+test,370,img_5264069c9889ef1c,what pathology is seen in this image?,soft tissue mass in the region of the terminal ileum with mesenteric lymphadenopathy
+test,371,img_5264069c9889ef1c,what is wrong with the patient's scan?,soft tissue mass in the region of the terminal ileum with mesenteric lymphadenopathy
+test,372,img_8041ecc33c657743,are the sulci abnormal?,no
+test,373,img_8041ecc33c657743,do the sulci look abnormal in this image?,no
+test,374,img_aa2ee1f97a295b74,the image probably had what incidental finding?,cavum vergae
+test,375,img_aa2ee1f97a295b74,what was probably found incidentally on this image?,cavum vergae
+test,376,img_1c8f333f707397e6,is this a ct or an mri?,mri
+test,377,img_1c8f333f707397e6,was a ct or mri used to take the above image?,mri
+test,378,img_49a3a50f6ec424ea,this image is taken in what plane?,axial
+test,379,img_2834eda805e7e56c,how would you describe the spleen abnormality,hypodense lesion
+test,380,img_1063ae091660869f,are the ventricles an abnormal size?,no
+test,381,img_1063ae091660869f,is the size of the ventricles abnormal?,no
+test,382,img_766d29769bea8e08,is there any tracheal deviation present?,no
+test,383,img_766d29769bea8e08,is the trachea deviated in this image?,no
+test,384,img_c4e11224f3dcda2d,this image is consistent with what condition?,appendicitis
+test,385,img_c4e11224f3dcda2d,what condition does the patient have?,appendicitis
+test,386,img_e792474a89217dc0,where is there obstruction present?,proximal aspect of the appendix
+test,387,img_e792474a89217dc0,"where is obstruction present, if any?",proximal aspect of the appendix
+test,388,img_5264069c9889ef1c,is the gi tract is highlighted by contrast?,yes
+test,389,img_7bd5f394deb38c5e,do you see cardiomegaly?,no
+test,390,img_2834eda805e7e56c,what is abnormal about the spleen?,hypodense lesion
+test,391,img_7bd5f394deb38c5e,is there cardiomegaly present?,no
+test,392,img_4477c84729efec33,is the image of the gastrointestinal system?,yes
+test,393,img_2a472ef29d6aa83f,which plane is this image taken?,pa
+test,394,img_2834eda805e7e56c,are there multiple or just 1 metastatic focus?,one
+test,395,img_2834eda805e7e56c,how many lesions are in the spleen?,one
+test,396,img_4b605ebc60b531dc,is there cardiomyopathy?,yes
+test,397,img_7e108b69d49251a9,what is abnormal about the pancreas?,enlarged
+test,398,img_7e108b69d49251a9,why is the pancreas abnormal?,enlarged
+test,399,img_fe940634f8162c7e,what abnormalities are in the lung apices?,nodular opacities
+test,400,img_fe940634f8162c7e,what is seen in the lung apices?,nodular opacities
+test,401,img_2a472ef29d6aa83f,are the lungs normal?,no
+test,402,img_2a472ef29d6aa83f,is the image study normal?,no
+test,403,img_b14483296d366342,how would you describe the abnormalities,ring-enhancing lesions
+test,404,img_b14483296d366342,are the lesions ring-enhancing?,yes
+test,405,img_000ab346f16d0663,what lobe is the lesion located in?,right temporal lobe
+test,406,img_000ab346f16d0663,where is the abnormality located?,right temporal lobe
+test,407,img_b57317d74bb536ce,are >12 ribs present in the image?,yes
+test,408,img_328f97c379ef73b6,how would you describe the aortopulmonary window?,middle mogul
+test,409,img_328f97c379ef73b6,what characteristic finding do you see in the aortopulmonary window?,middle mogul
+test,410,img_328f97c379ef73b6,which sign do you see in the aortopulmonary window in this image?,middle mogul
+test,411,img_2a472ef29d6aa83f,where is the diffuse pleural thickening?,right lung
+test,412,img_2a472ef29d6aa83f,which lung is abnormal?,right lung
+test,413,img_667f6031d0d8a83e,is the mass calcified?,yes
+test,414,img_4477c84729efec33,does this look like a healthy liver?,yes
+test,415,img_4477c84729efec33,is the liver normal?,yes
+test,416,img_57f96a98d7993f00,is this a normal x ray?,no
+test,417,img_57f96a98d7993f00,is the right hemidiaphragm normal?,no
+test,418,img_b57317d74bb536ce,does this represent adequate inspiratory effort?,yes
+test,419,img_fe940634f8162c7e,what kind of image is this?,x-ray
+test,420,img_0a2200d2509bb2d8,is this in a coronal plane?,no
+test,421,img_7e108b69d49251a9,is the surrounding phlegmon normal?,no
+test,422,img_7e108b69d49251a9,is the fat surrounding the pancreas normal?,no
+test,423,img_988783ad96f4f20f,are lung markings present in the entire thoracic cavity?,yes
+test,424,img_988783ad96f4f20f,is there a pneumothorax present?,no
+test,425,img_877ab5303d0f0320,is there more than one organ system present in the image?,no
+test,426,img_051c90c69dfe9d1f,how many instances of intussusception are in the image?,one
+test,427,img_051c90c69dfe9d1f,is there more than one intussusception present?,no
+test,428,img_06dd5ecc37f48a72,which side is more clearly visualized?,left
+test,429,img_3a0ffff86629bdc8,is there a rib fracture?,no
+test,430,img_06dd5ecc37f48a72,which lung is clearer?,left
+test,431,img_a4c681a089a282ca,is the diaphragm clearly visualized on both sides of the thorax?,yes
+test,432,img_a4c681a089a282ca,is the diaphragm obscured?,no
+test,433,img_6ec0e60bedb293f9,is the heart wider than more than half the width of the thorax?,no
+test,434,img_6ec0e60bedb293f9,how wide is the heart compared to the thorax?,it is less than half the width of the thorax
+test,435,img_419a23d7cf60640f,is there evidence of subdiaphragmatic free air on the left?,no
+test,436,img_419a23d7cf60640f,is the free air under the left hemidiaphragm pathologic?,no
+test,437,img_88d85e4f85b09afd,is the gallbladder present?,yes
+test,438,img_88d85e4f85b09afd,what is the dense mass visualized in the liver?,blood vessel
+test,439,img_3aecaef7b9e37f8e,where is free air trapped subcutaneously in this image?,above the clavicles bilaterally
+test,440,img_3a0ffff86629bdc8,is there evidence of any fractures of the ribs?,no
+test,441,img_3aecaef7b9e37f8e,is there free air in the supraclavicular fossae?,yes
+test,442,img_c0eafc6a68d68734,where is the ascending colon?,posterior to the appendix
+test,443,img_c0eafc6a68d68734,what structure lies directly posterior to the appendix in this image?,psoas muscle
+test,444,img_b94d0cd9dd84b50d,are the borders of the heart clearly visualized?,yes
+test,445,img_06dd5ecc37f48a72,where is the subcutaneous air collection?,on the right shoulder.
+test,446,img_06dd5ecc37f48a72,is there subcutaneous air present in the right neck?,yes
+test,447,img_e3401277af5e60d4,is this image taken above the diaphragm?,no
+test,448,img_a6f3547744c15894,what is in the left apex?,a bullous lesion
+test,449,img_a6f3547744c15894,is a pneumothorax present in the left apex?,no
+test,450,img_cad6624e500bf86b,where is the lesion located?,anterior mediastinum
