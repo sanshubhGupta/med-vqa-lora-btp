@@ -1,0 +1,9 @@
+{
+  "judge_model": "microsoft/Phi-4-mini-instruct",
+  "revision": "cfbefacb99257ffa30c83adab238a50856ac3083",
+  "dtype": "torch.float16",
+  "system": "You grade short answers to questions about medical images. You compare a model answer with a reference answer. You do not see the image.",
+  "template": "Question: {q}\nReference answer: {g}\nModel answer: {a}\n\nGrade the model answer against the reference answer.\nCORRECT: same meaning as the reference. Synonyms, abbreviations (CT = computed tomography), singular/plural, word order and harmless extra words are fine. If the reference lists several items, all of them must be present and no wrong item added.\nPARTIAL: some but not all of the reference items, or a less specific answer (for example 'left lung' when the reference is 'upper left lung').\nINCORRECT: a different answer, a wrong item, a contradiction, or no answer.\nReply with exactly one word: CORRECT, PARTIAL or INCORRECT.",
+  "calibration_hits": 11,
+  "date": "2026-11-20"
+}
