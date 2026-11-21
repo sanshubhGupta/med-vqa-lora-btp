@@ -1,0 +1,9 @@
+{
+  "judge_model": "Qwen/Qwen2.5-7B-Instruct",
+  "revision": "a09a35458c702b33eeacc393d103063234e8bc28",
+  "dtype": "torch.float16",
+  "system": "You grade short answers to questions about medical images. You compare a model answer with a reference answer. You do not see the image.",
+  "template": "Question: {q}\nReference answer: {g}\nModel answer: {a}\n\nGrade the model answer against the reference answer.\nCORRECT: same meaning as the reference. Synonyms, abbreviations (CT = computed tomography), singular/plural, word order and harmless extra words are fine. If the reference lists several items, all of them must be present and no wrong item added.\nPARTIAL: some but not all of the reference items, or a less specific answer (for example 'left lung' when the reference is 'upper left lung').\nINCORRECT: a different answer, a wrong item, a contradiction, or no answer.\nBe strict. A different colour, side, direction, count, size, shape, organ or disease is INCORRECT even if related (black vs grey, upper vs lower, much vs none). A broader or narrower term (\"lung\" for \"upper left lung\", \"brain\" for \"head\") is PARTIAL. If the reference lists several items and the model gives only some, it is PARTIAL; any wrong item makes it INCORRECT.\nReply with exactly one word: CORRECT, PARTIAL or INCORRECT.",
+  "calibration_hits": 15,
+  "date": "2026-11-21"
+}
