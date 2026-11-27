@@ -1,0 +1,54 @@
+{
+ "created": "2026-11-27",
+ "model": "P(correct) = answer effect (ridge-shrunk to content-type mean, lambda=2) + exposure-bin effect; fitted on open questions of the 8 SLAKE test-set runs; leave-one-run-out MAE on test = 0.010",
+ "bin_effects": {
+  "0": -0.4704,
+  "1": -0.3708,
+  "2-4": -0.2558,
+  "5-19": -0.1005,
+  "20+": -0.0362
+ },
+ "predictions": {
+  "img5_s42": {
+   "exposure_model_open_acc": 0.565,
+   "coverage_rule_open_acc": 0.533,
+   "val_open_coverage": 0.772
+  },
+  "img10_s42": {
+   "exposure_model_open_acc": 0.62,
+   "coverage_rule_open_acc": 0.576,
+   "val_open_coverage": 0.835
+  },
+  "img25_s42": {
+   "exposure_model_open_acc": 0.674,
+   "coverage_rule_open_acc": 0.656,
+   "val_open_coverage": 0.951
+  },
+  "img50_s42": {
+   "exposure_model_open_acc": 0.711,
+   "coverage_rule_open_acc": 0.675,
+   "val_open_coverage": 0.978
+  },
+  "covhigh10_s42": {
+   "exposure_model_open_acc": 0.615,
+   "coverage_rule_open_acc": 0.664,
+   "val_open_coverage": 0.962
+  },
+  "covhigh10_s123": {
+   "exposure_model_open_acc": 0.615,
+   "coverage_rule_open_acc": 0.664,
+   "val_open_coverage": 0.962
+  },
+  "covlow10_s42": {
+   "exposure_model_open_acc": 0.593,
+   "coverage_rule_open_acc": 0.454,
+   "val_open_coverage": 0.658
+  },
+  "covlow10_s123": {
+   "exposure_model_open_acc": 0.593,
+   "coverage_rule_open_acc": 0.454,
+   "val_open_coverage": 0.658
+  }
+ },
+ "predicted_gap_high_minus_low": 0.022
+}
